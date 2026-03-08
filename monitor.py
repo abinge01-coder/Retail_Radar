@@ -42,6 +42,7 @@ RETAILERS = {
 }
 
 SEEN_FILE = Path("data/seen_products.json")
+EMAIL_LOG_FILE = Path("data/email_log.json")
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -145,6 +146,38 @@ def save_seen(seen: dict):
     seen["last_run"] = datetime.now(timezone.utc).isoformat()
     with open(SEEN_FILE, "w") as f:
         json.dump(seen, f, indent=2, default=str)
+
+
+# ─── Email Log ──────────────────────────────────────────────────────────────
+
+def append_email_log(new_products: list[dict], stats: dict):
+    """Append a record to the email log after a successful send."""
+    log = {"emails": []}
+    if EMAIL_LOG_FILE.exists():
+        try:
+            with open(EMAIL_LOG_FILE, "r") as f:
+                log = json.load(f)
+        except (json.JSONDecodeError, IOError):
+            pass
+
+    by_retailer = {}
+    for p in new_products:
+        by_retailer.setdefault(p["retailer_name"], 0)
+        by_retailer[p["retailer_name"]] += 1
+
+    log["emails"].append({
+        "sent_at": datetime.now(timezone.utc).isoformat(),
+        "new_count": len(new_products),
+        "by_retailer": by_retailer,
+        "total_scanned": stats["total_scanned"],
+    })
+
+    # Keep last 50 entries
+    log["emails"] = log["emails"][-50:]
+
+    EMAIL_LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(EMAIL_LOG_FILE, "w") as f:
+        json.dump(log, f, indent=2)
 
 
 # ─── Email Notification ─────────────────────────────────────────────────────
@@ -329,7 +362,9 @@ def main():
         }
 
         # Send email notification
-        send_email(all_new, stats)
+        email_sent = send_email(all_new, stats)
+        if email_sent:
+            append_email_log(all_new, stats)
     else:
         print("No new items since last check.")
 
