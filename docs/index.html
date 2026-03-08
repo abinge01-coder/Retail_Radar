@@ -28,6 +28,7 @@
       min-height: 100vh;
     }
 
+    /* ── Layout ── */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
@@ -45,9 +46,12 @@
     .logo-icon { font-size: 22px; }
     .logo-text { font-size: 18px; font-weight: 700; color: var(--text); }
     .logo-sub { font-size: 12px; color: var(--muted); margin-top: 1px; }
+
     .header-right { display: flex; align-items: center; gap: 12px; }
+
     main { max-width: 1100px; margin: 0 auto; padding: 28px 20px; }
 
+    /* ── Token banner ── */
     #token-banner {
       background: linear-gradient(135deg, #1e1a40, #2a1a30);
       border: 1px solid #4a3a80;
@@ -65,15 +69,30 @@
     #token-banner p { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
     .token-input-row { display: flex; gap: 8px; }
     .token-input-row input {
-      flex: 1; background: rgba(0,0,0,0.3); border: 1px solid var(--border);
-      border-radius: 8px; padding: 8px 12px; color: var(--text); font-size: 13px; font-family: monospace;
+      flex: 1;
+      background: rgba(0,0,0,0.3);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      color: var(--text);
+      font-size: 13px;
+      font-family: monospace;
     }
     .token-input-row input:focus { outline: none; border-color: var(--accent); }
 
+    /* ── Buttons ── */
     .btn {
-      display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px;
-      border-radius: 8px; font-size: 13px; font-weight: 500; cursor: pointer;
-      border: none; transition: opacity 0.15s, transform 0.1s; text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: none;
+      transition: opacity 0.15s, transform 0.1s;
+      text-decoration: none;
     }
     .btn:active { transform: scale(0.97); }
     .btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
@@ -81,100 +100,225 @@
     .btn-primary:hover:not(:disabled) { opacity: 0.85; }
     .btn-success { background: var(--green); color: #0f1f15; }
     .btn-success:hover:not(:disabled) { opacity: 0.85; }
-    .btn-ghost { background: transparent; border: 1px solid var(--border); color: var(--text); }
+    .btn-danger { background: var(--red); color: #fff; }
+    .btn-danger:hover:not(:disabled) { opacity: 0.85; }
+    .btn-ghost {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
     .btn-ghost:hover:not(:disabled) { background: var(--surface2); }
     .btn-sm { padding: 5px 10px; font-size: 12px; }
 
+    /* ── Stats row ── */
     .stats-grid {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 14px; margin-bottom: 24px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+      margin-bottom: 24px;
     }
-    .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px 20px; }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px 20px;
+    }
     .stat-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px; }
     .stat-value { font-size: 26px; font-weight: 700; }
     .stat-sub { font-size: 11px; color: var(--muted); margin-top: 4px; }
 
+    /* ── Section ── */
     .section { margin-bottom: 28px; }
-    .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
     .section-title { font-size: 16px; font-weight: 600; }
-    .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
 
+    /* ── Cards ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    /* ── Runs table ── */
     .runs-table { width: 100%; border-collapse: collapse; }
     .runs-table th {
-      font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
-      padding: 10px 16px; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface2);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      padding: 10px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface2);
     }
     .runs-table td { padding: 12px 16px; border-bottom: 1px solid var(--border); font-size: 13px; }
     .runs-table tr:last-child td { border-bottom: none; }
     .runs-table tr:hover td { background: var(--surface2); }
 
-    .badge { display: inline-flex; align-items: center; gap: 4px; padding: 2px 8px; border-radius: 20px; font-size: 11px; font-weight: 600; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 8px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+    }
     .badge-success { background: rgba(62,207,142,0.15); color: var(--green); }
     .badge-failure { background: rgba(248,113,113,0.15); color: var(--red); }
     .badge-running { background: rgba(251,191,36,0.15); color: var(--yellow); }
     .badge-skipped { background: rgba(122,122,154,0.15); color: var(--muted); }
 
-    .retailers-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
-    .retailer-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; position: relative; }
+    /* ── Retailers ── */
+    .retailers-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 14px;
+    }
+    .retailer-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      position: relative;
+    }
     .retailer-header { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
     .retailer-emoji { font-size: 28px; }
     .retailer-name { font-size: 16px; font-weight: 600; }
     .retailer-url { font-size: 12px; color: var(--muted); }
     .retailer-stats { display: flex; gap: 20px; margin-bottom: 14px; }
+    .r-stat { }
     .r-stat-value { font-size: 20px; font-weight: 700; }
     .r-stat-label { font-size: 11px; color: var(--muted); }
     .retailer-actions { display: flex; gap: 8px; flex-wrap: wrap; }
     .retailer-remove {
-      position: absolute; top: 14px; right: 14px; background: none; border: none;
-      color: var(--muted); cursor: pointer; font-size: 16px; line-height: 1; padding: 2px;
-      border-radius: 4px; transition: color 0.15s;
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 16px;
+      line-height: 1;
+      padding: 2px;
+      border-radius: 4px;
+      transition: color 0.15s;
     }
     .retailer-remove:hover { color: var(--red); }
 
-    .schedule-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+    /* ── Schedule editor ── */
+    .schedule-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
     .schedule-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
     .schedule-row label { font-size: 13px; color: var(--muted); min-width: 80px; }
     .cron-input {
-      background: var(--surface2); border: 1px solid var(--border); border-radius: 8px;
-      padding: 8px 12px; color: var(--text); font-size: 14px; font-family: monospace; width: 200px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      color: var(--text);
+      font-size: 14px;
+      font-family: monospace;
+      width: 200px;
     }
     .cron-input:focus { outline: none; border-color: var(--accent); }
     .cron-human { font-size: 13px; color: var(--green); }
     .schedule-presets { display: flex; gap: 8px; flex-wrap: wrap; }
     .preset-btn {
-      background: var(--surface2); border: 1px solid var(--border); border-radius: 6px;
-      padding: 5px 12px; font-size: 12px; color: var(--text); cursor: pointer; transition: border-color 0.15s;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 5px 12px;
+      font-size: 12px;
+      color: var(--text);
+      cursor: pointer;
+      transition: border-color 0.15s;
     }
     .preset-btn:hover { border-color: var(--accent); }
 
+    /* ── Add retailer form ── */
+    .add-form {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
     .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
     .form-field label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
     .form-field input, .form-field select {
-      width: 100%; background: var(--surface2); border: 1px solid var(--border);
-      border-radius: 8px; padding: 8px 12px; color: var(--text); font-size: 13px;
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      color: var(--text);
+      font-size: 13px;
     }
-    .form-field input:focus { outline: none; border-color: var(--accent); }
+    .form-field input:focus, .form-field select:focus { outline: none; border-color: var(--accent); }
     .form-field.full { grid-column: 1 / -1; }
 
+    /* ── Products ── */
     .product-filters { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
     .filter-btn {
-      background: var(--surface2); border: 1px solid var(--border); border-radius: 20px;
-      padding: 5px 14px; font-size: 12px; color: var(--muted); cursor: pointer; transition: all 0.15s;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 5px 14px;
+      font-size: 12px;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.15s;
     }
     .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
     .search-input {
-      background: var(--surface2); border: 1px solid var(--border); border-radius: 8px;
-      padding: 6px 12px; color: var(--text); font-size: 13px; width: 200px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 12px;
+      color: var(--text);
+      font-size: 13px;
+      width: 200px;
     }
     .search-input:focus { outline: none; border-color: var(--accent); }
 
-    .products-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
-    .product-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; transition: border-color 0.15s; }
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 12px;
+    }
+    .product-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      transition: border-color 0.15s;
+    }
     .product-card:hover { border-color: var(--accent); }
-    .product-img { width: 100%; aspect-ratio: 1; object-fit: cover; background: var(--surface2); }
+    .product-img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+      background: var(--surface2);
+    }
     .product-img-placeholder {
-      width: 100%; aspect-ratio: 1; background: var(--surface2);
-      display: flex; align-items: center; justify-content: center; font-size: 36px;
+      width: 100%;
+      aspect-ratio: 1;
+      background: var(--surface2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
     }
     .product-info { padding: 12px; }
     .product-retailer { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
@@ -183,48 +327,102 @@
     .product-date { font-size: 10px; color: var(--muted); margin-top: 4px; }
 
     .pagination { display: flex; align-items: center; justify-content: center; gap: 8px; margin-top: 16px; }
-    .page-btn { background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; padding: 5px 12px; font-size: 12px; color: var(--text); cursor: pointer; }
+    .page-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 5px 12px;
+      font-size: 12px;
+      color: var(--text);
+      cursor: pointer;
+    }
     .page-btn.active { background: var(--accent); border-color: var(--accent); }
     .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
+    /* ── Spinner ── */
     .spinner {
-      display: inline-block; width: 14px; height: 14px;
-      border: 2px solid rgba(255,255,255,0.3); border-top-color: #fff;
-      border-radius: 50%; animation: spin 0.7s linear infinite; vertical-align: middle;
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border: 2px solid rgba(255,255,255,0.3);
+      border-top-color: #fff;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      vertical-align: middle;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    #toast-container { position: fixed; bottom: 24px; right: 24px; display: flex; flex-direction: column; gap: 8px; z-index: 999; }
+    /* ── Toast ── */
+    #toast-container {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      z-index: 999;
+    }
     .toast {
-      background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
-      padding: 12px 16px; font-size: 13px; max-width: 320px;
-      animation: slideIn 0.2s ease; box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 13px;
+      max-width: 320px;
+      animation: slideIn 0.2s ease;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
     }
     .toast.success { border-color: var(--green); }
     .toast.error { border-color: var(--red); }
     @keyframes slideIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 
+    /* ── Modal ── */
     .modal-overlay {
-      position: fixed; inset: 0; background: rgba(0,0,0,0.6);
-      display: flex; align-items: center; justify-content: center; z-index: 200; padding: 20px;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.6);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 200;
+      padding: 20px;
     }
     .modal-overlay.hidden { display: none; }
-    .modal { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 28px; max-width: 480px; width: 100%; max-height: 80vh; overflow-y: auto; }
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 28px;
+      max-width: 480px;
+      width: 100%;
+      max-height: 80vh;
+      overflow-y: auto;
+    }
     .modal h2 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
     .modal p { font-size: 13px; color: var(--muted); margin-bottom: 20px; }
     .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 20px; }
 
-    .empty { text-align: center; padding: 48px 20px; color: var(--muted); }
+    /* ── Empty state ── */
+    .empty {
+      text-align: center;
+      padding: 48px 20px;
+      color: var(--muted);
+    }
     .empty-icon { font-size: 40px; margin-bottom: 12px; }
     .empty h3 { font-size: 15px; color: var(--text); margin-bottom: 6px; }
     .empty p { font-size: 13px; }
 
+    /* ── Loading skeleton ── */
     .skeleton {
       background: linear-gradient(90deg, var(--surface2) 25%, var(--border) 50%, var(--surface2) 75%);
-      background-size: 200% 100%; animation: shimmer 1.4s infinite; border-radius: 6px; height: 14px;
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+      border-radius: 6px;
+      height: 14px;
     }
     @keyframes shimmer { to { background-position: -200% 0; } }
 
+    /* ── Responsive ── */
     @media (max-width: 600px) {
       .form-grid { grid-template-columns: 1fr; }
       .stats-grid { grid-template-columns: 1fr 1fr; }
@@ -244,17 +442,20 @@
   </div>
   <div class="header-right">
     <span id="last-run-header" style="font-size:12px;color:var(--muted);"></span>
-    <button class="btn btn-success" id="run-now-btn" onclick="triggerRun()">▶ Run Now</button>
+    <button class="btn btn-success" id="run-now-btn" onclick="triggerRun()">
+      ▶ Run Now
+    </button>
   </div>
 </header>
 
 <main>
 
+  <!-- Token banner -->
   <div id="token-banner">
     <div class="banner-icon">🔑</div>
     <div class="banner-body">
       <h3>GitHub Token Required</h3>
-      <p>Enter a GitHub personal access token (classic) with repo + workflow scopes to enable run history and manual triggers. Token is stored in your browser only.</p>
+      <p>Enter a GitHub personal access token (classic) with <code>repo</code> + <code>workflow</code> scopes to enable run history and manual triggers. Token is stored in your browser only.</p>
       <div class="token-input-row">
         <input type="password" id="token-input" placeholder="ghp_..." autocomplete="off" />
         <button class="btn btn-primary" onclick="saveToken()">Save Token</button>
@@ -263,6 +464,7 @@
     </div>
   </div>
 
+  <!-- Stats -->
   <div class="stats-grid">
     <div class="stat-card">
       <div class="stat-label">Total Tracked</div>
@@ -286,6 +488,7 @@
     </div>
   </div>
 
+  <!-- Run History -->
   <div class="section" id="runs-section">
     <div class="section-header">
       <div class="section-title">Recent Runs</div>
@@ -302,14 +505,35 @@
     </div>
   </div>
 
+  <!-- Email Log -->
+  <div class="section" id="email-log-section">
+    <div class="section-header">
+      <div class="section-title">Email Log</div>
+      <button class="btn btn-ghost btn-sm" onclick="loadEmailLog()">↻ Refresh</button>
+    </div>
+    <div class="card">
+      <div id="email-log-content">
+        <div style="padding:20px;">
+          <div class="skeleton" style="width:60%;margin-bottom:8px;"></div>
+          <div class="skeleton" style="width:80%;margin-bottom:8px;"></div>
+          <div class="skeleton" style="width:40%;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Retailers -->
   <div class="section">
     <div class="section-header">
       <div class="section-title">Monitored Retailers</div>
       <button class="btn btn-primary btn-sm" onclick="openAddRetailer()">+ Add Retailer</button>
     </div>
-    <div class="retailers-grid" id="retailers-grid"></div>
+    <div class="retailers-grid" id="retailers-grid">
+      <!-- filled by JS -->
+    </div>
   </div>
 
+  <!-- Schedule -->
   <div class="section">
     <div class="section-header">
       <div class="section-title">Schedule</div>
@@ -335,6 +559,7 @@
     </div>
   </div>
 
+  <!-- Products -->
   <div class="section">
     <div class="section-header">
       <div class="section-title">Product Catalog</div>
@@ -361,10 +586,11 @@
 
 </main>
 
+<!-- Add Retailer Modal -->
 <div class="modal-overlay hidden" id="add-retailer-modal">
   <div class="modal">
     <h2>Add Retailer</h2>
-    <p>Add a new Shopify-based retailer to monitor. The store must expose a public /collections/all/products.json endpoint.</p>
+    <p>Add a new Shopify-based retailer to monitor. The store must expose a public <code>/collections/all/products.json</code> endpoint.</p>
     <div class="form-grid">
       <div class="form-field">
         <label>Key (no spaces)</label>
@@ -394,15 +620,19 @@
   </div>
 </div>
 
+<!-- Toast container -->
 <div id="toast-container"></div>
 
 <script>
+// ── Config ──────────────────────────────────────────────────────────────────
 const OWNER = 'abinge01-coder';
 const REPO  = 'Retail_Radar';
 const WORKFLOW_FILE = 'scan.yml';
 const SEEN_FILE_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/seen_products.json`;
+const EMAIL_LOG_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/email_log.json`;
 const API = 'https://api.github.com';
 
+// ── State ───────────────────────────────────────────────────────────────────
 let ghToken = localStorage.getItem('rr_token') || '';
 let seenData = {};
 let allProducts = [];
@@ -417,14 +647,19 @@ let retailers = {
   evereve:      { name: 'Evereve',     base_url: 'https://evereve.com',     collections: ['/collections/all/products.json'], color: '#2d2d3f', emoji: '👗' },
 };
 
+// ── Init ────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
-  if (ghToken) document.getElementById('token-banner').classList.add('hidden');
+  if (ghToken) {
+    document.getElementById('token-banner').classList.add('hidden');
+  }
   loadSeenProducts();
   loadRuns();
+  loadEmailLog();
   renderRetailers();
   updateCronHuman();
 });
 
+// ── Token ───────────────────────────────────────────────────────────────────
 function saveToken() {
   ghToken = document.getElementById('token-input').value.trim();
   if (!ghToken) { toast('Please enter a token', 'error'); return; }
@@ -433,92 +668,157 @@ function saveToken() {
   toast('Token saved', 'success');
   loadRuns();
 }
-function skipToken() { document.getElementById('token-banner').classList.add('hidden'); }
+
+function skipToken() {
+  document.getElementById('token-banner').classList.add('hidden');
+}
+
 function apiHeaders() {
   const h = { 'Accept': 'application/vnd.github+json' };
   if (ghToken) h['Authorization'] = `Bearer ${ghToken}`;
   return h;
 }
 
+// ── Load seen products ───────────────────────────────────────────────────────
 async function loadSeenProducts() {
   try {
     const r = await fetch(SEEN_FILE_URL);
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     seenData = await r.json();
+
     const products = seenData.products || {};
     const lastRun = seenData.last_run;
+
+    // Build flat product array with retailer info
     allProducts = Object.entries(products).map(([id, p]) => {
       const retailerKey = id.split('_')[0];
       const retailer = retailers[retailerKey] || { name: retailerKey, emoji: '🛍️' };
       return { id, retailerKey, retailerName: retailer.name, emoji: retailer.emoji, ...p };
-    }).reverse();
+    }).reverse(); // newest first
+
     document.getElementById('stat-total').textContent = allProducts.length.toLocaleString();
     document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
+
     if (lastRun) {
       const d = new Date(lastRun);
       document.getElementById('stat-lastrun').textContent = formatRelative(d);
       document.getElementById('last-run-header').textContent = `Last run ${formatRelative(d)}`;
     }
+
     filteredProducts = [...allProducts];
     renderProducts();
     renderRetailerStats();
   } catch (e) {
+    console.error('Failed to load seen products:', e);
     document.getElementById('stat-total').textContent = '—';
     document.getElementById('products-grid').innerHTML = `<div class="empty"><div class="empty-icon">⚠️</div><h3>Could not load product data</h3><p>${e.message}</p></div>`;
   }
 }
 
+// ── Runs ────────────────────────────────────────────────────────────────────
 async function loadRuns() {
   const el = document.getElementById('runs-content');
-  el.innerHTML = '<div style="padding:20px;"><div class="skeleton" style="width:60%;margin-bottom:8px;"></div><div class="skeleton" style="width:80%;margin-bottom:8px;"></div><div class="skeleton" style="width:50%;"></div></div>';
+  el.innerHTML = `<div style="padding:20px;"><div class="skeleton" style="width:60%;margin-bottom:8px;"></div><div class="skeleton" style="width:80%;margin-bottom:8px;"></div><div class="skeleton" style="width:50%;"></div></div>`;
+
   try {
-    const r = await fetch(`${API}/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?per_page=10`, { headers: apiHeaders() });
+    const r = await fetch(`${API}/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?per_page=10`, {
+      headers: apiHeaders()
+    });
+
     if (r.status === 401 || r.status === 403) {
-      el.innerHTML = '<div class="empty"><div class="empty-icon">🔑</div><h3>Token required</h3><p>Add a GitHub token above to view run history.</p></div>';
+      el.innerHTML = `<div class="empty"><div class="empty-icon">🔑</div><h3>Token required</h3><p>Add a GitHub token above to view run history.</p></div>`;
       return;
     }
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
+
     const data = await r.json();
     const runs = data.workflow_runs || [];
+
     if (!runs.length) {
-      el.innerHTML = '<div class="empty"><div class="empty-icon">📭</div><h3>No runs yet</h3><p>Use "Run Now" to trigger it.</p></div>';
+      el.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><h3>No runs yet</h3><p>The workflow hasn't run yet. Use "Run Now" to trigger it.</p></div>`;
       return;
     }
+
+    // Update last run stat from Actions
     if (runs[0]) {
       const d = new Date(runs[0].created_at);
       document.getElementById('stat-lastrun').textContent = formatRelative(d);
       document.getElementById('last-run-header').textContent = `Last run ${formatRelative(d)}`;
       document.getElementById('stat-lastrun-status').textContent = runs[0].conclusion || runs[0].status;
     }
-    el.innerHTML = `<table class="runs-table"><thead><tr><th>Status</th><th>Run</th><th>Trigger</th><th>Started</th><th>Duration</th><th></th></tr></thead><tbody>${runs.map(run => {
-      const status = run.conclusion || run.status;
-      const bc = status === 'success' ? 'badge-success' : status === 'failure' ? 'badge-failure' : status === 'in_progress' ? 'badge-running' : 'badge-skipped';
-      const icon = status === 'success' ? '✓' : status === 'failure' ? '✕' : status === 'in_progress' ? '⟳' : '○';
-      const started = new Date(run.created_at);
-      const dur = run.updated_at ? durationStr(started, new Date(run.updated_at)) : '—';
-      const trig = run.event === 'schedule' ? '⏱ Scheduled' : run.event === 'workflow_dispatch' ? '👆 Manual' : run.event;
-      return `<tr><td><span class="badge ${bc}">${icon} ${status}</span></td><td style="color:var(--muted);font-family:monospace;font-size:12px;">#${run.run_number}</td><td>${trig}</td><td>${formatRelative(started)}</td><td style="color:var(--muted);">${dur}</td><td><a href="${run.html_url}" target="_blank" class="btn btn-ghost btn-sm">Logs →</a></td></tr>`;
-    }).join('')}</tbody></table>`;
+
+    el.innerHTML = `
+      <table class="runs-table">
+        <thead>
+          <tr>
+            <th>Status</th>
+            <th>Run</th>
+            <th>Trigger</th>
+            <th>Started</th>
+            <th>Duration</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          ${runs.map(run => {
+            const status = run.conclusion || run.status;
+            const badgeClass = status === 'success' ? 'badge-success' : status === 'failure' ? 'badge-failure' : status === 'in_progress' ? 'badge-running' : 'badge-skipped';
+            const icon = status === 'success' ? '✓' : status === 'failure' ? '✕' : status === 'in_progress' ? '⟳' : '○';
+            const started = new Date(run.created_at);
+            const duration = run.updated_at ? durationStr(started, new Date(run.updated_at)) : '—';
+            const trigger = run.event === 'schedule' ? '⏱ Scheduled' : run.event === 'workflow_dispatch' ? '👆 Manual' : run.event;
+            return `
+              <tr>
+                <td><span class="badge ${badgeClass}">${icon} ${status}</span></td>
+                <td style="color:var(--muted);font-family:monospace;font-size:12px;">#${run.run_number}</td>
+                <td>${trigger}</td>
+                <td>${formatRelative(started)}</td>
+                <td style="color:var(--muted);">${duration}</td>
+                <td><a href="${run.html_url}" target="_blank" class="btn btn-ghost btn-sm">Logs →</a></td>
+              </tr>`;
+          }).join('')}
+        </tbody>
+      </table>`;
   } catch (e) {
     el.innerHTML = `<div class="empty"><div class="empty-icon">⚠️</div><h3>Could not load runs</h3><p>${e.message}</p></div>`;
   }
 }
 
+// ── Trigger run ──────────────────────────────────────────────────────────────
 async function triggerRun() {
-  if (!ghToken) { toast('A GitHub token is required to trigger runs.', 'error'); document.getElementById('token-banner').classList.remove('hidden'); return; }
+  if (!ghToken) {
+    toast('A GitHub token is required to trigger runs.', 'error');
+    document.getElementById('token-banner').classList.remove('hidden');
+    return;
+  }
   const btn = document.getElementById('run-now-btn');
-  btn.disabled = true; btn.innerHTML = '<span class="spinner"></span> Triggering…';
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span> Triggering…';
+
   try {
     const r = await fetch(`${API}/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`, {
-      method: 'POST', headers: { ...apiHeaders(), 'Content-Type': 'application/json' }, body: JSON.stringify({ ref: 'main' }),
+      method: 'POST',
+      headers: { ...apiHeaders(), 'Content-Type': 'application/json' },
+      body: JSON.stringify({ ref: 'main' }),
     });
-    if (r.status === 204) { toast('✅ Run triggered!', 'success'); setTimeout(() => loadRuns(), 3000); }
-    else if (r.status === 403) toast('Token needs "workflow" scope.', 'error');
-    else throw new Error(`HTTP ${r.status}`);
-  } catch (e) { toast(`Failed: ${e.message}`, 'error'); }
-  finally { btn.disabled = false; btn.innerHTML = '▶ Run Now'; }
+
+    if (r.status === 204) {
+      toast('✅ Run triggered! It will appear in the history shortly.', 'success');
+      setTimeout(() => loadRuns(), 3000);
+    } else if (r.status === 403) {
+      toast('Token needs "workflow" scope to trigger runs.', 'error');
+    } else {
+      throw new Error(`HTTP ${r.status}`);
+    }
+  } catch (e) {
+    toast(`Failed to trigger run: ${e.message}`, 'error');
+  } finally {
+    btn.disabled = false;
+    btn.innerHTML = '▶ Run Now';
+  }
 }
 
+// ── Schedule ─────────────────────────────────────────────────────────────────
 function updateCronHuman() {
   const cron = document.getElementById('cron-input').value;
   const human = cronToHuman(cron);
@@ -526,49 +826,99 @@ function updateCronHuman() {
   document.getElementById('stat-schedule').textContent = human;
   document.getElementById('stat-cron').textContent = `cron: ${cron}`;
 }
-function setCron(val) { document.getElementById('cron-input').value = val; updateCronHuman(); }
+
+function setCron(val) {
+  document.getElementById('cron-input').value = val;
+  updateCronHuman();
+}
 
 async function saveSchedule() {
-  if (!ghToken) { toast('A GitHub token is required.', 'error'); document.getElementById('token-banner').classList.remove('hidden'); return; }
+  if (!ghToken) {
+    toast('A GitHub token is required to update the schedule.', 'error');
+    document.getElementById('token-banner').classList.remove('hidden');
+    return;
+  }
   const cron = document.getElementById('cron-input').value.trim();
   if (!cron) { toast('Please enter a cron expression', 'error'); return; }
+
   const savingEl = document.getElementById('schedule-saving');
   savingEl.style.display = 'inline';
+
   try {
-    const fileRes = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/.github/workflows/${WORKFLOW_FILE}`, { headers: apiHeaders() });
-    if (!fileRes.ok) throw new Error(`HTTP ${fileRes.status}`);
+    // Get current file SHA
+    const fileRes = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/.github/workflows/${WORKFLOW_FILE}`, {
+      headers: apiHeaders()
+    });
+    if (!fileRes.ok) throw new Error(`Could not fetch workflow file: HTTP ${fileRes.status}`);
     const fileData = await fileRes.json();
     const sha = fileData.sha;
     const currentContent = atob(fileData.content.replace(/\n/g, ''));
+
+    // Replace cron line
     const newContent = currentContent.replace(/cron:\s*'[^']*'/, `cron: '${cron}'`);
-    if (newContent === currentContent) { toast('No change detected', 'error'); return; }
+    if (newContent === currentContent) {
+      toast('No change detected in cron expression', 'error');
+      return;
+    }
+
+    // Commit
     const updateRes = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/.github/workflows/${WORKFLOW_FILE}`, {
-      method: 'PUT', headers: { ...apiHeaders(), 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: `⏱ Update scan schedule to: ${cron}`, content: btoa(newContent), sha, branch: 'main' }),
+      method: 'PUT',
+      headers: { ...apiHeaders(), 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message: `⏱ Update scan schedule to: ${cron}`,
+        content: btoa(newContent),
+        sha,
+        branch: 'main',
+      }),
     });
-    if (updateRes.ok) toast('✅ Schedule updated on GitHub!', 'success');
-    else { const err = await updateRes.json(); throw new Error(err.message || `HTTP ${updateRes.status}`); }
-  } catch (e) { toast(`Failed: ${e.message}`, 'error'); }
-  finally { savingEl.style.display = 'none'; }
+
+    if (updateRes.ok) {
+      toast('✅ Schedule updated on GitHub!', 'success');
+    } else {
+      const err = await updateRes.json();
+      throw new Error(err.message || `HTTP ${updateRes.status}`);
+    }
+  } catch (e) {
+    toast(`Failed to save schedule: ${e.message}`, 'error');
+  } finally {
+    savingEl.style.display = 'none';
+  }
 }
 
+// ── Retailers ─────────────────────────────────────────────────────────────────
 function renderRetailers() {
   const grid = document.getElementById('retailers-grid');
   grid.innerHTML = Object.entries(retailers).map(([key, r]) => {
     const count = allProducts.filter(p => p.retailerKey === key).length;
-    return `<div class="retailer-card">
-      <button class="retailer-remove" onclick="removeRetailer('${key}')" title="Remove">×</button>
-      <div class="retailer-header"><div class="retailer-emoji">${r.emoji}</div><div><div class="retailer-name">${r.name}</div><div class="retailer-url">${r.base_url}</div></div></div>
-      <div class="retailer-stats">
-        <div class="r-stat"><div class="r-stat-value" id="r-count-${key}">${count || '—'}</div><div class="r-stat-label">products</div></div>
-        <div class="r-stat"><div class="r-stat-value">${r.collections.length}</div><div class="r-stat-label">endpoints</div></div>
-      </div>
-      <div class="retailer-actions">
-        <a href="${r.base_url}" target="_blank" class="btn btn-ghost btn-sm">Visit Site →</a>
-        <button class="btn btn-ghost btn-sm" onclick="filterProducts('${key}', null); document.querySelector('#products-grid').scrollIntoView({behavior:'smooth'})">View Products</button>
-      </div></div>`;
+    return `
+      <div class="retailer-card">
+        <button class="retailer-remove" onclick="removeRetailer('${key}')" title="Remove">×</button>
+        <div class="retailer-header">
+          <div class="retailer-emoji">${r.emoji}</div>
+          <div>
+            <div class="retailer-name">${r.name}</div>
+            <div class="retailer-url">${r.base_url}</div>
+          </div>
+        </div>
+        <div class="retailer-stats">
+          <div class="r-stat">
+            <div class="r-stat-value" id="r-count-${key}">${count || '—'}</div>
+            <div class="r-stat-label">products</div>
+          </div>
+          <div class="r-stat">
+            <div class="r-stat-value">${r.collections.length}</div>
+            <div class="r-stat-label">endpoints</div>
+          </div>
+        </div>
+        <div class="retailer-actions">
+          <a href="${r.base_url}" target="_blank" class="btn btn-ghost btn-sm">Visit Site →</a>
+          <button class="btn btn-ghost btn-sm" onclick="filterProducts('${key}', null); document.querySelector('#products-grid').scrollIntoView({behavior:'smooth'})">View Products</button>
+        </div>
+      </div>`;
   }).join('');
 }
+
 function renderRetailerStats() {
   Object.keys(retailers).forEach(key => {
     const el = document.getElementById(`r-count-${key}`);
@@ -576,40 +926,67 @@ function renderRetailerStats() {
   });
   document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
 }
+
 function removeRetailer(key) {
-  if (!confirm(`Remove ${retailers[key].name}? This only affects the dashboard view.`)) return;
-  delete retailers[key]; renderRetailers();
+  if (!confirm(`Remove ${retailers[key].name} from monitoring? This only affects the local dashboard view — you'll need to edit monitor.py to stop scraping it.`)) return;
+  delete retailers[key];
+  renderRetailers();
   document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
 }
-function openAddRetailer() { document.getElementById('add-retailer-modal').classList.remove('hidden'); }
-function closeAddRetailer() { document.getElementById('add-retailer-modal').classList.add('hidden'); }
+
+function openAddRetailer() {
+  document.getElementById('add-retailer-modal').classList.remove('hidden');
+}
+
+function closeAddRetailer() {
+  document.getElementById('add-retailer-modal').classList.add('hidden');
+}
+
 function addRetailer() {
-  const key = document.getElementById('new-key').value.trim().toLowerCase().replace(/\s+/g, '_');
-  const name = document.getElementById('new-name').value.trim();
-  const url = document.getElementById('new-url').value.trim().replace(/\/$/, '');
+  const key   = document.getElementById('new-key').value.trim().toLowerCase().replace(/\s+/g, '_');
+  const name  = document.getElementById('new-name').value.trim();
+  const url   = document.getElementById('new-url').value.trim().replace(/\/$/, '');
   const emoji = document.getElementById('new-emoji').value.trim() || '🛍️';
   const color = document.getElementById('new-color').value;
+
   if (!key || !name || !url) { toast('Please fill in all required fields', 'error'); return; }
-  if (retailers[key]) { toast('Key already exists', 'error'); return; }
+  if (retailers[key]) { toast('A retailer with that key already exists', 'error'); return; }
+
   retailers[key] = { name, base_url: url, collections: ['/collections/all/products.json'], color, emoji };
-  renderRetailers(); closeAddRetailer();
-  toast(`✅ ${name} added! Remember to also update monitor.py.`, 'success');
+  renderRetailers();
+  closeAddRetailer();
+  toast(`✅ ${name} added! Remember to also update monitor.py in your repo.`, 'success');
+
+  // Clear form
   ['new-key','new-name','new-url','new-emoji'].forEach(id => document.getElementById(id).value = '');
 }
 
+// ── Products ──────────────────────────────────────────────────────────────────
 function filterProducts(retailer, btn) {
-  activeRetailer = retailer; currentPage = 1;
+  activeRetailer = retailer;
+  currentPage = 1;
+
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
-  else { const t = document.querySelector(`.filter-btn[data-retailer="${retailer}"]`); if (t) t.classList.add('active'); }
+  else {
+    const target = document.querySelector(`.filter-btn[data-retailer="${retailer}"]`);
+    if (target) { document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active')); target.classList.add('active'); }
+  }
+
   applyFilters();
 }
-function searchProducts(q) { activeSearch = q.toLowerCase(); currentPage = 1; applyFilters(); }
+
+function searchProducts(q) {
+  activeSearch = q.toLowerCase();
+  currentPage = 1;
+  applyFilters();
+}
+
 function applyFilters() {
   filteredProducts = allProducts.filter(p => {
-    const matchR = activeRetailer === 'all' || p.retailerKey === activeRetailer;
-    const matchS = !activeSearch || p.title?.toLowerCase().includes(activeSearch);
-    return matchR && matchS;
+    const matchRetailer = activeRetailer === 'all' || p.retailerKey === activeRetailer;
+    const matchSearch = !activeSearch || p.title?.toLowerCase().includes(activeSearch);
+    return matchRetailer && matchSearch;
   });
   renderProducts();
 }
@@ -618,12 +995,16 @@ function renderProducts() {
   const grid = document.getElementById('products-grid');
   const total = filteredProducts.length;
   document.getElementById('product-count').textContent = `${total.toLocaleString()} products`;
+
   const start = (currentPage - 1) * PAGE_SIZE;
   const page = filteredProducts.slice(start, start + PAGE_SIZE);
+
   if (!page.length) {
-    grid.innerHTML = '<div class="empty" style="grid-column:1/-1"><div class="empty-icon">🔍</div><h3>No products found</h3><p>Try a different filter.</p></div>';
-    document.getElementById('pagination').innerHTML = ''; return;
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1"><div class="empty-icon">🔍</div><h3>No products found</h3><p>Try a different filter or search term.</p></div>`;
+    document.getElementById('pagination').innerHTML = '';
+    return;
   }
+
   grid.innerHTML = page.map(p => {
     const retailer = retailers[p.retailerKey] || { emoji: '🛍️', name: p.retailerKey };
     const price = p.price ? `$${Number(p.price).toFixed(0)}` : '';
@@ -631,54 +1012,145 @@ function renderProducts() {
     const imgHtml = p.image_url
       ? `<img class="product-img" src="${escHtml(p.image_url)}" alt="${escHtml(p.title)}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" /><div class="product-img-placeholder" style="display:none">${retailer.emoji}</div>`
       : `<div class="product-img-placeholder">${retailer.emoji}</div>`;
-    return `<a class="product-card" href="${escHtml(p.url||'#')}" target="_blank" style="text-decoration:none;color:inherit;">${imgHtml}<div class="product-info"><div class="product-retailer">${escHtml(retailer.name)}</div><div class="product-title">${escHtml(p.title||'Unknown')}</div>${price?'<div class="product-price">'+price+'</div>':''}${date?'<div class="product-date">First seen '+date+'</div>':''}</div></a>`;
+    const link = p.url || '#';
+    return `
+      <a class="product-card" href="${escHtml(link)}" target="_blank" style="text-decoration:none;color:inherit;">
+        ${imgHtml}
+        <div class="product-info">
+          <div class="product-retailer">${escHtml(retailer.name)}</div>
+          <div class="product-title">${escHtml(p.title || 'Unknown')}</div>
+          ${price ? `<div class="product-price">${price}</div>` : ''}
+          ${date ? `<div class="product-date">First seen ${date}</div>` : ''}
+        </div>
+      </a>`;
   }).join('');
+
+  // Pagination
   const totalPages = Math.ceil(total / PAGE_SIZE);
   const pag = document.getElementById('pagination');
   if (totalPages <= 1) { pag.innerHTML = ''; return; }
+
   let pages = '';
   for (let i = 1; i <= totalPages; i++) {
-    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) pages += `<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
-    else if (Math.abs(i - currentPage) === 3) pages += '<span style="color:var(--muted)">…</span>';
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+      pages += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goPage(${i})">${i}</button>`;
+    } else if (Math.abs(i - currentPage) === 3) {
+      pages += `<span style="color:var(--muted)">…</span>`;
+    }
   }
-  pag.innerHTML = `<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage===1?'disabled':''}>← Prev</button>${pages}<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage===totalPages?'disabled':''}>Next →</button>`;
+  pag.innerHTML = `
+    <button class="page-btn" onclick="goPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>← Prev</button>
+    ${pages}
+    <button class="page-btn" onclick="goPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next →</button>`;
 }
-function goPage(n) { currentPage = n; renderProducts(); document.getElementById('products-container').scrollIntoView({behavior:'smooth'}); }
 
+function goPage(n) {
+  currentPage = n;
+  renderProducts();
+  document.getElementById('products-container').scrollIntoView({ behavior: 'smooth' });
+}
+
+// ── Email Log ─────────────────────────────────────────────────────────────────
+async function loadEmailLog() {
+  const el = document.getElementById('email-log-content');
+  try {
+    const r = await fetch(EMAIL_LOG_URL + '?t=' + Date.now());
+    if (r.status === 404) {
+      el.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><h3>No emails sent yet</h3><p>Email logs will appear here after the first successful notification.</p></div>`;
+      return;
+    }
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+    const emails = (data.emails || []).slice().reverse(); // newest first
+
+    if (!emails.length) {
+      el.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><h3>No emails sent yet</h3><p>Email logs will appear here after the first successful notification.</p></div>`;
+      return;
+    }
+
+    el.innerHTML = `
+      <table class="runs-table">
+        <thead>
+          <tr>
+            <th>Sent</th>
+            <th>New Items</th>
+            <th>Breakdown</th>
+            <th>Total Scanned</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${emails.map(e => {
+            const date = new Date(e.sent_at);
+            const breakdown = Object.entries(e.by_retailer || {})
+              .map(([name, count]) => `${name}: ${count}`)
+              .join(' · ');
+            return `
+              <tr>
+                <td>
+                  <div style="font-weight:500;">${date.toLocaleDateString('en-US', {month:'short',day:'numeric',year:'numeric'})}</div>
+                  <div style="font-size:11px;color:var(--muted);">${date.toLocaleTimeString('en-US', {hour:'2-digit',minute:'2-digit',timeZoneName:'short'})}</div>
+                </td>
+                <td><span class="badge badge-success">✉ ${e.new_count} item${e.new_count !== 1 ? 's' : ''}</span></td>
+                <td style="color:var(--muted);font-size:12px;">${escHtml(breakdown)}</td>
+                <td style="color:var(--muted);font-size:12px;">${(e.total_scanned || 0).toLocaleString()} products</td>
+              </tr>`;
+          }).join('')}
+        </tbody>
+      </table>`;
+  } catch (e) {
+    el.innerHTML = `<div class="empty"><div class="empty-icon">⚠️</div><h3>Could not load email log</h3><p>${e.message}</p></div>`;
+  }
+}
+
+// ── Helpers ─────────────────────────────────────────────────────────────────
 function formatRelative(date) {
   const diff = (Date.now() - date) / 1000;
   if (diff < 60) return 'just now';
-  if (diff < 3600) return `${Math.floor(diff/60)}m ago`;
-  if (diff < 86400) return `${Math.floor(diff/3600)}h ago`;
-  if (diff < 7*86400) return `${Math.floor(diff/86400)}d ago`;
-  return date.toLocaleDateString('en-US', {month:'short', day:'numeric'});
+  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+  if (diff < 7 * 86400) return `${Math.floor(diff / 86400)}d ago`;
+  return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 }
+
 function durationStr(start, end) {
   const s = Math.floor((end - start) / 1000);
-  return s < 60 ? `${s}s` : `${Math.floor(s/60)}m ${s%60}s`;
+  if (s < 60) return `${s}s`;
+  return `${Math.floor(s / 60)}m ${s % 60}s`;
 }
+
 function cronToHuman(cron) {
   const parts = cron.trim().split(/\s+/);
   if (parts.length !== 5) return 'Custom schedule';
   const [min, hour, dom, month, dow] = parts;
-  const dowNames = {'0':'Sun','1':'Mon','2':'Tue','3':'Wed','4':'Thu','5':'Fri','6':'Sat'};
+
+  const dowNames = { '0':'Sun','1':'Mon','2':'Tue','3':'Wed','4':'Thu','5':'Fri','6':'Sat' };
+  const timeStr = (hour !== '*' && min !== '*') ? `${hour.padStart(2,'0')}:${min.padStart(2,'0')} UTC` : null;
+
   if (dom === '*' && month === '*') {
-    if (dow === '*') return hour !== '*' ? `Every day at ${formatTime(hour,min)}` : 'Every day';
-    if (dow === '1-5') return `Weekdays at ${formatTime(hour,min)}`;
-    if (dow === '1') return `Every Monday at ${formatTime(hour,min)}`;
-    if (/^\d$/.test(dow)) return `Every ${dowNames[dow]} at ${formatTime(hour,min)}`;
+    if (dow === '*') return timeStr ? `Every day at ${formatTime(hour, min)}` : 'Every day';
+    if (dow === '1-5') return timeStr ? `Weekdays at ${formatTime(hour, min)}` : 'Weekdays';
+    if (dow === '1') return timeStr ? `Every Monday at ${formatTime(hour, min)}` : 'Every Monday';
+    if (/^\d$/.test(dow)) return timeStr ? `Every ${dowNames[dow]} at ${formatTime(hour, min)}` : `Every ${dowNames[dow]}`;
   }
   if (hour.startsWith('*/')) return `Every ${hour.slice(2)} hours`;
   return `Custom: ${cron}`;
 }
+
 function formatTime(hour, min) {
-  const h = parseInt(hour), m = parseInt(min), ampm = h >= 12 ? 'PM' : 'AM', h12 = h%12||12;
+  const h = parseInt(hour), m = parseInt(min);
+  const ampm = h >= 12 ? 'PM' : 'AM';
+  const h12 = h % 12 || 12;
   return `${h12}:${String(m).padStart(2,'0')} ${ampm} UTC`;
 }
-function escHtml(str) { return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
-function toast(msg, type='info') {
+
+function escHtml(str) {
+  return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function toast(msg, type = 'info') {
   const el = document.createElement('div');
-  el.className = `toast ${type}`; el.textContent = msg;
+  el.className = `toast ${type}`;
+  el.textContent = msg;
   document.getElementById('toast-container').appendChild(el);
   setTimeout(() => el.remove(), 4000);
 }
