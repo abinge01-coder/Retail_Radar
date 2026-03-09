@@ -340,6 +340,8 @@ def main():
                         "title": normalized["title"],
                         "first_seen": normalized["first_seen"],
                         "price": normalized["min_price"],
+                        "image_url": normalized["image_url"],
+                        "url": normalized["url"],
                     }
                     all_new.append(normalized)
 
