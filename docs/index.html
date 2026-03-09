@@ -591,6 +591,37 @@
   <div class="modal">
     <h2>Add Retailer</h2>
     <p>Add a new Shopify-based retailer to monitor. The store must expose a public <code>/collections/all/products.json</code> endpoint.</p>
+    <div class="form-field full" style="margin-bottom:16px">
+      <label>Quick Start — Select a known Shopify store</label>
+      <select id="new-preset" onchange="fillPreset(this.value)">
+        <option value="">— Enter details manually —</option>
+        <optgroup label="Men's Fashion">
+          <option value="taylor_stitch">Taylor Stitch</option>
+          <option value="buck_mason">Buck Mason</option>
+          <option value="true_classic">True Classic</option>
+          <option value="chubbies">Chubbies</option>
+          <option value="psycho_bunny">Psycho Bunny</option>
+          <option value="mizzen_main">Mizzen+Main</option>
+          <option value="cuts">CUTS Clothing</option>
+          <option value="mack_weldon">Mack Weldon</option>
+        </optgroup>
+        <optgroup label="Women's Fashion">
+          <option value="reformation">Reformation</option>
+          <option value="alo_yoga">Alo Yoga</option>
+          <option value="anine_bing">Anine Bing</option>
+          <option value="free_people">Free People</option>
+        </optgroup>
+        <optgroup label="Activewear &amp; Unisex">
+          <option value="gymshark">Gymshark</option>
+          <option value="vuori">Vuori</option>
+          <option value="marine_layer">Marine Layer</option>
+          <option value="faherty">Faherty Brand</option>
+          <option value="allbirds">Allbirds</option>
+          <option value="rails">Rails</option>
+          <option value="outerknown">Outerknown</option>
+        </optgroup>
+      </select>
+    </div>
     <div class="form-grid">
       <div class="form-field">
         <label>Key (no spaces)</label>
@@ -934,12 +965,47 @@ function removeRetailer(key) {
   document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
 }
 
+// ── Add Retailer ─────────────────────────────────────────────────────────────
+const SHOPIFY_PRESETS = {
+  taylor_stitch: { name: 'Taylor Stitch',  url: 'https://www.taylorstitch.com',   emoji: '🧵', color: '#2c5f2e' },
+  buck_mason:    { name: 'Buck Mason',      url: 'https://www.buckmason.com',       emoji: '👕', color: '#1a1a1a' },
+  true_classic:  { name: 'True Classic',    url: 'https://www.trueclassictees.com', emoji: '👕', color: '#0f172a' },
+  chubbies:      { name: 'Chubbies',        url: 'https://www.chubbies.com',        emoji: '🩳', color: '#f97316' },
+  psycho_bunny:  { name: 'Psycho Bunny',    url: 'https://www.psychobunny.com',     emoji: '🐰', color: '#e11d48' },
+  mizzen_main:   { name: 'Mizzen+Main',     url: 'https://www.mizzenmain.com',      emoji: '👔', color: '#1e40af' },
+  cuts:          { name: 'CUTS Clothing',   url: 'https://www.cutsclothing.com',    emoji: '✂️', color: '#111827' },
+  mack_weldon:   { name: 'Mack Weldon',     url: 'https://www.mackweldon.com',      emoji: '🩲', color: '#18181b' },
+  reformation:   { name: 'Reformation',     url: 'https://www.thereformation.com',  emoji: '🌿', color: '#78716c' },
+  alo_yoga:      { name: 'Alo Yoga',        url: 'https://www.aloyoga.com',         emoji: '🧘', color: '#111827' },
+  anine_bing:    { name: 'Anine Bing',      url: 'https://www.aninebing.com',       emoji: '✨', color: '#1c1c1c' },
+  free_people:   { name: 'Free People',     url: 'https://www.freepeople.com',      emoji: '🌸', color: '#9d5a8a' },
+  gymshark:      { name: 'Gymshark',        url: 'https://www.gymshark.com',        emoji: '🦈', color: '#000000' },
+  vuori:         { name: 'Vuori',           url: 'https://www.vuoriclothing.com',   emoji: '⛰️', color: '#1e3a5f' },
+  marine_layer:  { name: 'Marine Layer',    url: 'https://www.marinelayer.com',     emoji: '🌊', color: '#2e5984' },
+  faherty:       { name: 'Faherty Brand',   url: 'https://www.fahertybrand.com',    emoji: '🏄', color: '#8b7355' },
+  allbirds:      { name: 'Allbirds',        url: 'https://www.allbirds.com',        emoji: '🐑', color: '#2d6a4f' },
+  rails:         { name: 'Rails',           url: 'https://www.railsclothing.com',   emoji: '🚂', color: '#6b7280' },
+  outerknown:    { name: 'Outerknown',      url: 'https://www.outerknown.com',      emoji: '🌊', color: '#1d4e89' },
+};
+
+function fillPreset(key) {
+  if (!key) return;
+  const p = SHOPIFY_PRESETS[key];
+  if (!p) return;
+  document.getElementById('new-key').value   = key;
+  document.getElementById('new-name').value  = p.name;
+  document.getElementById('new-url').value   = p.url;
+  document.getElementById('new-emoji').value = p.emoji;
+  document.getElementById('new-color').value = p.color;
+}
+
 function openAddRetailer() {
   document.getElementById('add-retailer-modal').classList.remove('hidden');
 }
 
 function closeAddRetailer() {
   document.getElementById('add-retailer-modal').classList.add('hidden');
+  document.getElementById('new-preset').value = '';
 }
 
 function addRetailer() {
@@ -959,6 +1025,7 @@ function addRetailer() {
 
   // Clear form
   ['new-key','new-name','new-url','new-emoji'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('new-preset').value = '';
 }
 
 // ── Products ──────────────────────────────────────────────────────────────────
@@ -1102,7 +1169,7 @@ async function loadEmailLog() {
   }
 }
 
-// ── Helpers ─────────────────────────────────────────────────────────────────
+// ── Helpers ──────────────────────────────────────────────────────────────────
 function formatRelative(date) {
   const diff = (Date.now() - date) / 1000;
   if (diff < 60) return 'just now';
