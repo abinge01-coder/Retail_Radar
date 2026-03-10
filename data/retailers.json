@@ -16,5 +16,14 @@
     ],
     "color": "#2d2d3f",
     "emoji": "👗"
+  },
+  "faherty": {
+    "name": "Faherty Brand",
+    "base_url": "https://www.fahertybrand.com",
+    "collections": [
+      "/collections/all/products.json"
+    ],
+    "color": "#8b7355",
+    "emoji": "🏄"
   }
 }
