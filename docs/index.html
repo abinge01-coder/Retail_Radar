@@ -659,8 +659,10 @@
 const OWNER = 'abinge01-coder';
 const REPO  = 'Retail_Radar';
 const WORKFLOW_FILE = 'scan.yml';
-const SEEN_FILE_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/seen_products.json`;
-const EMAIL_LOG_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/email_log.json`;
+const SEEN_FILE_URL      = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/seen_products.json`;
+const EMAIL_LOG_URL      = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/email_log.json`;
+const RETAILERS_FILE_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/data/retailers.json`;
+const RETAILERS_API_PATH = 'data/retailers.json';
 const API = 'https://api.github.com';
 
 // ── State ───────────────────────────────────────────────────────────────────
@@ -673,20 +675,17 @@ const PAGE_SIZE = 24;
 let activeRetailer = 'all';
 let activeSearch = '';
 
-let retailers = {
-  buttercloth: { name: 'Buttercloth', base_url: 'https://buttercloth.com', collections: ['/collections/all/products.json'], color: '#1a1a2e', emoji: '👔' },
-  evereve:      { name: 'Evereve',     base_url: 'https://evereve.com',     collections: ['/collections/all/products.json'], color: '#2d2d3f', emoji: '👗' },
-};
+let retailers = {};
 
 // ── Init ────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   if (ghToken) {
     document.getElementById('token-banner').classList.add('hidden');
   }
+  loadRetailers();
   loadSeenProducts();
   loadRuns();
   loadEmailLog();
-  renderRetailers();
   updateCronHuman();
 });
 
@@ -918,6 +917,46 @@ async function saveSchedule() {
 }
 
 // ── Retailers ─────────────────────────────────────────────────────────────────
+async function loadRetailers() {
+  try {
+    const r = await fetch(RETAILERS_FILE_URL + '?t=' + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    retailers = await r.json();
+  } catch (e) {
+    console.warn('Could not load retailers.json, using fallback:', e);
+    retailers = {
+      buttercloth: { name: 'Buttercloth', base_url: 'https://buttercloth.com', collections: ['/collections/all/products.json'], color: '#1a1a2e', emoji: '👔' },
+      evereve:     { name: 'Evereve',     base_url: 'https://evereve.com',     collections: ['/collections/all/products.json'], color: '#2d2d3f', emoji: '👗' },
+    };
+  }
+  renderRetailers();
+  renderRetailerStats();
+}
+
+async function saveRetailersToGitHub() {
+  if (!ghToken) { toast('A GitHub token is required to save retailers.', 'error'); return false; }
+  try {
+    // Get current file SHA
+    const meta = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/${RETAILERS_API_PATH}`, {
+      headers: apiHeaders()
+    });
+    const metaJson = await meta.json();
+    const sha = metaJson.sha;
+
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(retailers, null, 2))));
+    const r = await fetch(`${API}/repos/${OWNER}/${REPO}/contents/${RETAILERS_API_PATH}`, {
+      method: 'PUT',
+      headers: { ...apiHeaders(), 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: 'Update retailers.json via dashboard', content, sha }),
+    });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return true;
+  } catch (e) {
+    toast(`Failed to save retailers: ${e.message}`, 'error');
+    return false;
+  }
+}
+
 function renderRetailers() {
   const grid = document.getElementById('retailers-grid');
   grid.innerHTML = Object.entries(retailers).map(([key, r]) => {
@@ -958,11 +997,14 @@ function renderRetailerStats() {
   document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
 }
 
-function removeRetailer(key) {
-  if (!confirm(`Remove ${retailers[key].name} from monitoring? This only affects the local dashboard view — you'll need to edit monitor.py to stop scraping it.`)) return;
+async function removeRetailer(key) {
+  if (!confirm(`Remove ${retailers[key].name} from monitoring? This will update retailers.json on GitHub so the next scan will skip it.`)) return;
   delete retailers[key];
   renderRetailers();
   document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
+  toast(`⏳ Saving changes to GitHub…`, 'info');
+  const ok = await saveRetailersToGitHub();
+  if (ok) toast(`✅ Retailer removed and saved to GitHub.`, 'success');
 }
 
 // ── Add Retailer ─────────────────────────────────────────────────────────────
@@ -1008,7 +1050,7 @@ function closeAddRetailer() {
   document.getElementById('new-preset').value = '';
 }
 
-function addRetailer() {
+async function addRetailer() {
   const key   = document.getElementById('new-key').value.trim().toLowerCase().replace(/\s+/g, '_');
   const name  = document.getElementById('new-name').value.trim();
   const url   = document.getElementById('new-url').value.trim().replace(/\/$/, '');
@@ -1021,11 +1063,14 @@ function addRetailer() {
   retailers[key] = { name, base_url: url, collections: ['/collections/all/products.json'], color, emoji };
   renderRetailers();
   closeAddRetailer();
-  toast(`✅ ${name} added! Remember to also update monitor.py in your repo.`, 'success');
 
   // Clear form
   ['new-key','new-name','new-url','new-emoji'].forEach(id => document.getElementById(id).value = '');
   document.getElementById('new-preset').value = '';
+
+  toast(`⏳ Saving ${name} to GitHub…`, 'info');
+  const ok = await saveRetailersToGitHub();
+  if (ok) toast(`✅ ${name} added and saved to GitHub.`, 'success');
 }
 
 // ── Products ──────────────────────────────────────────────────────────────────
