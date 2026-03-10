@@ -16,14 +16,5 @@
     ],
     "color": "#2d2d3f",
     "emoji": "👗"
-  },
-  "mizzen_main": {
-    "name": "Mizzen+Main",
-    "base_url": "https://www.mizzenmain.com",
-    "collections": [
-      "/collections/all/products.json"
-    ],
-    "color": "#1e40af",
-    "emoji": "👔"
   }
 }
