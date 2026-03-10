@@ -2,15 +2,28 @@
   "buttercloth": {
     "name": "Buttercloth",
     "base_url": "https://buttercloth.com",
-    "collections": ["/collections/all/products.json"],
+    "collections": [
+      "/collections/all/products.json"
+    ],
     "color": "#1a1a2e",
     "emoji": "👔"
   },
   "evereve": {
     "name": "Evereve",
     "base_url": "https://evereve.com",
-    "collections": ["/collections/all/products.json"],
+    "collections": [
+      "/collections/all/products.json"
+    ],
     "color": "#2d2d3f",
     "emoji": "👗"
+  },
+  "mizzen_main": {
+    "name": "Mizzen+Main",
+    "base_url": "https://www.mizzenmain.com",
+    "collections": [
+      "/collections/all/products.json"
+    ],
+    "color": "#1e40af",
+    "emoji": "👔"
   }
 }
