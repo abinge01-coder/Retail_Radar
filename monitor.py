@@ -20,28 +20,14 @@ from urllib.error import URLError, HTTPError
 
 # ─── Configuration ──────────────────────────────────────────────────────────
 
-RETAILERS = {
-    "buttercloth": {
-        "name": "Buttercloth",
-        "base_url": "https://buttercloth.com",
-        "collections": [
-            "/collections/all/products.json",
-        ],
-        "color": "#1a1a2e",
-        "emoji": "👔",
-    },
-    "evereve": {
-        "name": "Evereve",
-        "base_url": "https://evereve.com",
-        "collections": [
-            "/collections/all/products.json",
-        ],
-        "color": "#2d2d3f",
-        "emoji": "👗",
-    },
-}
-
+RETAILERS_FILE = Path("data/retailers.json")
 SEEN_FILE = Path("data/seen_products.json")
+
+def _load_retailers() -> dict:
+    with open(RETAILERS_FILE, encoding="utf-8") as f:
+        return json.load(f)
+
+RETAILERS = _load_retailers()
 EMAIL_LOG_FILE = Path("data/email_log.json")
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -318,6 +304,8 @@ def main():
     print("📡 Retail Radar — New Arrival Monitor")
     print(f"   {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
     print("=" * 60)
+
+    print(f"   Loaded {len(RETAILERS)} retailers from {RETAILERS_FILE}")
 
     seen = load_seen()
     all_new = []
