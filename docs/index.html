@@ -929,6 +929,9 @@ async function loadRetailers() {
       evereve:     { name: 'Evereve',     base_url: 'https://evereve.com',     collections: ['/collections/all/products.json'], color: '#2d2d3f', emoji: '👗' },
     };
   }
+  // Merge any locally-saved additions that haven't been synced to GitHub yet
+  const local = JSON.parse(localStorage.getItem('rr_retailers_local') || '{}');
+  retailers = { ...retailers, ...local };
   renderRetailers();
   renderRetailerStats();
 }
@@ -1000,11 +1003,15 @@ function renderRetailerStats() {
 async function removeRetailer(key) {
   if (!confirm(`Remove ${retailers[key].name} from monitoring? This will update retailers.json on GitHub so the next scan will skip it.`)) return;
   delete retailers[key];
+  localStorage.setItem('rr_retailers_local', JSON.stringify(retailers));
   renderRetailers();
   document.getElementById('stat-retailers').textContent = Object.keys(retailers).length;
   toast(`⏳ Saving changes to GitHub…`, 'info');
   const ok = await saveRetailersToGitHub();
-  if (ok) toast(`✅ Retailer removed and saved to GitHub.`, 'success');
+  if (ok) {
+    localStorage.removeItem('rr_retailers_local');
+    toast(`✅ Retailer removed and saved to GitHub.`, 'success');
+  }
 }
 
 // ── Add Retailer ─────────────────────────────────────────────────────────────
@@ -1061,6 +1068,10 @@ async function addRetailer() {
   if (retailers[key]) { toast('A retailer with that key already exists', 'error'); return; }
 
   retailers[key] = { name, base_url: url, collections: ['/collections/all/products.json'], color, emoji };
+
+  // Persist locally immediately so page reloads don't lose it
+  localStorage.setItem('rr_retailers_local', JSON.stringify(retailers));
+
   renderRetailers();
   closeAddRetailer();
 
@@ -1070,7 +1081,12 @@ async function addRetailer() {
 
   toast(`⏳ Saving ${name} to GitHub…`, 'info');
   const ok = await saveRetailersToGitHub();
-  if (ok) toast(`✅ ${name} added and saved to GitHub.`, 'success');
+  if (ok) {
+    localStorage.removeItem('rr_retailers_local'); // GitHub is now source of truth
+    toast(`✅ ${name} added and saved to GitHub.`, 'success');
+  } else {
+    toast(`⚠️ ${name} saved locally but GitHub sync failed — re-open the dashboard to retry.`, 'error');
+  }
 }
 
 // ── Products ──────────────────────────────────────────────────────────────────
