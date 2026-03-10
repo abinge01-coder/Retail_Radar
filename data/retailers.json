@@ -1,0 +1,16 @@
+{
+  "buttercloth": {
+    "name": "Buttercloth",
+    "base_url": "https://buttercloth.com",
+    "collections": ["/collections/all/products.json"],
+    "color": "#1a1a2e",
+    "emoji": "👔"
+  },
+  "evereve": {
+    "name": "Evereve",
+    "base_url": "https://evereve.com",
+    "collections": ["/collections/all/products.json"],
+    "color": "#2d2d3f",
+    "emoji": "👗"
+  }
+}
