@@ -58932,7 +58932,469 @@
       "price": 198.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2513-TSM-SsLinenSweaterPolo-TropicSandsMelange_OM_FRONT_CROP_1_Web.jpg?v=1773151085",
       "url": "https://www.fahertybrand.com/products/ss-linen-sweater-polo-tropic-sands-melange"
+    },
+    "buttercloth_10354044174517": {
+      "title": "Blush in Black",
+      "first_seen": "2026-03-11T14:07:56.231095+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6055L_Black_1.jpg?v=1772743445",
+      "url": "https://buttercloth.com/products/blush-in-black"
+    },
+    "buttercloth_8107682758837": {
+      "title": "Conquest in Black",
+      "first_seen": "2026-03-11T14:07:56.231277+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6045S_Black_1_8d73329a-0128-4010-a3b7-a27a69a07d81.jpg?v=1772742192",
+      "url": "https://buttercloth.com/products/conquest-in-black"
+    },
+    "buttercloth_10354044698805": {
+      "title": "Conquest in Deep Sea Blue White",
+      "first_seen": "2026-03-11T14:07:56.231289+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6045S_Deep-Sea-Blue_White_1.jpg?v=1772742241",
+      "url": "https://buttercloth.com/products/conquest-in-deep-sea-blue"
+    },
+    "buttercloth_10354044797109": {
+      "title": "Conquest in White Navy",
+      "first_seen": "2026-03-11T14:07:56.231303+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6045S_White_Navy_1.jpg?v=1772742269",
+      "url": "https://buttercloth.com/products/conquest-in-white-navy"
+    },
+    "buttercloth_10359029104821": {
+      "title": "Daydream in Black",
+      "first_seen": "2026-03-11T14:07:56.231386+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6049S_Black_1.jpg?v=1772743902",
+      "url": "https://buttercloth.com/products/daydream-in-black"
+    },
+    "buttercloth_10359029268661": {
+      "title": "Daydream in Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.231392+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6049S_Deep-Sea-Blue_1.jpg?v=1772743934",
+      "url": "https://buttercloth.com/products/daydream-in-deep-sea-blue"
+    },
+    "buttercloth_10359029530805": {
+      "title": "Daydream in Deep Sea Blue White",
+      "first_seen": "2026-03-11T14:07:56.231403+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6049S_Deep-Sea-Blue_White_1.jpg?v=1772743961",
+      "url": "https://buttercloth.com/products/daydream-in-deep-sea-blue-white"
+    },
+    "buttercloth_10359029399733": {
+      "title": "Daydream in White Navy",
+      "first_seen": "2026-03-11T14:07:56.231410+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6049S_White_Navy_1.jpg?v=1772743987",
+      "url": "https://buttercloth.com/products/daydream-in-white-navy"
+    },
+    "buttercloth_10354404196533": {
+      "title": "Grace in Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.231929+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6058L_Deep-Sea-Blue_1.jpg?v=1772741902",
+      "url": "https://buttercloth.com/products/grace-in-deep-sea-blue-dress"
+    },
+    "buttercloth_10354043912373": {
+      "title": "Harmony in Airy Blue",
+      "first_seen": "2026-03-11T14:07:56.231963+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6079S_Airy-Blue_1.jpg?v=1772743524",
+      "url": "https://buttercloth.com/products/harmony-in-airy-blue"
+    },
+    "buttercloth_10354404163765": {
+      "title": "Harmony in Black",
+      "first_seen": "2026-03-11T14:07:56.231978+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6079S_Black_1.jpg?v=1772743557",
+      "url": "https://buttercloth.com/products/harmony-in-black-shirt"
+    },
+    "buttercloth_10354044010677": {
+      "title": "Harmony in Black White",
+      "first_seen": "2026-03-11T14:07:56.231984+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6079S_Black_White_1.jpg?v=1772743587",
+      "url": "https://buttercloth.com/products/harmony-in-black-white"
+    },
+    "buttercloth_8107682922677": {
+      "title": "Luminary in Black",
+      "first_seen": "2026-03-11T14:07:56.232364+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6039S_Black_1.jpg?v=1741712856",
+      "url": "https://buttercloth.com/products/luminary-in-black"
+    },
+    "buttercloth_10354044862645": {
+      "title": "Luminary in Black Sand",
+      "first_seen": "2026-03-11T14:07:56.232370+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6039S_Black-Sand_1.jpg?v=1772741838",
+      "url": "https://buttercloth.com/products/luminary-in-black-sand"
+    },
+    "buttercloth_10354043551925": {
+      "title": "Prestige in Chambray Blue",
+      "first_seen": "2026-03-11T14:07:56.232546+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6029L_Chambray-Blue_1.jpg?v=1772742032",
+      "url": "https://buttercloth.com/products/prestige-in-chambray-blue"
+    },
+    "buttercloth_7854620639413": {
+      "title": "Prestige in Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.232552+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6029L_Deep-Sea-Blue_1.jpg?v=1772742086",
+      "url": "https://buttercloth.com/products/prestige-in-deep-sea-blue"
+    },
+    "buttercloth_10354043715765": {
+      "title": "Prestige in White Grey",
+      "first_seen": "2026-03-11T14:07:56.232566+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6029L_White_Grey_1.jpg?v=1772742128",
+      "url": "https://buttercloth.com/products/prestige-in-white-grey"
+    },
+    "buttercloth_10354044895413": {
+      "title": "Radiance in Caviar",
+      "first_seen": "2026-03-11T14:07:56.232733+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6060S_Caviar_1.jpg?v=1772741945",
+      "url": "https://buttercloth.com/products/radiance-in-caviar"
+    },
+    "buttercloth_10354044960949": {
+      "title": "Radiance in Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.232738+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6060S_Deep-Sea-Blue_1.jpg?v=1772741993",
+      "url": "https://buttercloth.com/products/radiance-in-deep-sea-blue"
+    },
+    "buttercloth_8116677279925": {
+      "title": "Savanna in Black",
+      "first_seen": "2026-03-11T14:07:56.232807+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6042S_Black_1.jpg?v=1741028291",
+      "url": "https://buttercloth.com/products/savanna-in-black"
+    },
+    "buttercloth_10359028908213": {
+      "title": "Savanna in Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.232814+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6042S_Deep-Sea-Blue_1.jpg?v=1772743825",
+      "url": "https://buttercloth.com/products/savanna-in-deep-sea-blue"
+    },
+    "buttercloth_10359028940981": {
+      "title": "Savanna in White Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.232838+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6042S_White_Deep-Sea-Blue_1.jpg?v=1772743867",
+      "url": "https://buttercloth.com/products/savanna-in-white-deep-sea-blue"
+    },
+    "buttercloth_10359029596341": {
+      "title": "Summer Nights in Black",
+      "first_seen": "2026-03-11T14:07:56.233006+00:00",
+      "price": 56.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6040S_Black_1.jpg?v=1772743671",
+      "url": "https://buttercloth.com/products/summer-nights-in-black"
+    },
+    "buttercloth_10359029661877": {
+      "title": "Summer Nights in Deep Sea Blue",
+      "first_seen": "2026-03-11T14:07:56.233011+00:00",
+      "price": 56.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6040S_Deep-Sea-Blue_1.jpg?v=1772743711",
+      "url": "https://buttercloth.com/products/summer-nights-in-deep-sea-blue"
+    },
+    "buttercloth_10359029727413": {
+      "title": "Summer Nights in Deep Sea Blue White",
+      "first_seen": "2026-03-11T14:07:56.233018+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6040S_Deep-Sea-Blue_White_1.jpg?v=1772743745",
+      "url": "https://buttercloth.com/products/summer-nights-in-deep-sea-blue-white"
+    },
+    "buttercloth_10359029694645": {
+      "title": "Summer Nights in White Navy",
+      "first_seen": "2026-03-11T14:07:56.233024+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KNW6040S_White_Navy_1.jpg?v=1772743782",
+      "url": "https://buttercloth.com/products/summer-nights-in-white-navy"
+    },
+    "buttercloth_10354044338357": {
+      "title": "Whisper in Black",
+      "first_seen": "2026-03-11T14:07:56.233360+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6070S_Black_1.jpg?v=1772743480",
+      "url": "https://buttercloth.com/products/whisper-in-black"
+    },
+    "evereve_9211260469413": {
+      "title": "Dorothy One Shoulder Top",
+      "first_seen": "2026-03-11T14:09:03.053914+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/12172025_Ecomm_876B-341E-2736_0515_1.jpg?v=1771435089",
+      "url": "https://evereve.com/products/dorothy-one-shoulder-top-terra"
+    },
+    "evereve_9191843627173": {
+      "title": "Goldgengaze Toe Post",
+      "first_seen": "2026-03-11T14:09:03.057645+00:00",
+      "price": 120.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030526_MARCHJASI_1175134_0273_1_da3c16fc-353b-4259-a065-407b08f4b4a2.jpg?v=1773152766",
+      "url": "https://evereve.com/products/goldgengaze-toe-post-redpepper"
+    },
+    "evereve_9212781101221": {
+      "title": "Jessica Mid Mule",
+      "first_seen": "2026-03-11T14:09:03.060605+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030526_FEBJASI_S2208600200013_0091_1_1aad7d4a-e9da-4de6-885c-fcb510dc7ba4.jpg?v=1773151990",
+      "url": "https://evereve.com/products/jessica-mid-mule-miele"
+    },
+    "evereve_9205327823013": {
+      "title": "Krista Stripe Sweater",
+      "first_seen": "2026-03-11T14:09:03.062824+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030926_Ecomm_RS6S29E_0242_1.jpg?v=1773163390",
+      "url": "https://evereve.com/products/krista-stripe-sweater-shll-moodindgo"
+    },
+    "evereve_9213330161829": {
+      "title": "Krista Stripe Sweater Pant",
+      "first_seen": "2026-03-11T14:09:03.062831+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030926_Ecomm_RS6A13E_0031_1.jpg?v=1773163150",
+      "url": "https://evereve.com/products/krista-stripe-sweater-pant-shll-moodindgo"
+    },
+    "evereve_9184568311973": {
+      "title": "Otzo Clog",
+      "first_seen": "2026-03-11T14:09:03.070135+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030526_JANJASI_1181130_0003_1_ead03a2d-c94b-48c4-84ed-f1b5a3ed9b30.jpg?v=1773152046",
+      "url": "https://evereve.com/products/otzo-clog-black"
+    },
+    "evereve_9208128045221": {
+      "title": "The D`Orsay Flat",
+      "first_seen": "2026-03-11T14:09:03.078376+00:00",
+      "price": 149.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030526_MARCHJASI_329-007_0239_1_9b219bce-fd2e-434b-b8e3-7db5a8526594.jpg?v=1773151994",
+      "url": "https://evereve.com/products/the-d-orsay-flat-classiccat"
+    },
+    "evereve_10494248026277": {
+      "title": "The Espadrille Mary Jane",
+      "first_seen": "2026-03-11T14:09:03.078389+00:00",
+      "price": 149.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/030526_MARCHJASI_290-001_0152_1_bb8ca3f1-aab7-4747-950f-a320c6df2839.jpg?v=1773151869",
+      "url": "https://evereve.com/products/the-espadrille-mary-jane-black"
+    },
+    "faherty_7876089413701": {
+      "title": "All Day Trunk (6\") - Clear Sky Leaf",
+      "first_seen": "2026-03-11T14:09:27.663236+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MSS2600-CYE-AllDayTrunk_6-ClearSkyLeaf_OM_FULL_BODY_1_Web.jpg?v=1771375671",
+      "url": "https://www.fahertybrand.com/products/all-day-trunk-6-clear-sky-leaf"
+    },
+    "faherty_7876089610309": {
+      "title": "All Day Trunk (6\") - Navy Clay Bricks",
+      "first_seen": "2026-03-11T14:09:27.663244+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MSS2600-NAA-AllDayTrunk_6-NavyClayBricks_OM_FULL_BODY_1_Web.jpg?v=1771376611",
+      "url": "https://www.fahertybrand.com/products/all-day-trunk-6-navy-clay-bricks"
+    },
+    "faherty_7876089577541": {
+      "title": "All Day Trunk (6\") - Navy Red Lotus",
+      "first_seen": "2026-03-11T14:09:27.663251+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MSS2600-NAD-AllDayTrunk_6-NavyRedLotus_OM_FULL_BODY_1_Web.jpg?v=1771376927",
+      "url": "https://www.fahertybrand.com/products/all-day-trunk-6-navy-red-lotus"
+    },
+    "faherty_7876089512005": {
+      "title": "All Day Trunk (6\") - Ocean Shore Trees",
+      "first_seen": "2026-03-11T14:09:27.663259+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MSS2600-OAA-AllDayTrunk_6-OceanShoreTrees_OM_EDITORIAL_1_Web.jpg?v=1771377298",
+      "url": "https://www.fahertybrand.com/products/all-day-trunk-6-ocean-shore-trees"
+    },
+    "faherty_7876089544773": {
+      "title": "All Day Trunk (6\") - Sage Awning Stripe",
+      "first_seen": "2026-03-11T14:09:27.663267+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MSS2600-AAG-AllDayTrunk_6-SageAwningStripe_OM_FULL_BODY_1_Web.jpg?v=1771375302",
+      "url": "https://www.fahertybrand.com/products/all-day-trunk-6-sage-awning-stripe"
+    },
+    "faherty_6909232742469": {
+      "title": "Doug Good Feather Adirondack Blanket - Spring Star Nation",
+      "first_seen": "2026-03-11T14:09:27.664941+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP24-faherty-unisex-HAC0086-SSI-dgf-adirondack-blanket-spring-star-nation_ALT_2.jpg?v=1752810428",
+      "url": "https://www.fahertybrand.com/products/dgf-adirondack-blanket-spring-star-nation"
+    },
+    "faherty_7653191090245": {
+      "title": "Doug Good Feather Canyon Overshirt - Fall Harvest",
+      "first_seen": "2026-03-11T14:09:27.664956+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FA25-FAHERTY-Mens-MWF2508-FHR-DougGoodFeatherCanyonOvershirt-FallHarvest-X_OM_ALT_1_448d67c9-f4d1-431a-9302-f6ec4fc90655.jpg?v=1753194918",
+      "url": "https://www.fahertybrand.com/products/doug-good-feather-canyon-overshirt-fall-harvest"
+    },
+    "faherty_7876156063813": {
+      "title": "Doug Good Feather Indigo Canyon Overshirt - Indigo Star Serape",
+      "first_seen": "2026-03-11T14:09:27.664999+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2624-IAE-DougGoodFeatherIndigoCanyonOvershirt-IndigoStarSerape_OM_FRONT_CROP_1_Web.jpg?v=1771430388",
+      "url": "https://www.fahertybrand.com/products/doug-good-feather-indigo-canyon-overshirt-indigo-star-serape"
+    },
+    "faherty_7876157603909": {
+      "title": "Indigo Overshirt - Indigo Island Buffalo",
+      "first_seen": "2026-03-11T14:09:27.666421+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2626-IBU-IndigoOvershirt-IndigoIslandBuffalo_OM_FRONT_CROP_1_Web.jpg?v=1771432949",
+      "url": "https://www.fahertybrand.com/products/indigo-overshirt-indigo-island-buffalo"
+    },
+    "faherty_7876153966661": {
+      "title": "Long-Sleeve Indigo Tee - Indigo Marine Stripe",
+      "first_seen": "2026-03-11T14:09:27.667938+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2606-IMA-LsIndigoTee-IndigoMarineStripe_OM_FRONT_CROP_1_Web.jpg?v=1771356537",
+      "url": "https://www.fahertybrand.com/products/ls-indigo-tee-indigo-marine-stripe"
+    },
+    "faherty_7876087644229": {
+      "title": "Movement\u2122 Linen 5-Pocket Pant - Dusk Blue",
+      "first_seen": "2026-03-11T14:09:27.668694+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2511-DSK-MovementLinen5pocketPant-DuskBlue_OM_FULL_BODY_1_Web.jpg?v=1771348650",
+      "url": "https://www.fahertybrand.com/products/movement-linen-5pocket-pant-dusk-blue"
+    },
+    "faherty_7876087840837": {
+      "title": "Movement\u2122 Linen Blazer - Deep Sea Navy",
+      "first_seen": "2026-03-11T14:09:27.668726+00:00",
+      "price": 398.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MTS2500-DPN-MovementLinenBlazer-DeepSeaNavy_OM_FRONT_CROP_1_Web.jpg?v=1771379451",
+      "url": "https://www.fahertybrand.com/products/movement-linen-blazer-deep-sea-navy"
+    },
+    "faherty_7876087873605": {
+      "title": "Movement\u2122 Linen Blazer - Dorset Sand",
+      "first_seen": "2026-03-11T14:09:27.668734+00:00",
+      "price": 398.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MTS2500-DOR-MovementLinenBlazer-DorsetSand_OM_FRONT_CROP_2_Web.jpg?v=1771378485",
+      "url": "https://www.fahertybrand.com/products/movement-linen-blazer-dorset-sand"
+    },
+    "faherty_7876090200133": {
+      "title": "Movement\u2122 Monterey Shirt - White Blue Check",
+      "first_seen": "2026-03-11T14:09:27.668871+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2509-WHK-MovementMontereyShirt-WhiteBlueCheck_OM_FRONT_CROP_1_Web.jpg?v=1771428697",
+      "url": "https://www.fahertybrand.com/products/movement-monterey-shirt-white-blue-check"
+    },
+    "faherty_7876087709765": {
+      "title": "Organic Cotton Denim Pant - Bay Drift Wash",
+      "first_seen": "2026-03-11T14:09:27.669269+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MDS2600-BAA-OrganicCottonDenim-BayDriftWash_OM_EDITORIAL_1_Web.jpg?v=1771349974",
+      "url": "https://www.fahertybrand.com/products/organic-cotton-denim-bay-drift-wash"
+    },
+    "faherty_7876157341765": {
+      "title": "Organic Cotton Denim Shirt - Natural",
+      "first_seen": "2026-03-11T14:09:27.669276+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWH2540-NAT-OrganicCottonDenimShirt-Natural_OM_FULL_BODY_1_Web.jpg?v=1771424232",
+      "url": "https://www.fahertybrand.com/products/organic-cotton-denim-shirt-natural"
+    },
+    "faherty_7876157407301": {
+      "title": "Organic Cotton Denim Shirt - Rocky River Wash",
+      "first_seen": "2026-03-11T14:09:27.669283+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWH2540-RRW-OrganicCottonDenimShirt-RockyRiverWash_OM_FULL_BODY_1_Web.jpg?v=1771339699",
+      "url": "https://www.fahertybrand.com/products/organic-cotton-denim-shirt-rocky-river-wash"
+    },
+    "faherty_7876156031045": {
+      "title": "Short-Sleeve Indigo Camp Shirt - Northern Blue Indigo Stripe",
+      "first_seen": "2026-03-11T14:09:27.670254+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2631-NBB-SsIndigoCampShirt-NorthernBlueIndigoStripe_OM_FRONT_CROP_1_Web.jpg?v=1771434166",
+      "url": "https://www.fahertybrand.com/products/ss-indigo-camp-shirt-northern-blue-indigo-stripe"
+    },
+    "faherty_7876155932741": {
+      "title": "Short-Sleeve Indigo Pocket Tee - 10-Year Wash",
+      "first_seen": "2026-03-11T14:09:27.670261+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2607-TEW-SsIndigoPocketTee-10-YearWash_OM_FRONT_CROP_1_Web.jpg?v=1771357754",
+      "url": "https://www.fahertybrand.com/products/ss-indigo-pocket-tee-10-year-wash"
+    },
+    "faherty_7876155899973": {
+      "title": "Short-Sleeve Indigo Pocket Tee - Deadstock Wash",
+      "first_seen": "2026-03-11T14:09:27.670267+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2607-DDA-SsIndigoPocketTee-DeadstockWash_OM_EDITORIAL_3_Web.jpg?v=1771356873",
+      "url": "https://www.fahertybrand.com/products/ss-indigo-pocket-tee-deadstock-wash"
+    },
+    "faherty_7876089774149": {
+      "title": "Short-Sleeve Linen Sweater Polo - Beach Tree Stripe",
+      "first_seen": "2026-03-11T14:09:27.670307+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2513-BTZ-Ss_Linen_Sweater_Polo-Beach_Tree_Stripe_OM_FRONT_CROP_1_Web.jpg?v=1773152099",
+      "url": "https://www.fahertybrand.com/products/ss-linen-sweater-polo-beach-tree-stripe"
+    },
+    "faherty_7876089741381": {
+      "title": "Short-Sleeve Linen Sweater Polo - Shore Rock Stripe",
+      "first_seen": "2026-03-11T14:09:27.670314+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2513-HOC-SsLinenSweaterPolo-ShoreRockStripe_OM_FRONT_CROP_1_Web.jpg?v=1773151588",
+      "url": "https://www.fahertybrand.com/products/ss-linen-sweater-polo-shore-rock-stripe"
+    },
+    "faherty_7876158324805": {
+      "title": "Short-Sleeve Movement\u2122 Pique Polo - Aspen Green Melange",
+      "first_seen": "2026-03-11T14:09:27.670367+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2524-ASG-SsMovementPiquePolo-AspenGreenMelange_OM_FULL_BODY_1_Web.jpg?v=1771355426",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-aspen-green-melange"
+    },
+    "faherty_7876158292037": {
+      "title": "Short-Sleeve Movement\u2122 Pique Polo - Flint White Melange",
+      "first_seen": "2026-03-11T14:09:27.670392+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2524-FWM-SsMovementPiquePolo-FlintWhiteMelange_OM_FULL_BODY_1_Web.jpg?v=1771355608",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-flint-white-melange"
+    },
+    "faherty_7876156293189": {
+      "title": "Short-Sleeve Movement\u2122 Pique Polo - Olive Palm Beach",
+      "first_seen": "2026-03-11T14:09:27.670430+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2525-OVM-SsMovementPiquePolo-OlivePalmBeach_OM_DETAIL1_1_Web.jpg?v=1771356276",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-olive-palm-beach"
+    },
+    "faherty_7876156424261": {
+      "title": "Short-Sleeve Movement\u2122 Polo - Dark Cloud Stripe",
+      "first_seen": "2026-03-11T14:09:27.670457+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2425-DKO-SsMovementPolo-DarkCloudStripe_OM_FULL_BODY_1_Web.jpg?v=1771350780",
+      "url": "https://www.fahertybrand.com/products/ss-movement-polo-dark-cloud-stripe"
+    },
+    "faherty_7876156358725": {
+      "title": "Short-Sleeve Movement\u2122 Polo - Ivory Rose Feeder",
+      "first_seen": "2026-03-11T14:09:27.670472+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2425-IYE-SsMovementPolo-IvoryRoseFeeder_OM_FRONT_CROP_1_Web.jpg?v=1771350942",
+      "url": "https://www.fahertybrand.com/products/ss-movement-polo-ivory-rose-feeder"
+    },
+    "faherty_7876156325957": {
+      "title": "Short-Sleeve Movement\u2122 Polo - Ravine Waters Stripe",
+      "first_seen": "2026-03-11T14:09:27.670478+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2425-RWE-SsMovementPolo-RavineWatersStripe_OM_FRONT_CROP_1_Web.jpg?v=1771351551",
+      "url": "https://www.fahertybrand.com/products/ss-movement-polo-ravine-waters-stripe"
+    },
+    "faherty_6847194759237": {
+      "title": "Spring Lake Long-Sleeve Terry Quarter Zip - Faded Flag",
+      "first_seen": "2026-03-11T14:09:27.670912+00:00",
+      "price": 44.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU23-faherty-mens-UKU2348-FDF-LS-TERRY-QZ-FADED-FLAG_Lead.jpg?v=1759461290",
+      "url": "https://www.fahertybrand.com/products/spl-ls-terry-qz-faded-flag"
+    },
+    "faherty_7552625770565": {
+      "title": "Sunwashed Regenerative Pocket Tee - Faded Flag",
+      "first_seen": "2026-03-11T14:09:27.672450+00:00",
+      "price": 34.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU25-FAHERTY-MENS-MKS2519-FDF-SunwashedPocketTee-FadedFlag_FRONT_OM_WS_1.jpg?v=1752808288",
+      "url": "https://www.fahertybrand.com/products/sunwashed-pocket-tee-faded-flag-2"
+    },
+    "faherty_7876140171333": {
+      "title": "Tideweave Malibu Dress - Northbay Stripe",
+      "first_seen": "2026-03-11T14:09:27.673503+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WDS2636-NBT-TideweaveMalibuDress-NorthbayStripe_OM_FULL_BODY_1_Web.jpg?v=1773006140",
+      "url": "https://www.fahertybrand.com/products/tideweave-malibu-dress-northbay-stripe"
     }
   },
-  "last_run": "2026-03-10T14:05:02.652700+00:00"
+  "last_run": "2026-03-11T14:09:31.072331+00:00"
 }
