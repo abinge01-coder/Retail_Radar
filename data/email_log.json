@@ -43,6 +43,15 @@
         "Evereve": 8
       },
       "total_scanned": 8483
+    },
+    {
+      "sent_at": "2026-03-12T00:18:51.207027+00:00",
+      "new_count": 31,
+      "by_retailer": {
+        "Evereve": 30,
+        "Faherty Brand": 1
+      },
+      "total_scanned": 8513
     }
   ]
 }
