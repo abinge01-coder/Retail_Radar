@@ -59884,7 +59884,224 @@
       "price": 148.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-WAS2603-MWN-Women_sMixBraidedBelt-MapleBrown_FRONT_1_Web.jpg?v=1769280133",
       "url": "https://www.fahertybrand.com/products/womens-mix-braided-belt-maple-brown"
+    },
+    "evereve_9208139055269": {
+      "title": "Alexi Sweatshirt",
+      "first_seen": "2026-03-18T14:24:44.691165+00:00",
+      "price": 133.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_T307-F100-ALEXI_1442_1.jpg?v=1773762510",
+      "url": "https://evereve.com/products/alexi-sweatshirt-mochastripe"
+    },
+    "evereve_9207825957029": {
+      "title": "Annina Straight Leg Jean",
+      "first_seen": "2026-03-18T14:24:44.692468+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_1746D-3028_2851_1.jpg?v=1773766726",
+      "url": "https://evereve.com/products/annina-straight-leg-jean-jete"
+    },
+    "evereve_9242925727909": {
+      "title": "Ashlynn Cutwork Blouse",
+      "first_seen": "2026-03-18T14:24:44.693314+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_EVSP26WT129-SL_0922_1.jpg?v=1773777793",
+      "url": "https://evereve.com/products/ashlynn-cutwork-blouse-white"
+    },
+    "evereve_9211285831845": {
+      "title": "Briggs Jacket",
+      "first_seen": "2026-03-18T14:24:44.695984+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_659A-424B-934_2345_1.jpg?v=1773766993",
+      "url": "https://evereve.com/products/briggs-jacket-bone"
+    },
+    "evereve_9242817626277": {
+      "title": "Brighton Wide Leg Trouser",
+      "first_seen": "2026-03-18T14:24:44.696013+00:00",
+      "price": 275.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_W1511K868_2657_1.jpg?v=1773762197",
+      "url": "https://evereve.com/products/brighton-wide-leg-trouser-ivory"
+    },
+    "evereve_9217566605477": {
+      "title": "Clean Up Baseball Hat",
+      "first_seen": "2026-03-18T14:24:44.699102+00:00",
+      "price": 35.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031626_FEBJASI_B-NLRGW17GWS-RDC_0016_1.jpg?v=1773761894",
+      "url": "https://evereve.com/products/clean-up-baseball-hat-red-pink"
+    },
+    "evereve_9205345747109": {
+      "title": "Devon SS Cardigan",
+      "first_seen": "2026-03-18T14:24:44.701207+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_RS6S25E_1926_1.jpg?v=1773766410",
+      "url": "https://evereve.com/products/devon-ss-cardigan-ivory-navy"
+    },
+    "evereve_9207825891493": {
+      "title": "Flight Pant",
+      "first_seen": "2026-03-18T14:24:44.704705+00:00",
+      "price": 358.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_2189-1355_2708_1.jpg?v=1773766696",
+      "url": "https://evereve.com/products/flight-pant-plaster"
+    },
+    "evereve_9280074547365": {
+      "title": "Good Waist Palazzo Ankle Jean",
+      "first_seen": "2026-03-18T14:24:44.706271+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_GWPCAD10_1750_1.jpg?v=1773778103",
+      "url": "https://evereve.com/products/good-waist-palazzo-ankle-jean-indigo1281"
+    },
+    "evereve_9207941202085": {
+      "title": "Harper Wide Leg Crop",
+      "first_seen": "2026-03-18T14:24:44.707207+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_A9190-1895_1663_1.jpg?v=1773766702",
+      "url": "https://evereve.com/products/harper-wide-leg-crop-flaunt"
+    },
+    "evereve_9230215479461": {
+      "title": "Maddie Linen Skirt",
+      "first_seen": "2026-03-18T14:24:44.715562+00:00",
+      "price": 175.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_262-WB018-2703_2175_1.jpg?v=1773766992",
+      "url": "https://evereve.com/products/maddie-linen-skirt-chili"
+    },
+    "evereve_9234634473637": {
+      "title": "Mali Tank",
+      "first_seen": "2026-03-18T14:24:44.716004+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_SP266609EE-Navy_0803_1.jpg?v=1773762792",
+      "url": "https://evereve.com/products/mali-tank-navy"
+    },
+    "evereve_9234634571941": {
+      "title": "Mali Tank",
+      "first_seen": "2026-03-18T14:24:44.716012+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_SP266609EE_0680_1.jpg?v=1773762793",
+      "url": "https://evereve.com/products/mali-tank-offwhite"
+    },
+    "evereve_9230215544997": {
+      "title": "Marlee Linen Shirt",
+      "first_seen": "2026-03-18T14:24:44.716625+00:00",
+      "price": 155.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_262-WS171-2703_2046_1.jpg?v=1773778121",
+      "url": "https://evereve.com/products/marlee-linen-shirt-chili"
+    },
+    "evereve_9241443795109": {
+      "title": "Max Tie Front Scuba Top",
+      "first_seen": "2026-03-18T14:24:44.717081+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_EVSP26KT34-MOD_1034_1.jpg?v=1773766719",
+      "url": "https://evereve.com/products/max-tie-front-scuba-top-black"
+    },
+    "evereve_9242888667301": {
+      "title": "Meg Wide Leg w Utility Pockets Pant",
+      "first_seen": "2026-03-18T14:24:44.717657+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_KB72101_0016_1.jpg?v=1773766397",
+      "url": "https://evereve.com/products/meg-wide-leg-w-utility-pockets-pant-olive"
+    },
+    "evereve_10450975817893": {
+      "title": "Miramar Terry Drawcord Wide Leg Pant",
+      "first_seen": "2026-03-18T14:24:44.718622+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_RC0425F7MTE-L_2796_1.jpg?v=1773766392",
+      "url": "https://evereve.com/products/miramar-terry-drawcord-wide-leg-pant-lkewd"
+    },
+    "evereve_9234556944549": {
+      "title": "Piper Short Sleeve Jacket",
+      "first_seen": "2026-03-18T14:24:44.723319+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_KJ65202_0319_1.jpg?v=1773766392",
+      "url": "https://evereve.com/products/piper-short-sleeve-jacket-mushroom"
+    },
+    "evereve_9234557010085": {
+      "title": "Piper Short Sleeve Jacket",
+      "first_seen": "2026-03-18T14:24:44.723327+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_KJ65201_0158_1.jpg?v=1773777793",
+      "url": "https://evereve.com/products/piper-short-sleeve-jacket-poise"
+    },
+    "evereve_9234549801125": {
+      "title": "Shiv Ruffled Shirt",
+      "first_seen": "2026-03-18T14:24:44.727727+00:00",
+      "price": 193.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_SHIVRUFFLESHIRT_1574_1.jpg?v=1773766093",
+      "url": "https://evereve.com/products/shiv-ruffled-shirt-white"
+    },
+    "evereve_9220440260773": {
+      "title": "The Half-Pipe Bermuda Fray Short",
+      "first_seen": "2026-03-18T14:24:44.731589+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/121625_MarchEcomm_4128-1396_2319_1.jpg?v=1771360397",
+      "url": "https://evereve.com/products/the-half-pipe-bermuda-fray-short-dyt"
+    },
+    "evereve_9234549964965": {
+      "title": "The Short Sleeve Shirt",
+      "first_seen": "2026-03-18T14:24:44.732276+00:00",
+      "price": 124.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_SHORTSLEEVESHIRT_1390_1.jpg?v=1773762799",
+      "url": "https://evereve.com/products/the-short-sleeve-shirt-gunmetal-white"
+    },
+    "evereve_9234617827493": {
+      "title": "The WFH Dress",
+      "first_seen": "2026-03-18T14:24:44.732663+00:00",
+      "price": 176.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_WFHDRESS_0419_1.jpg?v=1773762193",
+      "url": "https://evereve.com/products/the-wfh-dress-bluedawn"
+    },
+    "evereve_9208528240805": {
+      "title": "The Wide Leg Pant 30\u201d",
+      "first_seen": "2026-03-18T14:24:44.732705+00:00",
+      "price": 132.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_VAR02105-P_2556_1.jpg?v=1773762493",
+      "url": "https://evereve.com/products/the-wide-leg-pant-30-pristine"
+    },
+    "evereve_9234634703013": {
+      "title": "Vada Shirt",
+      "first_seen": "2026-03-18T14:24:44.733784+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_SP266694EE_1142_1.jpg?v=1773762492",
+      "url": "https://evereve.com/products/vada-shirt-navymultistripe"
+    },
+    "evereve_9243327037605": {
+      "title": "Whitley Contrast Stitch Midi Dress",
+      "first_seen": "2026-03-18T14:24:44.734807+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_EVSP26WD011-SL_2187_1.jpg?v=1773766693",
+      "url": "https://evereve.com/products/whitley-contrast-stitch-midi-dress-navy"
+    },
+    "evereve_9208113266853": {
+      "title": "Yachty Boyfriend Sweashirt",
+      "first_seen": "2026-03-18T14:24:44.735198+00:00",
+      "price": 84.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031326_Ecomm_GT261515E_1226_1.jpg?v=1773778126",
+      "url": "https://evereve.com/products/yachty-boyfriend-sweashirt-eclipse"
+    },
+    "faherty_7733948907589": {
+      "title": "Birkenstock + Faherty Arizona Wire Buckle - Black",
+      "first_seen": "2026-03-18T14:25:10.860503+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/UFS2600-BLK_002_Web.jpg?v=1773426652",
+      "url": "https://www.fahertybrand.com/products/arizona-wire-buckle-black"
+    },
+    "faherty_7733948874821": {
+      "title": "Birkenstock + Faherty Arizona Wire Buckle - Sandcastle",
+      "first_seen": "2026-03-18T14:25:10.860515+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/UFS2600-NDL_002_Web.jpg?v=1773426628",
+      "url": "https://www.fahertybrand.com/products/arizona-wire-buckle-sandcastle"
+    },
+    "faherty_7733948973125": {
+      "title": "Birkenstock + Faherty Boston Wire Buckle - Black",
+      "first_seen": "2026-03-18T14:25:10.860525+00:00",
+      "price": 175.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/UFS2601-NDL_002_Web.jpg?v=1773426569",
+      "url": "https://www.fahertybrand.com/products/boston-wire-buckle-black"
+    },
+    "faherty_7733948940357": {
+      "title": "Birkenstock + Faherty Boston Wire Buckle - Sandcastle",
+      "first_seen": "2026-03-18T14:25:10.860535+00:00",
+      "price": 175.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/UFS2601-NDL_002_1_Web.jpg?v=1773426611",
+      "url": "https://www.fahertybrand.com/products/boston-wire-buckle-sandcastle"
     }
   },
-  "last_run": "2026-03-17T14:21:14.661818+00:00"
+  "last_run": "2026-03-18T14:25:14.005055+00:00"
 }
