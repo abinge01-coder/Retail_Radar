@@ -95,6 +95,14 @@
         "Faherty Brand": 4
       },
       "total_scanned": 8572
+    },
+    {
+      "sent_at": "2026-03-19T14:11:03.740172+00:00",
+      "new_count": 1,
+      "by_retailer": {
+        "Faherty Brand": 1
+      },
+      "total_scanned": 8571
     }
   ]
 }
