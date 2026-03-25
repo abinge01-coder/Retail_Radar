@@ -60745,7 +60745,462 @@
       "price": 168.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031926_Ecomm_200-572A-8623_0352_1.jpg?v=1774283597",
       "url": "https://evereve.com/products/tuscany-shirt-windwardstripe"
+    },
+    "evereve_9245201563813": {
+      "title": "Beckett Raffia Clutch",
+      "first_seen": "2026-03-25T14:20:56.203888+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031926_APRILJASI_29591_0140_1.jpg?v=1774370298",
+      "url": "https://evereve.com/products/beckett-raffia-clutch-natural"
+    },
+    "evereve_9245202088101": {
+      "title": "Beckett Raffia Clutch",
+      "first_seen": "2026-03-25T14:20:56.203896+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/011526_AprilEcomm_29591_0219_1.jpg?v=1774370290",
+      "url": "https://evereve.com/products/beckett-raffia-clutch-red"
+    },
+    "evereve_9230189297829": {
+      "title": "Betty Gingham Skinny Scarf",
+      "first_seen": "2026-03-25T14:20:56.204220+00:00",
+      "price": 22.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031926_APRILJASI_06384-BK_0084_1.jpg?v=1774370589",
+      "url": "https://evereve.com/products/betty-gingham-skinny-scarf-black-white"
+    },
+    "evereve_9230189396133": {
+      "title": "Hazel Stripe Bandana",
+      "first_seen": "2026-03-25T14:20:56.217342+00:00",
+      "price": 32.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031926_APRILJASI_06382-BK_0132_1.jpg?v=1774370590",
+      "url": "https://evereve.com/products/hazel-stripe-bandana-green-cream"
+    },
+    "evereve_10460780626085": {
+      "title": "Helena Sardine Necklace",
+      "first_seen": "2026-03-25T14:20:56.217585+00:00",
+      "price": 62.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/010626_FEBJASI_A816002-AG_0194_1.jpg?v=1769198588",
+      "url": "https://evereve.com/products/helena-sardine-necklace-tigerseye"
+    },
+    "evereve_9230189428901": {
+      "title": "Mira Geo Bandana",
+      "first_seen": "2026-03-25T14:20:56.228711+00:00",
+      "price": 22.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031926_APRILJASI_06376-BK_0122_1.jpg?v=1774370894",
+      "url": "https://evereve.com/products/mira-geo-bandana-pink-navymulti"
+    },
+    "faherty_7876163698757": {
+      "title": "Catalina Shirt Dress - Ocean Mist Stripe",
+      "first_seen": "2026-03-25T14:21:23.715152+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_41.jpg?v=1767126289",
+      "url": "https://www.fahertybrand.com/products/catalina-shirtdress-ocean-mist-stripe"
+    },
+    "faherty_7876140564549": {
+      "title": "Coastal Poplin Bondhi Dress - Black",
+      "first_seen": "2026-03-25T14:21:23.715235+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_43_CROPPED.jpg?v=1774401826",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-bondhi-dress-black"
+    },
+    "faherty_7876163043397": {
+      "title": "Coastal Poplin Kaua Dress - Garden Sonata",
+      "first_seen": "2026-03-25T14:21:23.715275+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_47.jpg?v=1767125656",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-kaua-dress-garden-sonata"
+    },
+    "faherty_7876163010629": {
+      "title": "Coastal Poplin Nera Skirt - Garden Sonata",
+      "first_seen": "2026-03-25T14:21:23.715283+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WBS2626-GOA-CoastalPoplinNeraSkirt-GardenSonata_OM_FULL_BODY_1_Web.jpg?v=1773066553",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-nera-skirt-garden-sonata"
+    },
+    "faherty_7876163141701": {
+      "title": "Coastal Poplin Nera Skirt - White",
+      "first_seen": "2026-03-25T14:21:23.715291+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_49_d5a1ebcb-8212-4748-94c6-27b72a8070c2.jpg?v=1767035661",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-nera-skirt-white"
+    },
+    "faherty_7876163108933": {
+      "title": "Coastal Poplin Nera Top - White",
+      "first_seen": "2026-03-25T14:21:23.715300+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_50.jpg?v=1770754206",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-nera-top-white"
+    },
+    "faherty_7876140597317": {
+      "title": "Coastal Poplin Relaxed Camp Shirt - Garden Sonata",
+      "first_seen": "2026-03-25T14:21:23.715308+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WWS2611-GOA-CoastalPoplinRelaxedCampShirt-GardenSonata_OM_FRONT_CROP_1_Web.jpg?v=1773063013",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-relaxed-camp-shirt-garden-sonata"
+    },
+    "faherty_7876153278533": {
+      "title": "Costa Pique Shirt - Pure White",
+      "first_seen": "2026-03-25T14:21:23.715864+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXU2507-PUW-CostaPiqueShirt-PureWhite_OM_2399_Web.jpg?v=1773345868",
+      "url": "https://www.fahertybrand.com/products/costa-pique-shirt-pure-white"
+    },
+    "faherty_7876164157509": {
+      "title": "Costa Pique Shirt - Terrain Olive",
+      "first_seen": "2026-03-25T14:21:23.715880+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXU2507-TOO-CostaPiqueShirt-TerrainOlive_OM_2380_Web.jpg?v=1773344709",
+      "url": "https://www.fahertybrand.com/products/costa-pique-shirt-terrain-olive"
+    },
+    "faherty_7876154589253": {
+      "title": "Essential Corduroy Short - Blue Nights",
+      "first_seen": "2026-03-25T14:21:23.716358+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2645-BLN-EssentialCorduroyShort-BlueNights_OM_ALT_1_Web.jpg?v=1773086313",
+      "url": "https://www.fahertybrand.com/products/essential-corduroy-short-blue-nights"
+    },
+    "faherty_7876154785861": {
+      "title": "Essential Corduroy Short - Dark Sand",
+      "first_seen": "2026-03-25T14:21:23.716365+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2645-DAK-EssentialCorduroyShort-DarkSand_OM_FULL_BODY_1_Web.jpg?v=1773242790",
+      "url": "https://www.fahertybrand.com/products/essential-corduroy-short-dark-sand"
+    },
+    "faherty_7876154622021": {
+      "title": "Essential Corduroy Short - Faded Sun",
+      "first_seen": "2026-03-25T14:21:23.716373+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2645-DFU-EssentialCorduroyShort-FadedSun_OM_FRONT_CROP_1_Web.jpg?v=1773242681",
+      "url": "https://www.fahertybrand.com/products/essential-corduroy-short-faded-sun"
+    },
+    "faherty_7876154687557": {
+      "title": "Essential Corduroy Short - Hull Teal",
+      "first_seen": "2026-03-25T14:21:23.716382+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2645-HLT-EssentialCorduroyShort-HullTeal_OM_FRONT_CROP_1_Web.jpg?v=1773242173",
+      "url": "https://www.fahertybrand.com/products/essential-corduroy-short-hull-teal"
+    },
+    "faherty_7876163469381": {
+      "title": "Featherweight Freestyle Rib Cami - Egret Stripe",
+      "first_seen": "2026-03-25T14:21:23.716610+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WKS2622-GTI-FeatherweightFreestyleRibCami-EgretStripe_OM_FRONT_CROP_1_Web.jpg?v=1773065228",
+      "url": "https://www.fahertybrand.com/products/featherweight-freestyle-rib-cami-egret-stripe"
+    },
+    "faherty_7876163272773": {
+      "title": "Featherweight Freestyle Rib Cami - Spellbound",
+      "first_seen": "2026-03-25T14:21:23.716618+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WKS2622-ELU-FeatherweightFreestyleRibCami-Spellbound_OM_FRONT_CROP_1_Web.jpg?v=1773065454",
+      "url": "https://www.fahertybrand.com/products/featherweight-freestyle-rib-cami-spellbound"
+    },
+    "faherty_7784140472389": {
+      "title": "Highland Knit Blazer - Navy Ridge Melange",
+      "first_seen": "2026-03-25T14:21:23.717643+00:00",
+      "price": 498.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MTH2501-NAR-HighlandKnitBlazer-NavyRidgeMelange_OM_FRONT_CROP_1_Web.jpg?v=1771377598",
+      "url": "https://www.fahertybrand.com/products/highland-knit-blazer-navy-ridge-melange"
+    },
+    "faherty_7876140826693": {
+      "title": "Laguna Linen Bandeau Top - Sunbeam Stripe",
+      "first_seen": "2026-03-25T14:21:23.718239+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_51.jpg?v=1767038922",
+      "url": "https://www.fahertybrand.com/products/laguna-linen-bandeau-top-sunbeam-stripe"
+    },
+    "faherty_7876163338309": {
+      "title": "Laguna Linen Mini Shirt Dress - Sunbeam Stripe",
+      "first_seen": "2026-03-25T14:21:23.718287+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WDS2627-EUA-LagunaLinenMiniShirtdress-SunbeamStripe_OM_ALT_1_Web.jpg?v=1773064569",
+      "url": "https://www.fahertybrand.com/products/laguna-linen-mini-shirtdress-sunbeam-stripe"
+    },
+    "faherty_7876157702213": {
+      "title": "Laguna Linen Shirt - Driftwood Coast Plaid",
+      "first_seen": "2026-03-25T14:21:23.718331+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2511-DWO-LagunaLinenShirt-DriftwoodCoastPlaid_OM_FRONT_CROP_1_Web.jpg?v=1773178739",
+      "url": "https://www.fahertybrand.com/products/laguna-linen-shirt-driftwood-coast-plaid"
+    },
+    "faherty_7876153770053": {
+      "title": "Laguna Linen Shirt - Green Hill Stripe",
+      "first_seen": "2026-03-25T14:21:23.718346+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2511-GHI-LagunaLinenShirt-GreenHillStripe_OM_2465_Web.jpg?v=1773350074",
+      "url": "https://www.fahertybrand.com/products/laguna-linen-shirt-green-hill-stripe"
+    },
+    "faherty_7876157636677": {
+      "title": "Laguna Linen Shirt - Rainy Lake Plaid",
+      "first_seen": "2026-03-25T14:21:23.718367+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2511-RAA-LagunaLinenShirt-RainyLakePlaid_OM_2451_Web.jpg?v=1773349750",
+      "url": "https://www.fahertybrand.com/products/laguna-linen-shirt-rainy-lake-plaid"
+    },
+    "faherty_7876163305541": {
+      "title": "Laidback Linen Pant - Sunbeam Stripe",
+      "first_seen": "2026-03-25T14:21:23.718473+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_52.jpg?v=1767038793",
+      "url": "https://www.fahertybrand.com/products/laidback-linen-pant-sunbeam-stripe"
+    },
+    "faherty_7876157308997": {
+      "title": "Legend\u2122 Sweater Shirt (Single Pocket) - Light Heather Grey",
+      "first_seen": "2026-03-25T14:21:23.718807+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXH2309-LHG-LegendSweaterShirt_SinglePocket-LightHeatherGrey_OM_FRONT_CROP_2_Web.jpg?v=1771438018",
+      "url": "https://www.fahertybrand.com/products/legend-sweater-shirt-single-pocket-light-heather-grey"
+    },
+    "faherty_7876158193733": {
+      "title": "Legend\u2122 Sweater Shirt - Sedona Twilight Buffalo",
+      "first_seen": "2026-03-25T14:21:23.719235+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXC0002-SFF-LegendSweaterShirt-SedonaTwilightBuffalo_OM_EDITORIAL_1_Web.jpg?v=1771434289",
+      "url": "https://www.fahertybrand.com/products/legend-sweater-shirt-sedona-twilight-buffalo"
+    },
+    "faherty_7876153606213": {
+      "title": "Legend\u2122 Sweater Shirt - Shore Tan Gingham",
+      "first_seen": "2026-03-25T14:21:23.719243+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXC0002-TGI-LegendSweaterShirt-ShoreTanGingham_OM_EDITORIAL_1_Web.jpg?v=1771435265",
+      "url": "https://www.fahertybrand.com/products/legend-sweater-shirt-shore-tan-gingham"
+    },
+    "faherty_7876090167365": {
+      "title": "Linen Drawstring Pant - Dark Palm",
+      "first_seen": "2026-03-25T14:21:23.719456+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBU2412-DPM-LinenDrawstringPant-DarkPalm_OM_EDITORIAL_1_Web.jpg?v=1773241431",
+      "url": "https://www.fahertybrand.com/products/linen-drawstring-pant-dark-palm"
+    },
+    "faherty_7876163403845": {
+      "title": "Montecito Linen Maxi Skirt - Tropics",
+      "first_seen": "2026-03-25T14:21:23.720154+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_28_1.jpg?v=1774371502",
+      "url": "https://www.fahertybrand.com/products/montecito-linen-maxi-skirt-tropics"
+    },
+    "faherty_7876163665989": {
+      "title": "Montecito Linen Mini Dress - Tropics",
+      "first_seen": "2026-03-25T14:21:23.720162+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2500x3333_27_1.jpg?v=1767125046",
+      "url": "https://www.fahertybrand.com/products/montecito-linen-mini-dress-tropics"
+    },
+    "faherty_7876140499013": {
+      "title": "Montecito Linen Relaxed Camp Shirt - Tropics",
+      "first_seen": "2026-03-25T14:21:23.720169+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WWS2609-TOI-Montecito_Linen_Relaxed_Camp_Shirt-Tropics_OM_ALT_2_Web.jpg?v=1774371502",
+      "url": "https://www.fahertybrand.com/products/montecito-linen-relaxed-camp-shirt-tropics"
+    },
+    "faherty_7876090232901": {
+      "title": "Movement\u2122 Monterey Shirt - Navy Tide Check",
+      "first_seen": "2026-03-25T14:21:23.720635+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2509-NYH-MovementMontereyShirt-NavyTideCheck_OM_WS_2476_Web.jpg?v=1773350980",
+      "url": "https://www.fahertybrand.com/products/movement-monterey-shirt-navy-tide-check"
+    },
+    "faherty_7876156948549": {
+      "title": "Movement\u2122 Monterey Shirt - Wood Wall Stripe",
+      "first_seen": "2026-03-25T14:21:23.720686+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2509-WOW-MovementMontereyShirt-WoodWallStripe_OM_2467_Web.jpg?v=1773350739",
+      "url": "https://www.fahertybrand.com/products/movement-monterey-shirt-wood-wall-stripe"
+    },
+    "faherty_7876087676997": {
+      "title": "Organic Cotton Denim Pant - Birch",
+      "first_seen": "2026-03-25T14:21:23.721013+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MDS2601-BIR-OrganicCottonDenim-Birch_OM_2542_Web.jpg?v=1773352964",
+      "url": "https://www.fahertybrand.com/products/organic-cotton-denim-birch"
+    },
+    "faherty_7876089053253": {
+      "title": "Short-Sleeve Breeze Shirt - Clear Sky Leaf",
+      "first_seen": "2026-03-25T14:21:23.722083+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2516-CYE-SsBreezeShirt-ClearSkyLeaf_OM_FRONT_CROP_1_Web.jpg?v=1773174416",
+      "url": "https://www.fahertybrand.com/products/ss-breeze-shirt-clear-sky-leaf"
+    },
+    "faherty_7876157079621": {
+      "title": "Short-Sleeve Laguna Linen Camp Shirt - Cloud Waters Stripe",
+      "first_seen": "2026-03-25T14:21:23.722172+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2637-CWE-SsLagunaLinenCampShirt-CloudWatersStripe_OM_FRONT_CROP_1_Web.jpg?v=1773165420",
+      "url": "https://www.fahertybrand.com/products/ss-laguna-linen-camp-shirt-cloud-waters-stripe"
+    },
+    "faherty_7876157767749": {
+      "title": "Short-Sleeve Laguna Linen Camp Shirt - Khaki Pincheck",
+      "first_seen": "2026-03-25T14:21:23.722179+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2637-KAC-SsLagunaLinenCampShirt-KhakiPincheck_OM_FRONT_CROP_1_Web.jpg?v=1773163824",
+      "url": "https://www.fahertybrand.com/products/ss-laguna-linen-camp-shirt-khaki-pincheck"
+    },
+    "faherty_7876155834437": {
+      "title": "Short-Sleeve Oasis Camp Shirt - Faded Spruce",
+      "first_seen": "2026-03-25T14:21:23.722486+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXS2604-AUF-Ss_Oasis_Camp_Shirt-Faded_Spruce_OM_FRONT_CROP_1_Web.jpg?v=1773155798",
+      "url": "https://www.fahertybrand.com/products/ss-oasis-camp-shirt-faded-spruce"
+    },
+    "faherty_7876155768901": {
+      "title": "Short-Sleeve Oasis Camp Shirt - Granite Navy",
+      "first_seen": "2026-03-25T14:21:23.722493+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXS2604-GAA-SsOasisCampShirt-GraniteNavy_OM_FRONT_CROP_1_Web.jpg?v=1773153674",
+      "url": "https://www.fahertybrand.com/products/ss-oasis-camp-shirt-granite-navy"
+    },
+    "faherty_7876155867205": {
+      "title": "Short-Sleeve Oasis Camp Shirt - Shore Navy Stripe",
+      "first_seen": "2026-03-25T14:21:23.722516+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MXS2604-OVY-SsOasisCampShirt-ShoreNavyStripe_OM_WS_2408_Web.jpg?v=1773346352",
+      "url": "https://www.fahertybrand.com/products/ss-oasis-camp-shirt-shore-navy-stripe"
+    },
+    "faherty_7876090298437": {
+      "title": "Short-Sleeve Palma Linen Camp Shirt - Mauve Sand Plaid",
+      "first_seen": "2026-03-25T14:21:23.722523+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2523-MVS-SsPalmaLinenCampShirt-MauveSandPlaid_OM_FRONT_CROP_1_Web.jpg?v=1773174118",
+      "url": "https://www.fahertybrand.com/products/ss-palma-linen-camp-shirt-mauve-sand-plaid"
+    },
+    "faherty_7876090331205": {
+      "title": "Short-Sleeve Palma Linen Shirt - Blue Gulf Stripe",
+      "first_seen": "2026-03-25T14:21:23.722537+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2515-BUU-SsPalmaLinenShirt-BlueGulfStripe_OM_WS_2448_Web.jpg?v=1773348289",
+      "url": "https://www.fahertybrand.com/products/ss-palma-linen-shirt-blue-gulf-stripe"
+    },
+    "faherty_7876090265669": {
+      "title": "Short-Sleeve Palma Linen Shirt - Island Blue Stripe",
+      "first_seen": "2026-03-25T14:21:23.722567+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2515-IAL-SsPalmaLinenShirt-IslandBlueStripe_OM_FRONT_CROP_1_Web.jpg?v=1773176531",
+      "url": "https://www.fahertybrand.com/products/ss-palma-linen-shirt-island-blue-stripe"
+    },
+    "faherty_7876155605061": {
+      "title": "Short-Sleeve Sunwashed Sweater Shirt - Blue Sea",
+      "first_seen": "2026-03-25T14:21:23.722729+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2614-LSE-SsSunwashedSweaterShirt-BlueSea_OM_FRONT_CROP_1_Web.jpg?v=1771346581",
+      "url": "https://www.fahertybrand.com/products/ss-sunwashed-sweater-shirt-blue-sea"
+    },
+    "faherty_7876155572293": {
+      "title": "Short-Sleeve Sunwashed Sweater Shirt - White Shell",
+      "first_seen": "2026-03-25T14:21:23.722737+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2614-WHS-SsSunwashedSweaterShirt-WhiteShell_OM_FULL_BODY_1_Web.jpg?v=1771346929",
+      "url": "https://www.fahertybrand.com/products/ss-sunwashed-sweater-shirt-white-shell"
+    },
+    "faherty_7876140924997": {
+      "title": "Straw Stripe Crossbody - Canyon Stripe",
+      "first_seen": "2026-03-25T14:21:23.723156+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-YD0094-105-StrawStripeCrossbody-CanyonStripe_FRONT_1_Web.jpg?v=1769288864",
+      "url": "https://www.fahertybrand.com/products/straw-stripe-crossbody-canyon-stripe"
+    },
+    "faherty_7806931468357": {
+      "title": "Straw Stripe Crossbody - Rainbow Stripe",
+      "first_seen": "2026-03-25T14:21:23.723161+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-YD0094-623-StrawStripeCrossbody-RainbowStripe_FRONT_1_Web.jpg?v=1769288989",
+      "url": "https://www.fahertybrand.com/products/straw-stripe-crossbody-rainbow-stripe"
+    },
+    "faherty_7876140892229": {
+      "title": "Straw Striped Beach Tote - Canyon Stripe",
+      "first_seen": "2026-03-25T14:21:23.723167+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-YD0091-105-StrawStripedBeachTote-CanyonStripe_FRONT_1_Web.jpg?v=1769279916",
+      "url": "https://www.fahertybrand.com/products/straw-striped-beach-tote-canyon-stripe"
+    },
+    "faherty_7806931435589": {
+      "title": "Straw Striped Beach Tote - Rainbow Stripe",
+      "first_seen": "2026-03-25T14:21:23.723172+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-YD0091-623-StrawStripedBeachTote-RainbowStripe_FRONT_1_Web.jpg?v=1769279921",
+      "url": "https://www.fahertybrand.com/products/straw-striped-beach-tote-rainbow-stripe"
+    },
+    "faherty_7806931304517": {
+      "title": "Sunwashed Macrame Tote - Poppy Red",
+      "first_seen": "2026-03-25T14:21:23.724711+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-YD0084-662-SunwashedMacrameTote-PoppyRed_FRONT_1_Web.jpg?v=1769280289",
+      "url": "https://www.fahertybrand.com/products/sunwashed-macrame-tote-poppy-red"
+    },
+    "faherty_7876089643077": {
+      "title": "Sunwashed Organic Hoodie - Breaker Blue Breton Stripe",
+      "first_seen": "2026-03-25T14:21:23.724744+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MQS2608-BBN-SunwashedSlubHoodie-BreakerBlueBretonStripe_OM_FRONT_CROP_1_Web.jpg?v=1773084699",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-hoodie-breaker-blue-breton-stripe"
+    },
+    "faherty_7876089348165": {
+      "title": "Sunwashed Organic Hoodie - Rose Bliss",
+      "first_seen": "2026-03-25T14:21:23.724831+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MQS2608-RLI-SunwashedSlubHoodie-RoseBliss_OM_FRONT_CROP_1_Web.jpg?v=1773238223",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-hoodie-rose-bliss"
+    },
+    "faherty_7876089217093": {
+      "title": "Sunwashed Regenerative Tee - Bermuda Sail Stripe",
+      "first_seen": "2026-03-25T14:21:23.725005+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2517-MUD-SunwashedTee-BermudaSailStripe_OM_WS_2529_Web.jpg?v=1773352667",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tee-bermuda-sail-stripe"
+    },
+    "faherty_7876089315397": {
+      "title": "Sunwashed T-Shirt Polo - Dune Stripe Mist",
+      "first_seen": "2026-03-25T14:21:23.725531+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2530-DMI-SunwashedTshirtPolo-DuneStripeMist_OM_2521_Web.jpg?v=1773352435",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tshirt-polo-dune-stripe-mist"
+    },
+    "faherty_7876089151557": {
+      "title": "Sunwashed T-Shirt Polo - Dune Stripe Navy",
+      "first_seen": "2026-03-25T14:21:23.725538+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2530-DPV-SunwashedTshirtPolo-DuneStripeNavy_OM_WS_2514_Web.jpg?v=1773352014",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tshirt-polo-dune-stripe-navy"
+    },
+    "faherty_7876140073029": {
+      "title": "Sunwashed Tie Dye Sock - Deep Marine",
+      "first_seen": "2026-03-25T14:21:23.725576+00:00",
+      "price": 24.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-UAS2600-DMR-SunwashedTieDyeSock-DeepMarine_ALT_1_Web.jpg?v=1771527146",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tie-dye-sock-deep-marine"
+    },
+    "faherty_7876140040261": {
+      "title": "Sunwashed Tie Dye Sock - Faded Flag",
+      "first_seen": "2026-03-25T14:21:23.725581+00:00",
+      "price": 24.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-UAS2600-FDF-SunwashedTieDyeSock-FadedFlag_ALT_1_Web.jpg?v=1771527151",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tie-dye-sock-faded-flag"
+    },
+    "faherty_7876140138565": {
+      "title": "Sunwashed Tie Dye Sock - Green",
+      "first_seen": "2026-03-25T14:21:23.725587+00:00",
+      "price": 24.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Unisex-UAS2600-GRE-SunwashedTieDyeSock-Green_ALT_1_Web.jpg?v=1771527154",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tie-dye-sock-green"
+    },
+    "faherty_7876090626117": {
+      "title": "Surf Shop Sunwashed Pocket Tee - Pink Sand",
+      "first_seen": "2026-03-25T14:21:23.725677+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2616-PKA-SurfShopSunwashedPocketTee-PinkSand_OM_FRONT_CROP_1_Web.jpg?v=1773238646",
+      "url": "https://www.fahertybrand.com/products/surf-shop-sunwashed-pocket-tee-pink-sand"
+    },
+    "faherty_7876090527813": {
+      "title": "Surf Shop Sunwashed Tee - Isle Sun",
+      "first_seen": "2026-03-25T14:21:23.725692+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2615-ILS-SurfShopSunwashedTee-IsleSun_OM_FRONT_CROP_1_Web.jpg?v=1773239233",
+      "url": "https://www.fahertybrand.com/products/surf-shop-sunwashed-tee-isle-sun"
+    },
+    "faherty_7876156817477": {
+      "title": "The Movement\u2122 Shirt - Faded Rose Stripe",
+      "first_seen": "2026-03-25T14:21:23.726087+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWC0082-DFF-TheMovementShirt-FadedRoseStripe_OM_2497_Web.jpg?v=1773351339",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-faded-rose-stripe"
     }
   },
-  "last_run": "2026-03-24T14:22:15.506368+00:00"
+  "last_run": "2026-03-25T14:21:29.494517+00:00"
 }
