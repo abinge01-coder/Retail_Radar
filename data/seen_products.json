@@ -62838,7 +62838,301 @@
       "price": 48.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPH2502-WHT_3bca48ea-9ce5-4476-9d4b-bff5e5d8b986.jpg?v=1775695098",
       "url": "https://www.fahertybrand.com/products/jb-corded-all-day-hat-white"
+    },
+    "buttercloth_10359036248245": {
+      "title": "Encore in Black",
+      "first_seen": "2026-04-10T14:18:23.138603+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Black_1.jpg?v=1773252277",
+      "url": "https://buttercloth.com/products/encore-in-black"
+    },
+    "buttercloth_10359036018869": {
+      "title": "Encore in Green",
+      "first_seen": "2026-04-10T14:18:23.138625+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Green_LS.jpg?v=1775590051",
+      "url": "https://buttercloth.com/products/encore-in-green"
+    },
+    "buttercloth_10359035068597": {
+      "title": "Encore in Light Blue",
+      "first_seen": "2026-04-10T14:18:23.138644+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Light-Blue_1.jpg?v=1773253063",
+      "url": "https://buttercloth.com/products/encore-in-light-blue"
+    },
+    "buttercloth_10359035363509": {
+      "title": "Encore in Light Pink",
+      "first_seen": "2026-04-10T14:18:23.138660+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Light-Pink_LS.jpg?v=1775590093",
+      "url": "https://buttercloth.com/products/encore-in-light-pink"
+    },
+    "buttercloth_10359035232437": {
+      "title": "Encore in Ocean Blue",
+      "first_seen": "2026-04-10T14:18:23.138676+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Ocean-Blue_1.jpg?v=1773253210",
+      "url": "https://buttercloth.com/products/encore-in-ocean-blue"
+    },
+    "buttercloth_10359035396277": {
+      "title": "Encore in Sand",
+      "first_seen": "2026-04-10T14:18:23.138694+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Sand_LS.jpg?v=1775590119",
+      "url": "https://buttercloth.com/products/encore-in-sand"
+    },
+    "buttercloth_10359035494581": {
+      "title": "Encore in Taupe",
+      "first_seen": "2026-04-10T14:18:23.138711+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1087S_Taupe_LS.jpg?v=1775590142",
+      "url": "https://buttercloth.com/products/encore-in-taupe"
+    },
+    "evereve_9241756106917": {
+      "title": "Ada One Shoulder Maxi Dress",
+      "first_seen": "2026-04-10T14:19:16.431307+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26WD085-MOD_3228_1.jpg?v=1775764093",
+      "url": "https://evereve.com/products/ada-one-shoulder-maxi-dress-multiprint"
+    },
+    "evereve_9195507450021": {
+      "title": "Alessia Dress",
+      "first_seen": "2026-04-10T14:19:16.432125+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_P00070130CP_0118_1.jpg?v=1775764398",
+      "url": "https://evereve.com/products/alessia-dress-marachino"
+    },
+    "evereve_9726808785061": {
+      "title": "Amanda Pointelle Tee",
+      "first_seen": "2026-04-10T14:19:16.432570+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSU26SW27-EFG_1888_1.jpg?v=1775751794",
+      "url": "https://evereve.com/products/amanda-pointelle-tee-white"
+    },
+    "evereve_9726808883365": {
+      "title": "Amanda Pointelle Tee",
+      "first_seen": "2026-04-10T14:19:16.432579+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSU26SW27-EFG_navy_1969_1.jpg?v=1775764096",
+      "url": "https://evereve.com/products/amanda-pointelle-tee-navy"
+    },
+    "evereve_9257572991141": {
+      "title": "Ami Hook and Eye Tee",
+      "first_seen": "2026-04-10T14:19:16.432661+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_SW26110-EVE_1378_1.jpg?v=1775751795",
+      "url": "https://evereve.com/products/ami-hook-and-eye-tee-chocolate"
+    },
+    "evereve_9208221237413": {
+      "title": "Bertie Half Zip Sweat",
+      "first_seen": "2026-04-10T14:19:16.435277+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_VAR03103_1117_1.jpg?v=1775751803",
+      "url": "https://evereve.com/products/bertie-half-zip-sweat-lightgreymarl"
+    },
+    "evereve_9241439568037": {
+      "title": "Briar Button Front Vest",
+      "first_seen": "2026-04-10T14:19:16.436453+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26WT76-MOD_2260_1.jpg?v=1775764088",
+      "url": "https://evereve.com/products/briar-button-front-vest-natural"
+    },
+    "evereve_9236865843365": {
+      "title": "Crepe Short Sleeve Popover",
+      "first_seen": "2026-04-10T14:19:16.440110+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_72MZN_0889_1.jpg?v=1775764397",
+      "url": "https://evereve.com/products/crepe-short-sleeve-popover-black"
+    },
+    "evereve_9241454051493": {
+      "title": "Dallas Linen Shirt",
+      "first_seen": "2026-04-10T14:19:16.440597+00:00",
+      "price": 94.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26WT119-MOD_2365_1.jpg?v=1775751794",
+      "url": "https://evereve.com/products/dallas-linen-shirt-animalprint"
+    },
+    "evereve_9234534596773": {
+      "title": "Elizabeth Military Blazer",
+      "first_seen": "2026-04-10T14:19:16.442293+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26WJ48-CPW_3403_1.jpg?v=1775764089",
+      "url": "https://evereve.com/products/elizabeth-military-blazer-blue"
+    },
+    "evereve_9211328561317": {
+      "title": "Evie Short Sleeve Crew Cardigan",
+      "first_seen": "2026-04-10T14:19:16.444064+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26SW96-EFG_1705_1.jpg?v=1775749097",
+      "url": "https://evereve.com/products/evie-short-sleeve-crew-cardigan-cream-iceblue"
+    },
+    "evereve_9195508105381": {
+      "title": "Gladys Smocked Bodice Dress",
+      "first_seen": "2026-04-10T14:19:16.445777+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_P00070131CP_0034_1.jpg?v=1775751789",
+      "url": "https://evereve.com/products/gladys-smocked-bodice-dress-oystershell"
+    },
+    "evereve_9474062549157": {
+      "title": "Gwen Side Tie Popover Top",
+      "first_seen": "2026-04-10T14:19:16.446617+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/033126_Ecomm_EVSP26WT124-MOD_2309_1.jpg?v=1775149989",
+      "url": "https://evereve.com/products/gwen-side-tie-popover-top-bluestripe"
+    },
+    "evereve_9204794818725": {
+      "title": "Hattie Barrel Crop Jean",
+      "first_seen": "2026-04-10T14:19:16.447128+00:00",
+      "price": 245.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_FPD1F93VN-SR_0177_1.jpg?v=1775764700",
+      "url": "https://evereve.com/products/hattie-barrel-crop-jean-sulfursparklingrose"
+    },
+    "evereve_9241439797413": {
+      "title": "Jace Linen Tank",
+      "first_seen": "2026-04-10T14:19:16.448553+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26WT83-MOD_2609_1.jpg?v=1775764097",
+      "url": "https://evereve.com/products/jace-linen-tank-black-tan"
+    },
+    "evereve_10491033583781": {
+      "title": "Jamie Henley Tank",
+      "first_seen": "2026-04-10T14:19:16.448706+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_OB2307001_1134_1.jpg?v=1775764988",
+      "url": "https://evereve.com/products/jamie-henley-tank-pitchblack"
+    },
+    "evereve_10491033747621": {
+      "title": "Jamie Henley Tank",
+      "first_seen": "2026-04-10T14:19:16.448715+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_OB2307001_DEWSHINE_1247_1.jpg?v=1775764994",
+      "url": "https://evereve.com/products/jamie-henley-tank-dewshine"
+    },
+    "evereve_10500625760421": {
+      "title": "Jamie Henley Tank",
+      "first_seen": "2026-04-10T14:19:16.448723+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_OB2307001_SICILIANYELLOW_1386_1.jpg?v=1775765002",
+      "url": "https://evereve.com/products/jamie-henley-tank-sicilianyellow"
+    },
+    "evereve_10472809201829": {
+      "title": "Joelle Stretch Linen Trouser with Tie Waist",
+      "first_seen": "2026-04-10T14:19:16.449787+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031726_AprilEcomm_EVSP26WB40-B_8713_1.jpg?v=1774968189",
+      "url": "https://evereve.com/products/joelle-stretch-linen-trouser-with-tie-waist-black"
+    },
+    "evereve_9229532299429": {
+      "title": "Kerry Linen Shirt Dress",
+      "first_seen": "2026-04-10T14:19:16.451352+00:00",
+      "price": 195.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_263-WD042-2703_0751_1.jpg?v=1775764389",
+      "url": "https://evereve.com/products/kerry-linen-shirt-dress-darknavy"
+    },
+    "evereve_9381105172645": {
+      "title": "Lynette Wrap Dress",
+      "first_seen": "2026-04-10T14:19:16.454775+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSP26WD027-FA_3725_1.jpg?v=1775751489",
+      "url": "https://evereve.com/products/lynette-wrap-dress-stripe"
+    },
+    "evereve_9211260403877": {
+      "title": "Martine Top",
+      "first_seen": "2026-04-10T14:19:16.456221+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_651A-604C-8594_1422_1.jpg?v=1775748788",
+      "url": "https://evereve.com/products/martine-top-harborblue"
+    },
+    "evereve_9161182609573": {
+      "title": "Mio Mini Dress",
+      "first_seen": "2026-04-10T14:19:16.457919+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_11599_0553_1.jpg?v=1775764390",
+      "url": "https://evereve.com/products/mio-mini-dress-black-whitedot"
+    },
+    "evereve_9229834584229": {
+      "title": "Organza Vest",
+      "first_seen": "2026-04-10T14:19:16.460134+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_CV0105GG7_0280_1.jpg?v=1775763189",
+      "url": "https://evereve.com/products/organza-vest-summersand"
+    },
+    "evereve_9241427116197": {
+      "title": "Park V Neck Sleek Tank",
+      "first_seen": "2026-04-10T14:19:16.460834+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_CW2607-EVE_0335_1.jpg?v=1775749088",
+      "url": "https://evereve.com/products/park-v-neck-sleek-tank-black"
+    },
+    "evereve_9269870526629": {
+      "title": "Park V Neck Sleek Tank",
+      "first_seen": "2026-04-10T14:19:16.460850+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_CW2607-EVE_red_0577_1.jpg?v=1775749088",
+      "url": "https://evereve.com/products/park-v-neck-sleek-tank-chilipepper"
+    },
+    "evereve_9267043860645": {
+      "title": "Short Sleeve Prado Sweater",
+      "first_seen": "2026-04-10T14:19:16.466211+00:00",
+      "price": 80.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_PW262919E_0094_1.jpg?v=1775764702",
+      "url": "https://evereve.com/products/short-sleeve-prado-sweater-palosantos"
+    },
+    "evereve_9651848708261": {
+      "title": "Short Sleeve Ruffle Neck Shirt",
+      "first_seen": "2026-04-10T14:19:16.466226+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/033126_Ecomm_33G-68535EV_1587_1.jpg?v=1775146101",
+      "url": "https://evereve.com/products/short-sleeve-ruffle-neck-shirt-umber"
+    },
+    "evereve_9260753846437": {
+      "title": "Sophie Tie Neck Tank",
+      "first_seen": "2026-04-10T14:19:16.467112+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_EVSU26KT02-SL_0951_1.jpg?v=1775764089",
+      "url": "https://evereve.com/products/sophie-tie-neck-tank-stripe"
+    },
+    "evereve_9725302112421": {
+      "title": "SS V Neck Mini Dress",
+      "first_seen": "2026-04-10T14:19:16.467332+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_10962_0619_1.jpg?v=1775764389",
+      "url": "https://evereve.com/products/ss-v-neck-mini-dress-white-bluefloral"
+    },
+    "evereve_9195507056805": {
+      "title": "Tara Featherweight Sweater Tee",
+      "first_seen": "2026-04-10T14:19:16.468440+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_P00061093KI_0734_1.jpg?v=1775764407",
+      "url": "https://evereve.com/products/tara-featherweight-sweater-tee-maraschino"
+    },
+    "evereve_9243327004837": {
+      "title": "Tatum Lace Up Sweater Tank",
+      "first_seen": "2026-04-10T14:19:16.468525+00:00",
+      "price": 84.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040626_Ecomm_PW262957E_3888_1.jpg?v=1775752091",
+      "url": "https://evereve.com/products/tatum-lace-up-sweater-tank-black"
+    },
+    "evereve_9219811180709": {
+      "title": "The Lil Goodie Goodie",
+      "first_seen": "2026-04-10T14:19:16.469819+00:00",
+      "price": 105.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_8341-315_1043_1.jpg?v=1775769196",
+      "url": "https://evereve.com/products/the-lil-goodie-goodie-motherline"
+    },
+    "evereve_9219810295973": {
+      "title": "The Skipper",
+      "first_seen": "2026-04-10T14:19:16.470281+00:00",
+      "price": 145.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_81801-1900_0988_1.jpg?v=1775769189",
+      "url": "https://evereve.com/products/the-skipper-orange"
+    },
+    "evereve_9209462718629": {
+      "title": "Tia Eyelet Top",
+      "first_seen": "2026-04-10T14:19:16.470857+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_RS6W37E_0419_1.jpg?v=1775764694",
+      "url": "https://evereve.com/products/tia-eyelet-top-lead"
     }
   },
-  "last_run": "2026-04-09T14:58:05.111969+00:00"
+  "last_run": "2026-04-10T14:19:45.886756+00:00"
 }
