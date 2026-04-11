@@ -63132,7 +63132,329 @@
       "price": 128.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040726_Ecomm_RS6W37E_0419_1.jpg?v=1775764694",
       "url": "https://evereve.com/products/tia-eyelet-top-lead"
+    },
+    "buttercloth_10377160196277": {
+      "title": "Apex in Light Pink",
+      "first_seen": "2026-04-11T13:57:39.390380+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P161S_Light-Pink_LS.jpg?v=1775590253",
+      "url": "https://buttercloth.com/products/apex-in-light-pink"
+    },
+    "buttercloth_10377161703605": {
+      "title": "Apex in White Navy",
+      "first_seen": "2026-04-11T13:57:39.390393+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P161S_White-Navy_1.jpg?v=1772736480",
+      "url": "https://buttercloth.com/products/apex-in-white-navy"
+    },
+    "buttercloth_10377156395189": {
+      "title": "Fairway in Light Blue",
+      "first_seen": "2026-04-11T13:57:39.391156+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P163S_Light-Blue_LS.jpg?v=1775590274",
+      "url": "https://buttercloth.com/products/fairway-in-light-blue"
+    },
+    "buttercloth_10377162686645": {
+      "title": "Flourish in Black",
+      "first_seen": "2026-04-11T13:57:39.391168+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P160S_Black_1.jpg?v=1772735663",
+      "url": "https://buttercloth.com/products/flourish-in-black"
+    },
+    "buttercloth_10377159114933": {
+      "title": "Flourish in Navy",
+      "first_seen": "2026-04-11T13:57:39.391179+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P160S_Navy_1.jpg?v=1772736127",
+      "url": "https://buttercloth.com/products/flourish-in-navy"
+    },
+    "buttercloth_10377158131893": {
+      "title": "Flourish in Ocean Blue",
+      "first_seen": "2026-04-11T13:57:39.391192+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P160S_Ocean-Blue_LS.jpg?v=1775590187",
+      "url": "https://buttercloth.com/products/flourish-in-ocean-blue"
+    },
+    "buttercloth_10377160851637": {
+      "title": "Flourish in Raspberry",
+      "first_seen": "2026-04-11T13:57:39.391202+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P160S_Raspberry_1.jpg?v=1772736249",
+      "url": "https://buttercloth.com/products/flourish-in-raspberry"
+    },
+    "buttercloth_10377157148853": {
+      "title": "Flourish in Sky Blue",
+      "first_seen": "2026-04-11T13:57:39.391215+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P160S_Sky-Blue_LS.jpg?v=1775590208",
+      "url": "https://buttercloth.com/products/flourish-in-sky-blue"
+    },
+    "evereve_10515371557029": {
+      "title": "Ana Bootcut Jean",
+      "first_seen": "2026-04-11T13:58:30.534851+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_KP1528MF2_1092_1.jpg?v=1775845697",
+      "url": "https://evereve.com/products/ana-bootcut-jean-obtain"
+    },
+    "evereve_10515382567077": {
+      "title": "Ashton with Front Tie",
+      "first_seen": "2026-04-11T13:58:30.535983+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_KB68301-E_1157_1.jpg?v=1775845688",
+      "url": "https://evereve.com/products/ashton-with-front-tie-ecru"
+    },
+    "evereve_10464394248357": {
+      "title": "Bliss Bar Smooth Gold 3mm Bracelet",
+      "first_seen": "2026-04-11T13:58:30.537451+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BBBSMOG3_0010_1.jpg?v=1775847193",
+      "url": "https://evereve.com/products/bliss-bar-smooth-gold-3mm-bracelet-gold"
+    },
+    "evereve_10464394084517": {
+      "title": "Bliss Bar Smooth Pearl 3mm Bracelet",
+      "first_seen": "2026-04-11T13:58:30.537457+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BBBSMOPE3_0024_1.jpg?v=1775847188",
+      "url": "https://evereve.com/products/bliss-bar-smooth-pearl-3mm-bracelet-pearl-gold"
+    },
+    "evereve_10464394674341": {
+      "title": "Classic Gold 2mm Bracelet w. Heart",
+      "first_seen": "2026-04-11T13:58:30.540199+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLG2LOVEPLUSSMG_0058_1.jpg?v=1775847794",
+      "url": "https://evereve.com/products/classic-gold-2mm-bracelet-w-heart-gold"
+    },
+    "evereve_10464394346661": {
+      "title": "Classic Gold 2mm Bracelet w. Pearl",
+      "first_seen": "2026-04-11T13:58:30.540205+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLG2CLPE8_0048_1.jpg?v=1775847489",
+      "url": "https://evereve.com/products/classic-gold-2mm-bracelet-w-pearl-gold-pearl"
+    },
+    "evereve_10464394576037": {
+      "title": "Classic Gold 3mm Bracelet w. Heart",
+      "first_seen": "2026-04-11T13:58:30.540222+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLG3LOVEPLUSG_0091_1.jpg?v=1775847789",
+      "url": "https://evereve.com/products/classic-gold-3mm-bracelet-w-heart-gold"
+    },
+    "evereve_10464394051749": {
+      "title": "Classic Mixed Metal 2mm Bracelet w. Bead",
+      "first_seen": "2026-04-11T13:58:30.540307+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLMXM2CLG8_0101_1.jpg?v=1775848093",
+      "url": "https://evereve.com/products/classic-mixed-metal-2mm-bracelet-w-bead-silver-gold"
+    },
+    "evereve_10464394412197": {
+      "title": "Classic Mixed Metal 2mm Bracelet w. Heart",
+      "first_seen": "2026-04-11T13:58:30.540312+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLMXM2LOVEPLUSSMG_0141_1.jpg?v=1775848093",
+      "url": "https://evereve.com/products/classic-mixed-metal-2mm-bracelet-w-heart-silver-gold"
+    },
+    "evereve_10464394477733": {
+      "title": "Classic Mixed Metal 3mm Bracelet w. Heart",
+      "first_seen": "2026-04-11T13:58:30.540317+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLMXM3LOVEPLUSG_0157_1.jpg?v=1775848388",
+      "url": "https://evereve.com/products/classic-mixed-metal-3mm-bracelet-w-heart-silver-gold"
+    },
+    "evereve_10464378257573": {
+      "title": "Classic Pearl 3mm Bracelet w Bead",
+      "first_seen": "2026-04-11T13:58:30.540322+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BCLPE3CLG10_0175_1.jpg?v=1775848393",
+      "url": "https://evereve.com/products/classic-pearl-3mm-bracelet-w-bead-pearl-gold"
+    },
+    "evereve_10486140960933": {
+      "title": "Column Jean",
+      "first_seen": "2026-04-11T13:58:30.540817+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_W280-150_0353_1.jpg?v=1775845989",
+      "url": "https://evereve.com/products/column-jean-bluecrush"
+    },
+    "evereve_10464394543269": {
+      "title": "Dignity Sincerity Gold 4mm Bracelet",
+      "first_seen": "2026-04-11T13:58:30.542247+00:00",
+      "price": 52.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BDIGSING4PE_0196_1.jpg?v=1775848689",
+      "url": "https://evereve.com/products/dignity-sincerity-gold-4mm-bracelet-gold-pearl"
+    },
+    "evereve_9229546029221": {
+      "title": "Elly Jacket",
+      "first_seen": "2026-04-11T13:58:30.543129+00:00",
+      "price": 249.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_1L50R75-C978_0234_1.jpg?v=1775840889",
+      "url": "https://evereve.com/products/elly-jacket-laguna"
+    },
+    "evereve_10464378650789": {
+      "title": "Hope Blissful Bracelet",
+      "first_seen": "2026-04-11T13:58:30.547689+00:00",
+      "price": 28.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BHOPBLFOM_0204_1.jpg?v=1775849294",
+      "url": "https://evereve.com/products/hope-blissful-bracelet-oceanmist"
+    },
+    "evereve_10464378945701": {
+      "title": "Hope Blissful Bracelet",
+      "first_seen": "2026-04-11T13:58:30.547695+00:00",
+      "price": 28.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BHOPBLFSILKW_0239_1.jpg?v=1775849589",
+      "url": "https://evereve.com/products/hope-blissful-bracelet-silkywhite"
+    },
+    "evereve_10464379076773": {
+      "title": "Hope Blissful Bracelet",
+      "first_seen": "2026-04-11T13:58:30.547701+00:00",
+      "price": 28.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BHOPBLFSHER_0223_1.jpg?v=1775849289",
+      "url": "https://evereve.com/products/hope-blissful-bracelet-sherbert"
+    },
+    "evereve_10464377995429": {
+      "title": "Hope Classic Bracelet",
+      "first_seen": "2026-04-11T13:58:30.547707+00:00",
+      "price": 15.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BHOPCLOM_0270_1.jpg?v=1775849889",
+      "url": "https://evereve.com/products/hope-classic-bracelet-oceanmist"
+    },
+    "evereve_10464378355877": {
+      "title": "Hope Classic Bracelet",
+      "first_seen": "2026-04-11T13:58:30.547713+00:00",
+      "price": 15.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BHOPCLBUB_0254_1.jpg?v=1775849589",
+      "url": "https://evereve.com/products/hope-classic-bracelet-bubblegum"
+    },
+    "evereve_10464378486949": {
+      "title": "Hope Classic Ocean Mist Bracelet",
+      "first_seen": "2026-04-11T13:58:30.547719+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_APRILJASI_BHOPCLOMSCSMG_0283_1.jpg?v=1775849889",
+      "url": "https://evereve.com/products/hope-classic-ocean-mist-bracelet-oceanmist"
+    },
+    "evereve_9229915259045": {
+      "title": "Julia Wrap Dress",
+      "first_seen": "2026-04-11T13:58:30.549754+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_WDS2608_0555_1.jpg?v=1775845997",
+      "url": "https://evereve.com/products/julia-wrap-dress-pinebaystripe"
+    },
+    "evereve_9241752338597": {
+      "title": "Kaiden Linen Seamed Midi Dress",
+      "first_seen": "2026-04-11T13:58:30.549930+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_EVSP26WD052-MOD_2250_1.jpg?v=1775845393",
+      "url": "https://evereve.com/products/kaiden-linen-seamed-midi-dress-natural"
+    },
+    "evereve_9242918322341": {
+      "title": "Kelsey Jean",
+      "first_seen": "2026-04-11T13:58:30.550412+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_KB77601_0783_1.jpg?v=1775845689",
+      "url": "https://evereve.com/products/kelsey-jean-celebrate"
+    },
+    "evereve_9229545832613": {
+      "title": "Kendra Jacket",
+      "first_seen": "2026-04-11T13:58:30.550528+00:00",
+      "price": 249.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_8645208-4247_0097_1.jpg?v=1775841489",
+      "url": "https://evereve.com/products/kendra-jacket-tonalecru"
+    },
+    "evereve_9241756041381": {
+      "title": "Lillian Linen Shift Dress",
+      "first_seen": "2026-04-11T13:58:30.552306+00:00",
+      "price": 134.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_EVSP26WD055-MOD_2179_1.jpg?v=1775845393",
+      "url": "https://evereve.com/products/lillian-linen-shift-dress-banana"
+    },
+    "evereve_9979866480805": {
+      "title": "Marel Zip Mini Dress",
+      "first_seen": "2026-04-11T13:58:30.554025+00:00",
+      "price": 172.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_SP263579EE_2057_1.jpg?v=1775845997",
+      "url": "https://evereve.com/products/marel-zip-mini-dress-navy"
+    },
+    "evereve_9207825629349": {
+      "title": "Marlow Welt Pocket Short",
+      "first_seen": "2026-04-11T13:58:30.554328+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_2212B-3017_2625_1.jpg?v=1775841189",
+      "url": "https://evereve.com/products/marlow-welt-pocket-short-emblem"
+    },
+    "evereve_10515382632613": {
+      "title": "Meg Wide Leg W/ Buttons",
+      "first_seen": "2026-04-11T13:58:30.555172+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_KG1841MA1L_1217_1.jpg?v=1775845696",
+      "url": "https://evereve.com/products/meg-wide-leg-w-buttons-prevent"
+    },
+    "evereve_10515382730917": {
+      "title": "Meg Wide Leg W/ Raw Hem",
+      "first_seen": "2026-04-11T13:58:30.555182+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_KG1516MK2L_0942_1.jpg?v=1775845688",
+      "url": "https://evereve.com/products/meg-wide-leg-w-raw-hem-rad"
+    },
+    "evereve_9211345961125": {
+      "title": "Mica Maxi Dress",
+      "first_seen": "2026-04-11T13:58:30.555401+00:00",
+      "price": 288.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_649A-165F-8612_1539_1.jpg?v=1775841206",
+      "url": "https://evereve.com/products/mica-maxi-dress-redjasmine"
+    },
+    "evereve_10435338764453": {
+      "title": "Nali Short Sleeve Henley",
+      "first_seen": "2026-04-11T13:58:30.556548+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_9417-3004_2585_1.jpg?v=1775841489",
+      "url": "https://evereve.com/products/nali-short-sleeve-henley-white"
+    },
+    "evereve_9211346026661": {
+      "title": "Primrose Dress",
+      "first_seen": "2026-04-11T13:58:30.559821+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_676A-114F-311_1687_1.jpg?v=1775841188",
+      "url": "https://evereve.com/products/primrose-dress-palmastripe"
+    },
+    "evereve_10515371589797": {
+      "title": "Rachael Straight Leg Jean",
+      "first_seen": "2026-04-11T13:58:30.560038+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_KP1583MD1_1007_1.jpg?v=1775845989",
+      "url": "https://evereve.com/products/rachael-straight-leg-jean-action"
+    },
+    "evereve_9229865451685": {
+      "title": "Rosella Dress",
+      "first_seen": "2026-04-11T13:58:30.561222+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_D3531_1982_1.jpg?v=1775841488",
+      "url": "https://evereve.com/products/rosella-dress-brownstripe"
+    },
+    "evereve_9211345993893": {
+      "title": "Roxanne Dress",
+      "first_seen": "2026-04-11T13:58:30.561341+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_651A-171F-8594_1449_1.jpg?v=1775841188",
+      "url": "https://evereve.com/products/roxanne-dress-harborblue"
+    },
+    "evereve_9241454280869": {
+      "title": "Spencer Muscle Top",
+      "first_seen": "2026-04-11T13:58:30.563734+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_EVSP26WT69-MOD_0832_1.jpg?v=1775845690",
+      "url": "https://evereve.com/products/spencer-muscle-top-black"
+    },
+    "evereve_9213329997989": {
+      "title": "Susannah Scoop Neck Twofer Midi dress",
+      "first_seen": "2026-04-11T13:58:30.564578+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_EVSP26WD093-CPW_1321_1.jpg?v=1775845393",
+      "url": "https://evereve.com/products/susannah-scoop-neck-twofer-midi-dress-navy"
+    },
+    "evereve_9237591949477": {
+      "title": "Utility Soft Barrel",
+      "first_seen": "2026-04-11T13:58:30.567493+00:00",
+      "price": 276.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040826_Ecomm_W384-188_0302_1.jpg?v=1775845989",
+      "url": "https://evereve.com/products/utility-soft-barrel-summerstripe"
     }
   },
-  "last_run": "2026-04-10T14:19:45.886756+00:00"
+  "last_run": "2026-04-11T13:59:00.812475+00:00"
 }
