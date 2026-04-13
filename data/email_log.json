@@ -276,6 +276,14 @@
         "Buttercloth": 8
       },
       "total_scanned": 7151
+    },
+    {
+      "sent_at": "2026-04-13T14:54:13.494825+00:00",
+      "new_count": 1,
+      "by_retailer": {
+        "Evereve": 1
+      },
+      "total_scanned": 7149
     }
   ]
 }
