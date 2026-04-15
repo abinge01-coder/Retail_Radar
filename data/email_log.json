@@ -292,6 +292,16 @@
         "Faherty Brand": 2
       },
       "total_scanned": 7147
+    },
+    {
+      "sent_at": "2026-04-15T14:49:22.625445+00:00",
+      "new_count": 27,
+      "by_retailer": {
+        "Faherty Brand": 15,
+        "Evereve": 2,
+        "Buttercloth": 10
+      },
+      "total_scanned": 7165
     }
   ]
 }
