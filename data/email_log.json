@@ -312,6 +312,14 @@
         "Buttercloth": 10
       },
       "total_scanned": 7256
+    },
+    {
+      "sent_at": "2026-04-17T14:23:29.774158+00:00",
+      "new_count": 2,
+      "by_retailer": {
+        "Faherty Brand": 2
+      },
+      "total_scanned": 7253
     }
   ]
 }
