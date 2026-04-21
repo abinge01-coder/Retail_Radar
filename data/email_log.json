@@ -344,6 +344,14 @@
         "Evereve": 27
       },
       "total_scanned": 7277
+    },
+    {
+      "sent_at": "2026-04-21T14:50:10.335238+00:00",
+      "new_count": 16,
+      "by_retailer": {
+        "Evereve": 16
+      },
+      "total_scanned": 7293
     }
   ]
 }
