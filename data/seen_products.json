@@ -64756,7 +64756,364 @@
       "price": 128.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2620-HLX_0058_Web.jpg?v=1776791929",
       "url": "https://www.fahertybrand.com/products/sun-strider-pleated-short-harbor-line-stripe"
+    },
+    "evereve_10516826095781": {
+      "title": "Alexi Sweatshirt",
+      "first_seen": "2026-04-23T15:17:09.546932+00:00",
+      "price": 133.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_T307-F100-ALEXI_2300_1.jpg?v=1776891791",
+      "url": "https://evereve.com/products/alexi-sweatshirt-mochasolid"
+    },
+    "evereve_9262811447461": {
+      "title": "Amary Studs Slide",
+      "first_seen": "2026-04-23T15:17:09.547338+00:00",
+      "price": 135.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/033126_APRILJASI_AMARY_0143_1.jpg?v=1775141290",
+      "url": "https://evereve.com/products/amary-studs-slide-black-silver"
+    },
+    "evereve_10523090714789": {
+      "title": "Arlene Top",
+      "first_seen": "2026-04-23T15:17:09.548595+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_200-656C-1823_144022_1.jpg?v=1776890894",
+      "url": "https://evereve.com/products/arlene-top-cordobastripe"
+    },
+    "evereve_9372138274981": {
+      "title": "Asher Roll Sleeve Blazer",
+      "first_seen": "2026-04-23T15:17:09.548686+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSU26WJ53-CPW_0532_1.jpg?v=1776892389",
+      "url": "https://evereve.com/products/asher-roll-sleeve-blazer-chocolatebrown"
+    },
+    "evereve_9257591537829": {
+      "title": "Ayla Linen Tank",
+      "first_seen": "2026-04-23T15:17:09.549220+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26KT55-MOD_ANIMAL_1239_1.jpg?v=1776890603",
+      "url": "https://evereve.com/products/ayla-linen-tank-animalprint"
+    },
+    "evereve_9257591603365": {
+      "title": "Ayla Linen Tank",
+      "first_seen": "2026-04-23T15:17:09.549229+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26KT55-MOD_1155_1.jpg?v=1776890594",
+      "url": "https://evereve.com/products/ayla-linen-tank-white"
+    },
+    "evereve_10494297702565": {
+      "title": "Bandit Mushie Tee",
+      "first_seen": "2026-04-23T15:17:09.549453+00:00",
+      "price": 75.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_2WTBANDI_1891_1.jpg?v=1776890602",
+      "url": "https://evereve.com/products/bandit-mushie-tee-black"
+    },
+    "evereve_9962473291941": {
+      "title": "Carolyn Gingham Pant",
+      "first_seen": "2026-04-23T15:17:09.552288+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26WB81-SL_0161_1.jpg?v=1776890612",
+      "url": "https://evereve.com/products/carolyn-gingham-pant-gingham"
+    },
+    "evereve_9240898371749": {
+      "title": "Frankie Stretch Linen Vest",
+      "first_seen": "2026-04-23T15:17:09.559051+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_ENL5420-L_0795_1.jpg?v=1776890922",
+      "url": "https://evereve.com/products/frankie-stretch-linen-vest-washedpink"
+    },
+    "evereve_10507940495525": {
+      "title": "Ginger Mini Dress",
+      "first_seen": "2026-04-23T15:17:09.559520+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_RS6D650_2440_1.jpg?v=1776892097",
+      "url": "https://evereve.com/products/ginger-mini-dress-moodindigo"
+    },
+    "evereve_9234634539173": {
+      "title": "Hanly Top",
+      "first_seen": "2026-04-23T15:17:09.560660+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_SP266501EE_1323_1.jpg?v=1776891788",
+      "url": "https://evereve.com/products/hanly-top-white"
+    },
+    "evereve_10428450603173": {
+      "title": "Jones Strappy Tank",
+      "first_seen": "2026-04-23T15:17:09.563863+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021926_MayEcomm_SS2641-EVE_coffee_0868_1.jpg?v=1776878595",
+      "url": "https://evereve.com/products/jones-strappy-tank-coffeequartz"
+    },
+    "evereve_10428450668709": {
+      "title": "Jones Strappy Tank",
+      "first_seen": "2026-04-23T15:17:09.563871+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021926_MayEcomm_SS2641-EVE_black_0621_1.jpg?v=1776878590",
+      "url": "https://evereve.com/products/jones-strappy-tank-black"
+    },
+    "evereve_10428450701477": {
+      "title": "Jones Strappy Tank",
+      "first_seen": "2026-04-23T15:17:09.563879+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021926_MayEcomm_SS2641-EVE_0500_1.jpg?v=1776878596",
+      "url": "https://evereve.com/products/jones-strappy-tank-white"
+    },
+    "evereve_9229904150693": {
+      "title": "Juliette Lace Pintuck Cami",
+      "first_seen": "2026-04-23T15:17:09.564212+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26WT50-MOD_1010_1.jpg?v=1776891789",
+      "url": "https://evereve.com/products/juliette-lace-pintuck-cami-black"
+    },
+    "evereve_9268953841829": {
+      "title": "Kellen Dye Effect Blouse",
+      "first_seen": "2026-04-23T15:17:09.564702+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26WT134-SL_0666_1.jpg?v=1776891802",
+      "url": "https://evereve.com/products/kellen-dye-effect-blouse-blueprint"
+    },
+    "evereve_10442282434725": {
+      "title": "Laurie Dress",
+      "first_seen": "2026-04-23T15:17:09.566122+00:00",
+      "price": 104.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_D48-LAURIE_2336_1.jpg?v=1776890901",
+      "url": "https://evereve.com/products/laurie-dress-trueblack"
+    },
+    "evereve_9223202111653": {
+      "title": "Nia Textured Bomber",
+      "first_seen": "2026-04-23T15:17:09.571948+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_WJA127294-E-SL_0938_1.jpg?v=1776891489",
+      "url": "https://evereve.com/products/nia-textured-bomber-white"
+    },
+    "evereve_9272318558373": {
+      "title": "Nikita Henley Tank",
+      "first_seen": "2026-04-23T15:17:09.572046+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26KT08-GX_0305_1.jpg?v=1776890888",
+      "url": "https://evereve.com/products/nikita-henley-tank-brown"
+    },
+    "evereve_9272318722213": {
+      "title": "Nikita Henley Tank",
+      "first_seen": "2026-04-23T15:17:09.572054+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSP26KT08-GX_WHITE_0427_1.jpg?v=1776890589",
+      "url": "https://evereve.com/products/nikita-henley-tank-white"
+    },
+    "evereve_9272271798437": {
+      "title": "Nora V Neck Muscle Tee",
+      "first_seen": "2026-04-23T15:17:09.572372+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021926_MayEcomm_EVSP26KT33-GX_0735_1.jpg?v=1776878288",
+      "url": "https://evereve.com/products/nora-v-neck-muscle-tee-skyway"
+    },
+    "evereve_10494297604261": {
+      "title": "Paddle Up Mushie Tee",
+      "first_seen": "2026-04-23T15:17:09.573259+00:00",
+      "price": 75.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_2WTPADDL-WWH_1967_1.jpg?v=1776890598",
+      "url": "https://evereve.com/products/paddle-up-mushie-tee-white"
+    },
+    "evereve_10435338961061": {
+      "title": "Paro Blouse",
+      "first_seen": "2026-04-23T15:17:09.573692+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_9494-1680_2076_1.jpg?v=1776890898",
+      "url": "https://evereve.com/products/paro-blouse-chocolate"
+    },
+    "evereve_10503977795749": {
+      "title": "Petite Anessa W/ Front Yoke",
+      "first_seen": "2026-04-23T15:17:09.574202+00:00",
+      "price": 269.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/041526_PetiteEcomm_1R61P95-C955_0835_1.jpg?v=1776953290",
+      "url": "https://evereve.com/products/petite-anessa-w-front-yoke-labelle"
+    },
+    "evereve_10501941166245": {
+      "title": "Petite Good Straight Jean",
+      "first_seen": "2026-04-23T15:17:09.574282+00:00",
+      "price": 169.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/041526_PetiteEcomm_April_GPST960-I511_0447_1.jpg?v=1776952690",
+      "url": "https://evereve.com/products/petite-good-straight-jean-i511"
+    },
+    "evereve_9242918355109": {
+      "title": "Petite Kelly Bootcut Jean",
+      "first_seen": "2026-04-23T15:17:09.574341+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/041526_PetiteEcomm_April_KP2467PA1_0559_1.jpg?v=1776952094",
+      "url": "https://evereve.com/products/petite-kelly-bootcut-jean-zest"
+    },
+    "evereve_10112975569061": {
+      "title": "Petite Laurel Canyon 30` W/ Forward Panel",
+      "first_seen": "2026-04-23T15:17:09.574400+00:00",
+      "price": 279.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/041526_PetiteEcomm_April_1V58E77-8438_0932_1.jpg?v=1776952690",
+      "url": "https://evereve.com/products/petite-laurel-canyon-30-w-forward-panel-fontessa"
+    },
+    "evereve_9242888437925": {
+      "title": "Petite Meg Wide Leg w Utility Pockets Pant",
+      "first_seen": "2026-04-23T15:17:09.574565+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/041526_PetiteEcomm_April_KB72101P_0754_1.jpg?v=1776952094",
+      "url": "https://evereve.com/products/petite-meg-wide-leg-w-utility-pockets-pant-olive"
+    },
+    "evereve_10494297735333": {
+      "title": "Resort View Mushie Tee",
+      "first_seen": "2026-04-23T15:17:09.576009+00:00",
+      "price": 75.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_2WTRSOR-WWH_1799_1.jpg?v=1776890595",
+      "url": "https://evereve.com/products/resort-view-mushie-tee-white"
+    },
+    "evereve_10523090190501": {
+      "title": "Rix Top",
+      "first_seen": "2026-04-23T15:17:09.576480+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_200-520B-1020_1596_1.jpg?v=1776890594",
+      "url": "https://evereve.com/products/rix-top-marinastripe"
+    },
+    "evereve_9262819049637": {
+      "title": "Sariya Sneaker",
+      "first_seen": "2026-04-23T15:17:09.577837+00:00",
+      "price": 140.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040226_APRILJASI_SARIYA_0058_1.jpg?v=1775243889",
+      "url": "https://evereve.com/products/sariya-sneaker-white-grey"
+    },
+    "evereve_9654766108837": {
+      "title": "Sawyer Scoop Tank",
+      "first_seen": "2026-04-23T15:17:09.577967+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_EVSU26KT11-MOD_2694_1.jpg?v=1776892089",
+      "url": "https://evereve.com/products/sawyer-scoop-tank-black"
+    },
+    "evereve_10438828621989": {
+      "title": "Strapless Maxi Dress",
+      "first_seen": "2026-04-23T15:17:09.580068+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_11941_2544_1.jpg?v=1776890888",
+      "url": "https://evereve.com/products/strapless-maxi-dress-verticalbluecombo"
+    },
+    "evereve_10435338928293": {
+      "title": "Tabi Short Sleeve Cardigan",
+      "first_seen": "2026-04-23T15:17:09.580707+00:00",
+      "price": 238.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_9500-3004_2132_1.jpg?v=1776890931",
+      "url": "https://evereve.com/products/tabi-short-sleeve-cardigan-navy"
+    },
+    "evereve_9219810754725": {
+      "title": "The Quick Dip",
+      "first_seen": "2026-04-23T15:17:09.582405+00:00",
+      "price": 218.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042026_Ecomm_81831-1979_1729_1.jpg?v=1776890896",
+      "url": "https://evereve.com/products/the-quick-dip-greenblueyellowmulti"
+    },
+    "faherty_8021064351813": {
+      "title": "Biarritz One Piece - Black",
+      "first_seen": "2026-04-23T15:17:36.717578+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2608-BLK_936_Web.jpg?v=1776871294",
+      "url": "https://www.fahertybrand.com/products/biarritz-one-piece-black"
+    },
+    "faherty_8021063860293": {
+      "title": "Biarritz One Piece - Summer Leaves Blue",
+      "first_seen": "2026-04-23T15:17:36.717588+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2615-LEV_696_Web.jpg?v=1776871632",
+      "url": "https://www.fahertybrand.com/products/biarritz-one-piece-summer-leaves-blue"
+    },
+    "faherty_8021112881221": {
+      "title": "Coastal Poplin Elia Mini Smocked Dress - Black",
+      "first_seen": "2026-04-23T15:17:36.718032+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2655-BLK_588_Web.jpg?v=1776870306",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-elia-mini-smocked-dress-black"
+    },
+    "faherty_8021113176133": {
+      "title": "Coastal Poplin Elia Mini Smocked Dress - White",
+      "first_seen": "2026-04-23T15:17:36.718040+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2655-WHT_069_Web.jpg?v=1776870762",
+      "url": "https://www.fahertybrand.com/products/coastal-poplin-elia-mini-smocked-dress-white"
+    },
+    "faherty_8021064482885": {
+      "title": "Isla Bottom - Black",
+      "first_seen": "2026-04-23T15:17:36.720984+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2620-BLK_0333_Web.jpg?v=1776872265",
+      "url": "https://www.fahertybrand.com/products/isla-bottom-black"
+    },
+    "faherty_8021064417349": {
+      "title": "Isla Top - Black",
+      "first_seen": "2026-04-23T15:17:36.720993+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2603-BLK_502_Web.jpg?v=1776874447",
+      "url": "https://www.fahertybrand.com/products/isla-top-black"
+    },
+    "faherty_8021115076677": {
+      "title": "Riptide Top - Sea Blue Stripe",
+      "first_seen": "2026-04-23T15:17:36.724727+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2605-SZS_0716_Web.jpg?v=1776874920",
+      "url": "https://www.fahertybrand.com/products/riptide-top-sea-blue-stripe"
+    },
+    "faherty_6900356841541": {
+      "title": "Slim/Straight Denim (32\") - Stone",
+      "first_seen": "2026-04-23T15:17:36.725902+00:00",
+      "price": 79.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP24-faherty-MDS2405-STN-slim-straight-denim-32in-stone_OM_FRONT_CROP_1.jpg?v=1753301808",
+      "url": "https://www.fahertybrand.com/products/feel-good-slim-straight-denim-32-stone"
+    },
+    "faherty_8021113405509": {
+      "title": "Sophia Smocked Dress - Chocolate Petal",
+      "first_seen": "2026-04-23T15:17:36.726083+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2614-CPO_381_Web.jpg?v=1776802108",
+      "url": "https://www.fahertybrand.com/products/sophia-smocked-dress-chocolate-petal"
+    },
+    "faherty_8021113274437": {
+      "title": "Sophia Smocked Dress - Coastal Bloom",
+      "first_seen": "2026-04-23T15:17:36.726090+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2614-CTX_0022_Web.jpg?v=1776802862",
+      "url": "https://www.fahertybrand.com/products/sophia-smocked-dress-coastal-bloom"
+    },
+    "faherty_8021064613957": {
+      "title": "Summerset Bottom - Sea Blue Stripe",
+      "first_seen": "2026-04-23T15:17:36.727190+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2618-SZS_0861_Web.jpg?v=1776875397",
+      "url": "https://www.fahertybrand.com/products/summerset-bottom-sea-blue-stripe"
+    },
+    "faherty_8021055766597": {
+      "title": "Sun Strider Camille Mini Dress - Flax",
+      "first_seen": "2026-04-23T15:17:36.727244+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2641-FLX_0010_Web.jpg?v=1776869269",
+      "url": "https://www.fahertybrand.com/products/sun-strider-camille-mini-dress-flax"
+    },
+    "faherty_8021063204933": {
+      "title": "Sun Strider Linen Romper - Flax",
+      "first_seen": "2026-04-23T15:17:36.727302+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2637-FLX_0364_Web_a5a9cf7f-5f1f-4031-8b3e-b4fd69ab0e0a.jpg?v=1776873620",
+      "url": "https://www.fahertybrand.com/products/sun-strider-linen-romper-flax"
+    },
+    "faherty_8021056258117": {
+      "title": "Sun Strider Milo Dress - Acorn",
+      "first_seen": "2026-04-23T15:17:36.727339+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2639-ACX.jpg?v=1776896897",
+      "url": "https://www.fahertybrand.com/products/sun-strider-milo-dress-acorn"
+    },
+    "faherty_8021055733829": {
+      "title": "Sun Strider Milo Dress - Black",
+      "first_seen": "2026-04-23T15:17:36.727348+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2639-BLK_342_Web.jpg?v=1776870117",
+      "url": "https://www.fahertybrand.com/products/sun-strider-milo-dress-black"
+    },
+    "faherty_8021064515653": {
+      "title": "Surfseeker Rash Guard - Seal Brown",
+      "first_seen": "2026-04-23T15:17:36.728857+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2610-WWN.jpg?v=1776896192",
+      "url": "https://www.fahertybrand.com/products/surfseeker-rash-guard-seal-brown"
     }
   },
-  "last_run": "2026-04-22T14:50:10.819655+00:00"
+  "last_run": "2026-04-23T15:17:41.144539+00:00"
 }
