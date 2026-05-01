@@ -67213,7 +67213,245 @@
       "price": 98.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YH0048-204_0009_Web.jpg?v=1777048431",
       "url": "https://www.fahertybrand.com/products/straw-sun-hat-chocolate"
+    },
+    "evereve_9650947915941": {
+      "title": "Atlas Stripe Jacket",
+      "first_seen": "2026-05-01T14:19:02.675737+00:00",
+      "price": 139.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_CJ1164DS7_1585_1.jpg?v=1777562622",
+      "url": "https://evereve.com/products/atlas-stripe-jacket-sailstripe"
+    },
+    "evereve_9471891701925": {
+      "title": "Better Place Embelished Dress",
+      "first_seen": "2026-05-01T14:19:02.676756+00:00",
+      "price": 149.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_CD2156ES2_2554_1.jpg?v=1777569189",
+      "url": "https://evereve.com/products/better-place-embelished-dress-toastedcoconut"
+    },
+    "evereve_9650950996133": {
+      "title": "Cala Cinched Vest",
+      "first_seen": "2026-05-01T14:19:02.678332+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_CV0100HA2_1328_1.jpg?v=1777562603",
+      "url": "https://evereve.com/products/cala-cinched-vest-collagenstripe"
+    },
+    "evereve_9272271667365": {
+      "title": "Ellice Cropped Sweatshirt",
+      "first_seen": "2026-05-01T14:19:02.682992+00:00",
+      "price": 57.8,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_EVSU26KT03-CC_banana_0777_1.jpg?v=1777562601",
+      "url": "https://evereve.com/products/ellice-cropped-sweatshirt-banana"
+    },
+    "evereve_9272271765669": {
+      "title": "Ellice Cropped Sweatshirt",
+      "first_seen": "2026-05-01T14:19:02.683000+00:00",
+      "price": 57.8,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_EVSU26KT03-CC_0136_1.jpg?v=1777565898",
+      "url": "https://evereve.com/products/ellice-cropped-sweatshirt-black"
+    },
+    "evereve_10556832645285": {
+      "title": "Este Resin Cord Necklace",
+      "first_seen": "2026-05-01T14:19:02.683878+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/033026_MAYJASI_A831715BLK-AG_0043_1.jpg?v=1777491799",
+      "url": "https://evereve.com/products/este-resin-cord-necklace-black-brown"
+    },
+    "evereve_10259224002725": {
+      "title": "Farah Dolman Cuff Sleeve Shirt",
+      "first_seen": "2026-05-01T14:19:02.684503+00:00",
+      "price": 93.5,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_G264T7573_0285_1.jpg?v=1777564403",
+      "url": "https://evereve.com/products/farah-dolman-cuff-sleeve-shirt-blue"
+    },
+    "evereve_10525342433445": {
+      "title": "Favorite Daughter Sock Set",
+      "first_seen": "2026-05-01T14:19:02.684637+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_FDWS523843_0013_1.jpg?v=1777565890",
+      "url": "https://evereve.com/products/favorite-daughter-sock-set-white"
+    },
+    "evereve_10428488908965": {
+      "title": "Hadlee Halter Tie Mini",
+      "first_seen": "2026-05-01T14:19:02.686687+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_G264D7117_0530_1.jpg?v=1777564405",
+      "url": "https://evereve.com/products/hadlee-halter-tie-mini-cream-red"
+    },
+    "evereve_10456431427749": {
+      "title": "Inez Stone Cord Necklace",
+      "first_seen": "2026-05-01T14:19:02.688314+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_MAYJASI_A831716-AG_0037_1.jpg?v=1777565289",
+      "url": "https://evereve.com/products/inez-stone-cord-necklace-brown-blk-gold"
+    },
+    "evereve_8901201232037": {
+      "title": "Jenna Eyelet Dress",
+      "first_seen": "2026-05-01T14:19:02.689114+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_EU25-30039W-CPW_2306_1.jpg?v=1777562594",
+      "url": "https://evereve.com/products/jenna-eyelet-dress-black"
+    },
+    "evereve_9272899567781": {
+      "title": "Lacey Wide Leg Pants",
+      "first_seen": "2026-05-01T14:19:02.691893+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_G264P6559_1165_1.jpg?v=1777564391",
+      "url": "https://evereve.com/products/lacey-wide-leg-pants-navy"
+    },
+    "evereve_10257680072869": {
+      "title": "Lacy Pintuck Sleeveless Top",
+      "first_seen": "2026-05-01T14:19:02.691901+00:00",
+      "price": 108.8,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_G264T7523_1124_1.jpg?v=1777564395",
+      "url": "https://evereve.com/products/lacy-pintuck-sleeveless-top-navy"
+    },
+    "evereve_10182839271589": {
+      "title": "Mae Stone Drop Earring",
+      "first_seen": "2026-05-01T14:19:02.694466+00:00",
+      "price": 52.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-E0135-BW_0086_1.jpg?v=1777567689",
+      "url": "https://evereve.com/products/mae-stone-drop-earring-ivory"
+    },
+    "evereve_10182829179045": {
+      "title": "Mara Stud Earring",
+      "first_seen": "2026-05-01T14:19:02.694792+00:00",
+      "price": 52.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-E0133-BW_0095_1.jpg?v=1777563255",
+      "url": "https://evereve.com/products/mara-stud-earring-gold-silver"
+    },
+    "evereve_10182858506405": {
+      "title": "Mara Stud Earring",
+      "first_seen": "2026-05-01T14:19:02.694798+00:00",
+      "price": 52.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-E0133-BW_TURQ_0124_1.jpg?v=1777563259",
+      "url": "https://evereve.com/products/mara-stud-earring-turq-gold"
+    },
+    "evereve_9471882854565": {
+      "title": "Need this embelished dress",
+      "first_seen": "2026-05-01T14:19:02.697704+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_CD2183EK7_2358_1.jpg?v=1777565892",
+      "url": "https://evereve.com/products/need-this-embelished-dress-white"
+    },
+    "evereve_10455878205605": {
+      "title": "Posh Button Linen Dress",
+      "first_seen": "2026-05-01T14:19:02.701182+00:00",
+      "price": 139.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_CD2175SK9_0623_1.jpg?v=1777562589",
+      "url": "https://evereve.com/products/posh-button-linen-dress-black"
+    },
+    "evereve_10428067217573": {
+      "title": "Shopping Spree Jacket",
+      "first_seen": "2026-05-01T14:19:02.704495+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_31BJ5787EE_1704_5.jpg?v=1777562888",
+      "url": "https://evereve.com/products/shopping-spree-jacket-bluecombo"
+    },
+    "evereve_9654336290981": {
+      "title": "Simone Linen Drawstring Short",
+      "first_seen": "2026-05-01T14:19:02.704784+00:00",
+      "price": 238.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_W457-132_0915_1.jpg?v=1777564239",
+      "url": "https://evereve.com/products/simone-linen-drawstring-short-driftwood"
+    },
+    "evereve_10182825803941": {
+      "title": "Solana Beaded Bracelet",
+      "first_seen": "2026-05-01T14:19:02.705280+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-B0071-BW_BLUEMULTI_0036_2.jpg?v=1777562289",
+      "url": "https://evereve.com/products/solana-beaded-bracelet-bluemulti"
+    },
+    "evereve_10182834258085": {
+      "title": "Solana Beaded Bracelet",
+      "first_seen": "2026-05-01T14:19:02.705285+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-B0071-BW_PINKMULTI_0059_1.jpg?v=1777562013",
+      "url": "https://evereve.com/products/solana-beaded-bracelet-pinkmulti"
+    },
+    "evereve_10182838190245": {
+      "title": "Solana Beaded Bracelet",
+      "first_seen": "2026-05-01T14:19:02.705292+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-B0071-BW_NEUTRALMULTI_0063_1.jpg?v=1777562288",
+      "url": "https://evereve.com/products/solana-beaded-bracelet-neutralmulti"
+    },
+    "evereve_10182863126693": {
+      "title": "Solana Beaded Bracelet",
+      "first_seen": "2026-05-01T14:19:02.705298+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-B0071-BW_BRIGHTMULTI_0078_1.jpg?v=1777562296",
+      "url": "https://evereve.com/products/solana-beaded-bracelet-brightmulti"
+    },
+    "evereve_10456608309413": {
+      "title": "Solana Beaded Bracelet",
+      "first_seen": "2026-05-01T14:19:02.705305+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-B0071-BW_NAVYMULTI_0048_1.jpg?v=1777561989",
+      "url": "https://evereve.com/products/solana-beaded-bracelet-navymulti"
+    },
+    "evereve_10481271898277": {
+      "title": "Sonny Semi Stone Necklace",
+      "first_seen": "2026-05-01T14:19:02.705395+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_MAYJASI_A831718-AG_0065_1.jpg?v=1777564991",
+      "url": "https://evereve.com/products/sonny-semi-stone-necklace-yellow"
+    },
+    "evereve_10521569624229": {
+      "title": "The Becoming Bead Shell",
+      "first_seen": "2026-05-01T14:19:02.707210+00:00",
+      "price": 126.65,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_CB2725EK7_1460_1.jpg?v=1777569489",
+      "url": "https://evereve.com/products/the-becoming-bead-shell-hibiscusorange"
+    },
+    "evereve_10442287022245": {
+      "title": "The Go To Dress",
+      "first_seen": "2026-05-01T14:19:02.707687+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_45FWMPTG4723-LKS_0367_1.jpg?v=1777562897",
+      "url": "https://evereve.com/products/the-go-to-dress-lightkhakistripe"
+    },
+    "evereve_10428067512485": {
+      "title": "Together Again Denim Jacket",
+      "first_seen": "2026-05-01T14:19:02.709183+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_57CH5111EE_1870_1.jpg?v=1777562889",
+      "url": "https://evereve.com/products/together-again-denim-jacket-blue"
+    },
+    "evereve_9267797885093": {
+      "title": "Voile Lettie Top",
+      "first_seen": "2026-05-01T14:19:02.710244+00:00",
+      "price": 117.3,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_WTU2603_2201_1.jpg?v=1777564228",
+      "url": "https://evereve.com/products/voile-lettie-top-bluemoonpetals"
+    },
+    "evereve_9654333964453": {
+      "title": "Weightless Utility Soft Barrel Jean",
+      "first_seen": "2026-05-01T14:19:02.710415+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_W480-232_1946_1.jpg?v=1777564394",
+      "url": "https://evereve.com/products/weightless-utility-soft-barrel-jean-californiablue"
+    },
+    "evereve_9491499778213": {
+      "title": "Willa Waist Gathered Shirt",
+      "first_seen": "2026-05-01T14:19:02.710569+00:00",
+      "price": 74.8,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_Ecomm_EVSU26WT54-SL_2048_1.jpg?v=1777562889",
+      "url": "https://evereve.com/products/willa-waist-gathered-shirt-black"
+    },
+    "faherty_8046225424453": {
+      "title": "Faherty x Slowtide Beach Pouch - Antilles Blue Suns",
+      "first_seen": "2026-05-01T14:19:31.149437+00:00",
+      "price": 40.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/UAS2697-ABN.jpg?v=1777394901",
+      "url": "https://www.fahertybrand.com/products/faherty-x-slowtide-beach-pouch-antilles-blue-suns"
+    },
+    "faherty_7653185814597": {
+      "title": "Stretch Terry Patch Pocket Ankle Pant - Northern Brown",
+      "first_seen": "2026-05-01T14:19:31.156836+00:00",
+      "price": 74.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FA25-FAHERTY-Womens-WBF2514-NBW-StretchTerryPatchPocketAnklePant-NorthernBrown-_OM_ALT_1.jpg?v=1761163046",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-patch-pocket-ankle-pant-northern-brown"
     }
   },
-  "last_run": "2026-04-30T15:15:09.409966+00:00"
+  "last_run": "2026-05-01T14:19:34.768923+00:00"
 }
