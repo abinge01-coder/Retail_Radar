@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-05-02T19:04:49.388714+00:00",
+  "generated_at": "2026-05-02T19:15:35.168282+00:00",
   "meta_date": "2026-05-02",
   "sources_checked": [
-    "reddit.com/r/BobsTavern",
-    "reddit.com/r/hearthstone"
+    "hearthstone.blizzard.com/news"
   ],
   "community_posts": [],
   "hsreplay_heroes": null,
-  "patch_notes": [],
+  "patch_notes": [
+    {
+      "title": "Hearthstone Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Minion Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Tavern Spell Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Trinket Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds Track Refresh",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    }
+  ],
   "trends": {
     "top_keywords": [],
     "discussed_heroes": [],
