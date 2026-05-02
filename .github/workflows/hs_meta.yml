@@ -3,6 +3,10 @@ name: 🎮 Battlegrounds Meta Scan
 on:
   schedule:
     - cron: '0 8 * * *'   # 8:00 AM UTC daily
+  push:
+    branches: [main]
+    paths:
+      - 'hs_meta.py'        # re-scan when the scanner itself changes
   workflow_dispatch:
     inputs:
       force_insights:
