@@ -67493,7 +67493,175 @@
       "price": 64.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/033026_MAYJASI_A831720-AG_GOLD_0069_1.jpg?v=1776185588",
       "url": "https://evereve.com/products/tatum-t-bar-necklace-gold"
+    },
+    "buttercloth_7447363944629": {
+      "title": "Cosmic Umbra In Black",
+      "first_seen": "2026-05-06T15:27:53.833374+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV846S-RBK_1.jpg?v=1698794449",
+      "url": "https://buttercloth.com/products/cosmic-umbra-in-black"
+    },
+    "buttercloth_7523040559285": {
+      "title": "Imperial In Light Blue",
+      "first_seen": "2026-05-06T15:27:53.834287+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV916S-RLB_1.jpg?v=1714691255",
+      "url": "https://buttercloth.com/products/imperial-in-light-blue"
+    },
+    "buttercloth_7713285767349": {
+      "title": "Indispensable In White",
+      "first_seen": "2026-05-06T15:27:53.834296+00:00",
+      "price": 37.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN168L-WHITE_1.jpg?v=1725566710",
+      "url": "https://buttercloth.com/products/indispensable-in-white"
+    },
+    "buttercloth_7379822411957": {
+      "title": "Morning Surf In Deep Sea Blue",
+      "first_seen": "2026-05-06T15:27:53.834650+00:00",
+      "price": 47.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN124S-RBS-1.jpg?v=1683670626",
+      "url": "https://buttercloth.com/products/morning-surf-in-deep-sea-blue"
+    },
+    "buttercloth_7500301828277": {
+      "title": "Solaris In Navy",
+      "first_seen": "2026-05-06T15:27:53.835188+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV943S-Navy-01.jpg?v=1710872117",
+      "url": "https://buttercloth.com/products/solaris-in-navy"
+    },
+    "buttercloth_7458037334197": {
+      "title": "Staple Assurance In Black",
+      "first_seen": "2026-05-06T15:27:53.835287+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV907S-RBK_2.jpg?v=1755634590",
+      "url": "https://buttercloth.com/products/staple-assurance-in-black"
+    },
+    "buttercloth_7379815891125": {
+      "title": "Tenacious Vigour In Navy",
+      "first_seen": "2026-05-06T15:27:53.835407+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SHJ013-RNV_1B.jpg?v=1714178268",
+      "url": "https://buttercloth.com/products/tenacious-vigour-in-navy"
+    },
+    "buttercloth_7523040657589": {
+      "title": "Voyage In Ocean Blue",
+      "first_seen": "2026-05-06T15:27:53.835687+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV909S-ROB_1.jpg?v=1714583117",
+      "url": "https://buttercloth.com/products/voyage-in-ocean-blue"
+    },
+    "evereve_9219829629093": {
+      "title": "Braided Top Handle",
+      "first_seen": "2026-05-06T15:28:50.975673+00:00",
+      "price": 145.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021826_MAYJASI_CVS1000353-GABLK_0100_1.jpg?v=1776092289",
+      "url": "https://evereve.com/products/braided-top-handle-greenapple"
+    },
+    "evereve_10184423276709": {
+      "title": "Colette Statement Earring",
+      "first_seen": "2026-05-06T15:28:50.978810+00:00",
+      "price": 50.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-E0134-BW_0133_1.jpg?v=1777912089",
+      "url": "https://evereve.com/products/colette-statement-earring-gold"
+    },
+    "evereve_10556826747045": {
+      "title": "Dorthia Two Tone Huggies",
+      "first_seen": "2026-05-06T15:28:50.980545+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_MAYJASI_A140499GCZ-AG_0006_1.jpg?v=1777913888",
+      "url": "https://evereve.com/products/dorthia-two-tone-huggies-gold-silver"
+    },
+    "evereve_10456434835621": {
+      "title": "Emi Bangle Set",
+      "first_seen": "2026-05-06T15:28:50.981694+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/022625_MayEcomm_A544512GTQ-AG_0386_1.jpg?v=1777914189",
+      "url": "https://evereve.com/products/emi-bangle-set-gold-turq"
+    },
+    "evereve_10182856212645": {
+      "title": "Gia Resin Link Necklace",
+      "first_seen": "2026-05-06T15:28:50.983797+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_06-N0076-BW_0027_1.jpg?v=1777912389",
+      "url": "https://evereve.com/products/gia-resin-link-necklace-gold"
+    },
+    "evereve_10431450579109": {
+      "title": "Glamour Girl 4pc Travel Kit",
+      "first_seen": "2026-05-06T15:28:50.984088+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/031626_MAYJASI_10059PCAMULTI_0270_1.jpg?v=1776356289",
+      "url": "https://evereve.com/products/glamour-girl-4pc-travel-kit-cash-blk-python-leo"
+    },
+    "evereve_9219829006501": {
+      "title": "Grande Heart Fob",
+      "first_seen": "2026-05-06T15:28:50.984727+00:00",
+      "price": 85.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021826_MAYJASI_CVS1000525-EMRLD_0089_1.jpg?v=1776092890",
+      "url": "https://evereve.com/products/grande-heart-fob-emerald"
+    },
+    "evereve_10556829073573": {
+      "title": "Jessa Friendship Bracelet",
+      "first_seen": "2026-05-06T15:28:50.987122+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040226_MAYJASI_A544510-AG_BLUE_0270_1.jpg?v=1777491488",
+      "url": "https://evereve.com/products/jessa-friendship-bracelet-blue-turq"
+    },
+    "evereve_10472785445029": {
+      "title": "Julie Statement Bracelet",
+      "first_seen": "2026-05-06T15:28:50.988159+00:00",
+      "price": 40.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_MAYJASI_A544509BRN-AG_0062_1.jpg?v=1777913894",
+      "url": "https://evereve.com/products/julie-statement-bracelet-chocolate"
+    },
+    "evereve_10525342400677": {
+      "title": "Mom of the Year Sock Set",
+      "first_seen": "2026-05-06T15:28:50.994682+00:00",
+      "price": 38.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_45FDWS523841-BL_0009_1.jpg?v=1777566189",
+      "url": "https://evereve.com/products/mom-of-the-year-sock-set-pink-wht-grey"
+    },
+    "evereve_9219829596325": {
+      "title": "Shortie Strap",
+      "first_seen": "2026-05-06T15:28:51.001732+00:00",
+      "price": 165.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/021826_MAYJASI_CVS1000521-EMRLD_0103_1.jpg?v=1776092589",
+      "url": "https://evereve.com/products/shortie-strap-emerald"
+    },
+    "evereve_10500471947429": {
+      "title": "Sonny Semi Stone Necklace",
+      "first_seen": "2026-05-06T15:28:51.002463+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_MAYJASI_A831718-AG_0197_1.jpg?v=1777914789",
+      "url": "https://evereve.com/products/sonny-semi-stone-necklace-green"
+    },
+    "evereve_10538107535525": {
+      "title": "Tatum T Bar Necklace",
+      "first_seen": "2026-05-06T15:28:51.003914+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/033026_MAYJASI_A831720-AG_SILVER_0086_1.jpg?v=1776188888",
+      "url": "https://evereve.com/products/tatum-t-bar-necklace-silver"
+    },
+    "evereve_10456415535269": {
+      "title": "Whitney Hoop Earring",
+      "first_seen": "2026-05-06T15:28:51.007364+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_A132490-AG_0150_1.jpg?v=1777912994",
+      "url": "https://evereve.com/products/whitney-hoop-earring-gold"
+    },
+    "evereve_10556811215013": {
+      "title": "Whitney Hoop Earring",
+      "first_seen": "2026-05-06T15:28:51.007369+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042726_MAYJASI_A132490-AG_SILVER_0171_1.jpg?v=1777912994",
+      "url": "https://evereve.com/products/whitney-hoop-earring-silver"
+    },
+    "faherty_7821227491397": {
+      "title": "Faherty X REEF Ojai Slim Flip Flop - Dark Brown",
+      "first_seen": "2026-05-06T15:29:22.932469+00:00",
+      "price": 85.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WFU2600-DKB_251_Web.jpg?v=1777570809",
+      "url": "https://www.fahertybrand.com/products/faherty-x-reef-ojai-slim-flip-flop-dark-brown"
     }
   },
-  "last_run": "2026-05-04T15:13:24.317360+00:00"
+  "last_run": "2026-05-06T15:29:26.146865+00:00"
 }
