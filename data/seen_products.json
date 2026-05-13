@@ -68473,7 +68473,203 @@
       "price": 98.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/5_SU25-FAHERTY-N-A-WAU2502-TUC-SurfGhanaTote-TuscanSun_FRONT_1.jpg?v=1752808346",
       "url": "https://www.fahertybrand.com/products/surf-ghana-tote-tuscan-sun"
+    },
+    "buttercloth_10412703973557": {
+      "title": "Drift in Charcoal Heather",
+      "first_seen": "2026-05-13T15:44:40.986704+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1086S_Charcoal-Heather_1.jpg?v=1776123396",
+      "url": "https://buttercloth.com/products/drift-in-charcoal-heather"
+    },
+    "buttercloth_10412703908021": {
+      "title": "Drift in Dark Navy",
+      "first_seen": "2026-05-13T15:44:40.986716+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1086S_Dark-Navy_LS.jpg?v=1776123432",
+      "url": "https://buttercloth.com/products/drift-in-dark-navy"
+    },
+    "buttercloth_10412703678645": {
+      "title": "Drift in Fuchsia Red",
+      "first_seen": "2026-05-13T15:44:40.986731+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1086S_Fuschia-Red_LS.jpg?v=1776123524",
+      "url": "https://buttercloth.com/products/drift-in-fuchsia-red"
+    },
+    "buttercloth_10412704104629": {
+      "title": "Drift in Legion Blue Heather",
+      "first_seen": "2026-05-13T15:44:40.986743+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1086S_Legion-Blue-Heather_1.jpg?v=1776123542",
+      "url": "https://buttercloth.com/products/drift-in-legion-blue-heather"
+    },
+    "buttercloth_10412703547573": {
+      "title": "Drift in Light Blue",
+      "first_seen": "2026-05-13T15:44:40.986753+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1086S_Light-Blue_LS.jpg?v=1776123582",
+      "url": "https://buttercloth.com/products/drift-in-light-blue"
+    },
+    "buttercloth_10412704596149": {
+      "title": "Flow in Black",
+      "first_seen": "2026-05-13T15:44:40.987194+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1004S_Black_1.jpg?v=1776123101",
+      "url": "https://buttercloth.com/products/flow-in-black"
+    },
+    "buttercloth_10412704530613": {
+      "title": "Flow in Light Sage",
+      "first_seen": "2026-05-13T15:44:40.987205+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1004S_Light-Sage_LS.jpg?v=1776123140",
+      "url": "https://buttercloth.com/products/flow-in-light-sage"
+    },
+    "buttercloth_10412704137397": {
+      "title": "Horizon in Haze Blue",
+      "first_seen": "2026-05-13T15:44:40.987377+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1012S_Haze-Blue_1.jpg?v=1776123157",
+      "url": "https://buttercloth.com/products/horizon-in-haze-blue"
+    },
+    "buttercloth_10412704301237": {
+      "title": "Horizon in Magenta",
+      "first_seen": "2026-05-13T15:44:40.987388+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1012S_Magenta_LS.jpg?v=1776123265",
+      "url": "https://buttercloth.com/products/horizon-in-magenta"
+    },
+    "buttercloth_10412704432309": {
+      "title": "Horizon in Navy",
+      "first_seen": "2026-05-13T15:44:40.987400+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1012S_Navy_LS.jpg?v=1776123289",
+      "url": "https://buttercloth.com/products/horizon-in-navy"
+    },
+    "buttercloth_10412704366773": {
+      "title": "Horizon in White Black",
+      "first_seen": "2026-05-13T15:44:40.987410+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1012S_White_Black_1.jpg?v=1776123308",
+      "url": "https://buttercloth.com/products/horizon-in-white-black"
+    },
+    "buttercloth_10377547088053": {
+      "title": "Limelight in Peppermint",
+      "first_seen": "2026-05-13T15:44:40.987803+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P172S_Peppermint_LS.jpg?v=1777045981",
+      "url": "https://buttercloth.com/products/limelight-in-peppermint"
+    },
+    "buttercloth_10377547448501": {
+      "title": "Limelight in Red",
+      "first_seen": "2026-05-13T15:44:40.987813+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P172S_Red_1.jpg?v=1777046006",
+      "url": "https://buttercloth.com/products/limelight-in-red"
+    },
+    "buttercloth_10412705087669": {
+      "title": "Mirage in Black",
+      "first_seen": "2026-05-13T15:44:40.987897+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1109S_Black_1.jpg?v=1776123595",
+      "url": "https://buttercloth.com/products/mirage-in-black"
+    },
+    "buttercloth_10412704891061": {
+      "title": "Mirage in Taupe",
+      "first_seen": "2026-05-13T15:44:40.987906+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1109S_Taupe_LS.jpg?v=1776123630",
+      "url": "https://buttercloth.com/products/mirage-in-taupe"
+    },
+    "buttercloth_10412705022133": {
+      "title": "Mirage in Vintage Blue",
+      "first_seen": "2026-05-13T15:44:40.987920+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1109S_Vintage-Blue_LS.jpg?v=1776123694",
+      "url": "https://buttercloth.com/products/mirage-in-vintage-blue"
+    },
+    "buttercloth_10377548038325": {
+      "title": "Mosaic in Fuchsia Red",
+      "first_seen": "2026-05-13T15:44:40.987931+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P165S_Fuchsia-Red_LS.jpg?v=1777045876",
+      "url": "https://buttercloth.com/products/mosaic-in-fuchsia-red"
+    },
+    "buttercloth_10377547907253": {
+      "title": "Mosaic in Light Blue",
+      "first_seen": "2026-05-13T15:44:40.987944+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P165S_Light-Blue_1.jpg?v=1777045927",
+      "url": "https://buttercloth.com/products/mosaic-in-light-blue"
+    },
+    "buttercloth_10377547972789": {
+      "title": "Mosaic in Ocean Blue",
+      "first_seen": "2026-05-13T15:44:40.987954+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P165S_Ocean-Blue_1.jpg?v=1777045954",
+      "url": "https://buttercloth.com/products/mosaic-in-ocean-blue"
+    },
+    "buttercloth_10412704825525": {
+      "title": "Spark in Black",
+      "first_seen": "2026-05-13T15:44:40.988474+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1085S_Black_1.jpg?v=1776123334",
+      "url": "https://buttercloth.com/products/spark-in-black"
+    },
+    "buttercloth_10412704759989": {
+      "title": "Spark in Monaco Blue",
+      "first_seen": "2026-05-13T15:44:40.988484+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV1085S_Monaco-Blue_1.jpg?v=1776123369",
+      "url": "https://buttercloth.com/products/spark-in-monaco-blue"
+    },
+    "buttercloth_10412704661685": {
+      "title": "Spectrum in Light Blue",
+      "first_seen": "2026-05-13T15:44:40.988494+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV824S_Light-Blue_LS.jpg?v=1776123058",
+      "url": "https://buttercloth.com/products/spectrum-in-light-blue"
+    },
+    "buttercloth_10412704727221": {
+      "title": "Spectrum in White Plum",
+      "first_seen": "2026-05-13T15:44:40.988509+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV824S_White_Plum_1.jpg?v=1776123077",
+      "url": "https://buttercloth.com/products/spectrum-in-white-plum"
+    },
+    "buttercloth_10377547514037": {
+      "title": "Tranquil in Black Charcoal",
+      "first_seen": "2026-05-13T15:44:40.988775+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P147S_Black_Charcoal_1.jpg?v=1776963215",
+      "url": "https://buttercloth.com/products/tranquil-in-black-charcoal"
+    },
+    "buttercloth_10377546989749": {
+      "title": "Tranquil in Blue",
+      "first_seen": "2026-05-13T15:44:40.988783+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P147S_Blue_1.jpg?v=1776963240",
+      "url": "https://buttercloth.com/products/tranquil-in-blue"
+    },
+    "buttercloth_10377547055285": {
+      "title": "Tranquil in Palace Blue",
+      "first_seen": "2026-05-13T15:44:40.988791+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/P147S_Palace-Blue_LS.jpg?v=1776963291",
+      "url": "https://buttercloth.com/products/tranquil-in-palace-blue"
+    },
+    "evereve_10431450808485": {
+      "title": "Duo Stash Pouches",
+      "first_seen": "2026-05-13T15:45:23.031473+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051126_MAYJASI_10128LEO_0184_1.jpg?v=1778612289",
+      "url": "https://evereve.com/products/duo-stash-pouches-leopard-pearlblack"
+    },
+    "faherty_7552627146821": {
+      "title": "Short-Sleeve Sweater Shirt - Northern Depths Stripe",
+      "first_seen": "2026-05-13T15:45:52.449386+00:00",
+      "price": 84.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU25-FAHERTY-MENS-MYS2504-NDT-SsSweaterShirt-NorthernDepthsStripe_FRONT_OM_WS_1.jpg?v=1752808203",
+      "url": "https://www.fahertybrand.com/products/ss-sweater-shirt-northern-depths-stripe"
     }
   },
-  "last_run": "2026-05-12T15:42:33.337095+00:00"
+  "last_run": "2026-05-13T15:45:55.487844+00:00"
 }
