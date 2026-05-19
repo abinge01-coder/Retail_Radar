@@ -69124,7 +69124,336 @@
       "price": 58.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042826_MAYJASI_06-N0093-TT-BW_0097_1.jpg?v=1777913289",
       "url": "https://evereve.com/products/val-triple-chain-necklace-gold-silver"
+    },
+    "buttercloth_10415078768821": {
+      "title": "Cardinal in Legion Blue",
+      "first_seen": "2026-05-19T16:24:55.582905+00:00",
+      "price": 82.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN172S_Legion-Blue_1.jpg?v=1776370043",
+      "url": "https://buttercloth.com/products/cardinal-in-legion-blue"
+    },
+    "buttercloth_10415078506677": {
+      "title": "Cardinal in Natural White Heather",
+      "first_seen": "2026-05-19T16:24:55.582916+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN172S_Natural-White-Heather_1.jpg?v=1776370070",
+      "url": "https://buttercloth.com/products/cardinal-in-natural-white-heather"
+    },
+    "buttercloth_10415078736053": {
+      "title": "Cardinal in Navy Heather",
+      "first_seen": "2026-05-19T16:24:55.582938+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN172S_Navy-Heather_1.jpg?v=1776370114",
+      "url": "https://buttercloth.com/products/cardinal-in-navy-heather"
+    },
+    "buttercloth_10415078670517": {
+      "title": "Cardinal in Oak Tree Heather",
+      "first_seen": "2026-05-19T16:24:55.582948+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN172S_Oak-Tree-Heather_1.jpg?v=1776370149",
+      "url": "https://buttercloth.com/products/cardinal-in-oak-tree-heather"
+    },
+    "buttercloth_10415078178997": {
+      "title": "Fundamental in Legion Blue",
+      "first_seen": "2026-05-19T16:24:55.583731+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN170S_Legion-Blue_1.jpg?v=1776369869",
+      "url": "https://buttercloth.com/products/fundamental-in-legion-blue"
+    },
+    "buttercloth_10415079588021": {
+      "title": "Fundamental in Natural White Heather",
+      "first_seen": "2026-05-19T16:24:55.583749+00:00",
+      "price": 66.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN170S_Natural-White-Heather_1.jpg?v=1776369897",
+      "url": "https://buttercloth.com/products/fundamental-in-natural-white-heather"
+    },
+    "buttercloth_10415079489717": {
+      "title": "Fundamental in Navy Heather",
+      "first_seen": "2026-05-19T16:24:55.583760+00:00",
+      "price": 66.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN170S_Navy-Heather_1.jpg?v=1776369925",
+      "url": "https://buttercloth.com/products/fundamental-in-navy-heather"
+    },
+    "buttercloth_10415079686325": {
+      "title": "Fundamental in Oak Tree Heather",
+      "first_seen": "2026-05-19T16:24:55.583769+00:00",
+      "price": 66.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN170S_Oak-Tree-Heather_LS.jpg?v=1776369972",
+      "url": "https://buttercloth.com/products/fundamental-in-oak-tree-heather"
+    },
+    "buttercloth_10415079620789": {
+      "title": "Fundamental in Taupe Heather",
+      "first_seen": "2026-05-19T16:24:55.583779+00:00",
+      "price": 66.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN170S_Taupe-Heather_1.jpg?v=1776369990",
+      "url": "https://buttercloth.com/products/fundamental-in-taupe-heather"
+    },
+    "buttercloth_10415079424181": {
+      "title": "Fundamental in Vintage Blue Heather",
+      "first_seen": "2026-05-19T16:24:55.583789+00:00",
+      "price": 66.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN170S_Vintage-Blue-Heather_LS.jpg?v=1776370027",
+      "url": "https://buttercloth.com/products/fundamental-in-vintage-blue-heather"
+    },
+    "buttercloth_10415079096501": {
+      "title": "Lucid in Bone White Heather",
+      "first_seen": "2026-05-19T16:24:55.584363+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN125S_Bone-White-Heather_1.jpg?v=1776369755",
+      "url": "https://buttercloth.com/products/lucid-in-bone-white-heather"
+    },
+    "buttercloth_10415079162037": {
+      "title": "Lucid in Navy",
+      "first_seen": "2026-05-19T16:24:55.584373+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN125S_Navy_1.jpg?v=1776369789",
+      "url": "https://buttercloth.com/products/lucid-in-navy"
+    },
+    "buttercloth_10415078899893": {
+      "title": "Lucid in Ocean Blue",
+      "first_seen": "2026-05-19T16:24:55.584382+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN125S_Ocean-Blue_LS.jpg?v=1776369813",
+      "url": "https://buttercloth.com/products/lucid-in-ocean-blue"
+    },
+    "buttercloth_10415078965429": {
+      "title": "Lucid in Vintage Blue",
+      "first_seen": "2026-05-19T16:24:55.584391+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN125S_Vintage-Blue_1.jpg?v=1776369837",
+      "url": "https://buttercloth.com/products/lucid-in-vintage-blue"
+    },
+    "faherty_8021114519621": {
+      "title": "Baja Hoodie - Kingfisher Stripe",
+      "first_seen": "2026-05-19T16:26:11.961671+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WKU2615-KFX_481_Web.jpg?v=1776889638",
+      "url": "https://www.fahertybrand.com/products/baja-hoodie-kingfisher-stripe"
+    },
+    "faherty_8021112225861": {
+      "title": "Baja Knit Short - Cay Blues Block",
+      "first_seen": "2026-05-19T16:26:11.961693+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBS2515-CUK.jpg?v=1777393994",
+      "url": "https://www.fahertybrand.com/products/baja-knit-short-cay-blues-block"
+    },
+    "faherty_8021099446341": {
+      "title": "Baja Maxi Dress - Kingfisher Stripe",
+      "first_seen": "2026-05-19T16:26:11.961701+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2649-KFX_Baja_Maxi_Dress_OM_FULL_BODY_1_Web.jpg?v=1779199980",
+      "url": "https://www.fahertybrand.com/products/baja-maxi-dress-kingfisher-stripe"
+    },
+    "faherty_8021114191941": {
+      "title": "Baja Pant - Kingfisher Stripe",
+      "first_seen": "2026-05-19T16:26:11.961712+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2633-KFX_625_Web.jpg?v=1776889064",
+      "url": "https://www.fahertybrand.com/products/baja-pant-kingfisher-stripe"
+    },
+    "faherty_8021056356421": {
+      "title": "Beach Chino Pant - Abyss Navy",
+      "first_seen": "2026-05-19T16:26:11.961732+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBU2605-YVY_027_Web.jpg?v=1776096940",
+      "url": "https://www.fahertybrand.com/products/beach-chino-pant-abyss-navy"
+    },
+    "faherty_8021055504453": {
+      "title": "Beach Chino Pant - Light Pine",
+      "first_seen": "2026-05-19T16:26:11.961752+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBU2605-LTP_426_Web.jpg?v=1779204094",
+      "url": "https://www.fahertybrand.com/products/beach-chino-pant-light-pine"
+    },
+    "faherty_8021055406149": {
+      "title": "Beach Chino Pant - Shell Stone",
+      "first_seen": "2026-05-19T16:26:11.961772+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBU2605-SLL_1397_Web.jpg?v=1779204168",
+      "url": "https://www.fahertybrand.com/products/beach-chino-pant-shell-stone"
+    },
+    "faherty_8021060517957": {
+      "title": "Cabana Towel Terry Surf Stripe Polo - Deep Navy",
+      "first_seen": "2026-05-19T16:26:11.962106+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKU2372-DNY_012_Web.jpg?v=1776101954",
+      "url": "https://www.fahertybrand.com/products/cabana-towel-terry-surf-stripe-polo-deep-navy"
+    },
+    "faherty_8021060583493": {
+      "title": "Cabana Towel Terry Sweatshort - Deep Navy",
+      "first_seen": "2026-05-19T16:26:11.962115+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBU2606-DNY_353_Web.jpg?v=1776098516",
+      "url": "https://www.fahertybrand.com/products/cabana-towel-terry-sweatshort-deep-navy"
+    },
+    "faherty_8021060878405": {
+      "title": "Cabana Towel Terry Sweatshort - Ivory Tropic Trees",
+      "first_seen": "2026-05-19T16:26:11.962123+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBU2400-ITR.jpg?v=1777394056",
+      "url": "https://www.fahertybrand.com/products/cabana-towel-terry-sweatshort-ivory-tropic-trees"
+    },
+    "faherty_8021059305541": {
+      "title": "Essential Linen Short (6.5\") - Dark Palm",
+      "first_seen": "2026-05-19T16:26:11.963544+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBU2411-DPM_Essential_Linen_Short_6.5_OM_FRONT_CROP_1.jpg?v=1779137443",
+      "url": "https://www.fahertybrand.com/products/essential-linen-short-6-5-dark-palm"
+    },
+    "faherty_8021060911173": {
+      "title": "Legend\u2122 Sweater Shirt - Midnight Teal Plaid",
+      "first_seen": "2026-05-19T16:26:11.966380+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MXC0002-MDP_354_Web.jpg?v=1776264433",
+      "url": "https://www.fahertybrand.com/products/legend-sweater-shirt-midnight-teal-plaid"
+    },
+    "faherty_8021113831493": {
+      "title": "Seacoast Crochet Beach Short - Sailor Stitch",
+      "first_seen": "2026-05-19T16:26:11.969081+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2630-IZA_097_Web.jpg?v=1776888767",
+      "url": "https://www.fahertybrand.com/products/seacoast-crochet-beach-short-sailor-stitch"
+    },
+    "faherty_8021113602117": {
+      "title": "Seacoast Crochet Column Dress - Midnight Labyrinth",
+      "first_seen": "2026-05-19T16:26:11.969090+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2646-XXX_Campaign.jpg?v=1778086749",
+      "url": "https://www.fahertybrand.com/products/seacoast-crochet-column-dress-midnight-labyrinth"
+    },
+    "faherty_8021115666501": {
+      "title": "Seacoast Crochet Dress - Chestnut Stitch",
+      "first_seen": "2026-05-19T16:26:11.969099+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2604-ZST_0069_Web.jpg?v=1776889359",
+      "url": "https://www.fahertybrand.com/products/seacoast-crochet-sl-dress-chestnut-stitch"
+    },
+    "faherty_8021113012293": {
+      "title": "Seacoast Crochet Dress - Sailor Stitch",
+      "first_seen": "2026-05-19T16:26:11.969115+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2604-IZA_167_Web.jpg?v=1776889227",
+      "url": "https://www.fahertybrand.com/products/seacoast-crochet-sl-dress-sailor-stitch"
+    },
+    "faherty_8021099774021": {
+      "title": "Seacoast Crochet Relaxed Camp Shirt - Sailor Stitch",
+      "first_seen": "2026-05-19T16:26:11.969131+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WYU2613-IZA_Seacoast_Crochet_Relaxed_Camp_Shirt_OM_EDITORIAL_2_Web.jpg?v=1779200795",
+      "url": "https://www.fahertybrand.com/products/seacoast-crochet-relaxed-camp-shirt-sailor-stitch"
+    },
+    "faherty_8021060124741": {
+      "title": "Short-Sleeve Breeze Camp Shirt - Garden Valley",
+      "first_seen": "2026-05-19T16:26:11.969418+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWS2525-GVY_1165_Web.jpg?v=1776890946",
+      "url": "https://www.fahertybrand.com/products/ss-breeze-camp-shirt-garden-valley"
+    },
+    "faherty_8021058715717": {
+      "title": "Short-Sleeve Cabana Towel Terry Shirt - Ivory Tropic Trees",
+      "first_seen": "2026-05-19T16:26:11.969640+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MXU2304-ITR_028_Web.jpg?v=1776273718",
+      "url": "https://www.fahertybrand.com/products/ss-cabana-towel-terry-shirt-ivory-tropic-trees"
+    },
+    "faherty_8021058846789": {
+      "title": "Short-Sleeve Cabana Towel Terry Shirt - Summer Waves Tile",
+      "first_seen": "2026-05-19T16:26:11.969648+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MXU2602-STZ.jpg?v=1777492331",
+      "url": "https://www.fahertybrand.com/products/ss-cabana-towel-terry-shirt-summer-waves-tile"
+    },
+    "faherty_8021061173317": {
+      "title": "Short-Sleeve Palma Linen Shirt - Lilac Shell Stripe",
+      "first_seen": "2026-05-19T16:26:11.970141+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/PalmaLinenShirt.jpg?v=1777484558",
+      "url": "https://www.fahertybrand.com/products/ss-palma-linen-shirt-lilac-shell-stripe"
+    },
+    "faherty_8021065203781": {
+      "title": "Soleil Bottom - Blossom Serenade",
+      "first_seen": "2026-05-19T16:26:11.970519+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2628-RDD_0116_Web.jpg?v=1776890094",
+      "url": "https://www.fahertybrand.com/products/soleil-bottom-blossom-serenade"
+    },
+    "faherty_8021065302085": {
+      "title": "Soleil One Piece - Blossom Serenade",
+      "first_seen": "2026-05-19T16:26:11.970535+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2629-RDD_409_Web.jpg?v=1776889236",
+      "url": "https://www.fahertybrand.com/products/soleil-one-piece-blossom-serenade"
+    },
+    "faherty_8021065171013": {
+      "title": "Soleil Top - Blossom Serenade",
+      "first_seen": "2026-05-19T16:26:11.970543+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WSU2604-RDD_0225_Web.jpg?v=1776890009",
+      "url": "https://www.fahertybrand.com/products/soleil-top-blossom-serenade"
+    },
+    "faherty_8021060059205": {
+      "title": "Sunwashed Organic Crew - Blue Ivory Feeder",
+      "first_seen": "2026-05-19T16:26:11.972454+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2318-BFV_1101_Web.jpg?v=1776099028",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-crew-blue-ivory-feeder"
+    },
+    "faherty_8021062352965": {
+      "title": "Sunwashed Organic Graphic Hoodie - Blue Nights",
+      "first_seen": "2026-05-19T16:26:11.972516+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MQU2606-BLN.jpg?v=1777483670",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-graphic-hoodie-blue-nights"
+    },
+    "faherty_8021059043397": {
+      "title": "Sunwashed Organic Hoodie - Beach Sky Stripe",
+      "first_seen": "2026-05-19T16:26:11.972576+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MQS2608-BPY_701_Web.jpg?v=1776890647",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-hoodie-beach-sky-stripe"
+    },
+    "faherty_8021062189125": {
+      "title": "Sunwashed Regenerative Graphic Tee - Stormy Lake",
+      "first_seen": "2026-05-19T16:26:11.972796+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKU2613-TYL_652_Web.jpg?v=1776196915",
+      "url": "https://www.fahertybrand.com/products/sunwashed-graphic-tee-stormy-lake"
+    },
+    "faherty_8021061730373": {
+      "title": "Sunwashed Regenerative Tee - Blue Ravine Tie Dye",
+      "first_seen": "2026-05-19T16:26:11.972912+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKU2605-RTY_426_Web.jpg?v=1776102823",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tee-blue-ravine-tie-dye"
+    },
+    "faherty_8021115142213": {
+      "title": "Voile Lucia Dress - Blossom Serenade",
+      "first_seen": "2026-05-19T16:26:11.975113+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2672-RDD_1161_Web.jpg?v=1776889893",
+      "url": "https://www.fahertybrand.com/products/voile-lucia-dress-blossom-serenade"
+    },
+    "faherty_8021115306053": {
+      "title": "Voile Rio Shirtdress - Blossom Serenade",
+      "first_seen": "2026-05-19T16:26:11.975122+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2669-RDD_890_Web.jpg?v=1776889766",
+      "url": "https://www.fahertybrand.com/products/voile-rio-shirtdress-blossom-serenade"
+    },
+    "faherty_8021060747333": {
+      "title": "Whitewater Hoodie - Ivory Desert Stripe",
+      "first_seen": "2026-05-19T16:26:11.975236+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MQS2515-IDI.jpg?v=1777394221",
+      "url": "https://www.fahertybrand.com/products/whitewater-hoodie-ivory-desert-stripe"
+    },
+    "faherty_8021112094789": {
+      "title": "Whitewater Sweatshort - Ivory Desert Stripe",
+      "first_seen": "2026-05-19T16:26:11.975324+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBS2641-IDI_0044_Web.jpg?v=1776890366",
+      "url": "https://www.fahertybrand.com/products/whitewater-sweatshort-ivory-desert-stripe"
     }
   },
-  "last_run": "2026-05-18T16:29:33.384192+00:00"
+  "last_run": "2026-05-19T16:26:15.401228+00:00"
 }
