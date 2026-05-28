@@ -70930,7 +70930,350 @@
       "price": 128.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_S831SOLID_0274_1.jpg?v=1779888788",
       "url": "https://evereve.com/products/varsity-quarter-zip-sweatshirt-red-ivory"
+    },
+    "buttercloth_7500301893813": {
+      "title": "Cipher In Charcoal",
+      "first_seen": "2026-05-28T16:56:31.060123+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV945S-Charcoal_01.jpg?v=1710872532",
+      "url": "https://buttercloth.com/products/cipher-in-charcoal"
+    },
+    "buttercloth_7500301631669": {
+      "title": "Climactic In Black",
+      "first_seen": "2026-05-28T16:56:31.060146+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV885L-Black-01_NEW.jpg?v=1710518530",
+      "url": "https://buttercloth.com/products/climactic-in-black"
+    },
+    "buttercloth_7266956378293": {
+      "title": "Country Moon In Navy",
+      "first_seen": "2026-05-28T16:56:31.060211+00:00",
+      "price": 103.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/products/SJ020-Navy-1.jpg?v=1665181337",
+      "url": "https://buttercloth.com/products/country-moon-in-navy"
+    },
+    "buttercloth_7492471783605": {
+      "title": "Iconic Rapport In Black",
+      "first_seen": "2026-05-28T16:56:31.061237+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV922S-RBK_2.jpg?v=1755634349",
+      "url": "https://buttercloth.com/products/iconic-rapport-in-black"
+    },
+    "buttercloth_7370912202933": {
+      "title": "Lively Burst In Black",
+      "first_seen": "2026-05-28T16:56:31.061651+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV798S-RBK_1.jpg?v=1682967901",
+      "url": "https://buttercloth.com/products/lively-burst-in-black"
+    },
+    "buttercloth_8069029626037": {
+      "title": "Lucid In Monaco Blue",
+      "first_seen": "2026-05-28T16:56:31.061672+00:00",
+      "price": 40.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/KN125S-Monaco-Blue_1.jpg?v=1734979992",
+      "url": "https://buttercloth.com/products/lucid-in-monaco-blue"
+    },
+    "buttercloth_7848253882549": {
+      "title": "Pointillist In Red",
+      "first_seen": "2026-05-28T16:56:31.062045+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV895S-RRD_1.jpg?v=1715813826",
+      "url": "https://buttercloth.com/products/pointillist-in-red"
+    },
+    "buttercloth_7379844202677": {
+      "title": "South Wing In Light Blue",
+      "first_seen": "2026-05-28T16:56:31.062377+00:00",
+      "price": 96.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV779S-RLB_1.jpg?v=1685728107",
+      "url": "https://buttercloth.com/products/south-wing-in-light-blue"
+    },
+    "buttercloth_8045721387189": {
+      "title": "Zealous In Monaco Blue",
+      "first_seen": "2026-05-28T16:56:31.062984+00:00",
+      "price": 103.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WV973L-Monaco-Blue_1.jpg?v=1734980349",
+      "url": "https://buttercloth.com/products/zealous-in-monaco-blue"
+    },
+    "evereve_10435345416357": {
+      "title": "Alexis Short",
+      "first_seen": "2026-05-28T16:57:15.784040+00:00",
+      "price": 92.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_FA2051S_0669_1.jpg?v=1779903489",
+      "url": "https://evereve.com/products/alexis-short-white-navystripe"
+    },
+    "evereve_9336985714853": {
+      "title": "Billie Bomber",
+      "first_seen": "2026-05-28T16:57:15.786736+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_JuneEcomm_EVSU26WJ52-BN_0881_1.jpg?v=1779818001",
+      "url": "https://evereve.com/products/billie-bomber-red"
+    },
+    "evereve_10432692650149": {
+      "title": "Boston Red Sox Baseball Hat",
+      "first_seen": "2026-05-28T16:57:15.786955+00:00",
+      "price": 35.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/052026_JUNEJASI_B-RGW02GWS-WH_0259_1.jpg?v=1779817103",
+      "url": "https://evereve.com/products/boston-red-sox-baseball-hat-white-red"
+    },
+    "evereve_10440914075813": {
+      "title": "Bowie Shirt",
+      "first_seen": "2026-05-28T16:57:15.787010+00:00",
+      "price": 285.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_X5SSL048_1011_1.jpg?v=1779904390",
+      "url": "https://evereve.com/products/bowie-shirt-bluemossstripe"
+    },
+    "evereve_9651365970085": {
+      "title": "Boxy Button Back Top",
+      "first_seen": "2026-05-28T16:57:15.787017+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_C4838-S99-304_2011_1.jpg?v=1779389590",
+      "url": "https://evereve.com/products/boxy-button-back-top-santoriniblueflora"
+    },
+    "evereve_9377318174885": {
+      "title": "Chloe Wrap Trouser Short",
+      "first_seen": "2026-05-28T16:57:15.788816+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/050626_JuneCatEcomm_EVSU26WB23-CPW_1733_1.jpg?v=1779900190",
+      "url": "https://evereve.com/products/chloe-wrap-trouser-short-black"
+    },
+    "evereve_10442287218853": {
+      "title": "Daphne Ribbed Tank",
+      "first_seen": "2026-05-28T16:57:15.790281+00:00",
+      "price": 80.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/050626_JuneCatEcomm_T359-DAPHNE_0819_1.jpg?v=1779902890",
+      "url": "https://evereve.com/products/daphne-ribbed-tank-navy"
+    },
+    "evereve_10442302324901": {
+      "title": "Dawn Striped Tee",
+      "first_seen": "2026-05-28T16:57:15.790425+00:00",
+      "price": 81.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_T374-DAWN_2227_1.jpg?v=1779904698",
+      "url": "https://evereve.com/products/dawn-striped-tee-navypacificstripe"
+    },
+    "evereve_10562035712165": {
+      "title": "Daylight Striped Airy Short",
+      "first_seen": "2026-05-28T16:57:15.790476+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZS262602S_2818_1.jpg?v=1779727994",
+      "url": "https://evereve.com/products/daylight-striped-airy-short-seasalt"
+    },
+    "evereve_10444505481381": {
+      "title": "Delaney Mini Shirt Dress",
+      "first_seen": "2026-05-28T16:57:15.790566+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_WDR128636-E-SL_1299_1.jpg?v=1779808706",
+      "url": "https://evereve.com/products/delaney-mini-shirt-dress-stripe"
+    },
+    "evereve_9471882395813": {
+      "title": "Desire more mesh cinch dress",
+      "first_seen": "2026-05-28T16:57:15.790667+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_CD2196MPA_2348_1.jpg?v=1779902902",
+      "url": "https://evereve.com/products/desire-more-mesh-cinch-dress-rhythmic"
+    },
+    "evereve_9471886557349": {
+      "title": "Dune Studded Tank",
+      "first_seen": "2026-05-28T16:57:15.790999+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_JuneEcomm_CW1807VD3_0459_1.jpg?v=1779900789",
+      "url": "https://evereve.com/products/dune-studded-tank-ancientclay"
+    },
+    "evereve_9270100132005": {
+      "title": "Elba Tank Mini Dress",
+      "first_seen": "2026-05-28T16:57:15.791131+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_VAR03451_0870_1.jpg?v=1779904389",
+      "url": "https://evereve.com/products/elba-tank-mini-dress-pristine"
+    },
+    "evereve_10562035679397": {
+      "title": "Helena Striped Shirt",
+      "first_seen": "2026-05-28T16:57:15.795055+00:00",
+      "price": 84.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZT262977S_2780_1.jpg?v=1779727994",
+      "url": "https://evereve.com/products/helena-striped-shirt-seasalt"
+    },
+    "evereve_10428504146085": {
+      "title": "Holland V Neck Sweatshirt",
+      "first_seen": "2026-05-28T16:57:15.795367+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/050626_JuneCatEcomm_EVSU26KT16-SL_1690_1.jpg?v=1779900488",
+      "url": "https://evereve.com/products/holland-v-neck-sweatshirt-heathergrey"
+    },
+    "evereve_10434932277413": {
+      "title": "Indy Satin Tank",
+      "first_seen": "2026-05-28T16:57:15.795769+00:00",
+      "price": 94.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_ED2110_0456_1.jpg?v=1779903796",
+      "url": "https://evereve.com/products/indy-satin-tank-celadon-creamstripe"
+    },
+    "evereve_10594256158885": {
+      "title": "Jane Strapless Dress",
+      "first_seen": "2026-05-28T16:57:15.796251+00:00",
+      "price": 58.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/011525_AprilCatEcomm_EE1146-DH_0754_1.jpg?v=1779983593",
+      "url": "https://evereve.com/products/jane-strapless-dress-white-black"
+    },
+    "evereve_9726810980517": {
+      "title": "Jaynee Blouson Shirt",
+      "first_seen": "2026-05-28T16:57:15.796415+00:00",
+      "price": 238.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042126_Ecomm_June_21439MTS_2768_1.jpg?v=1779808698",
+      "url": "https://evereve.com/products/jaynee-blouson-shirt-pralinestripe"
+    },
+    "evereve_9652327088293": {
+      "title": "Josie Short",
+      "first_seen": "2026-05-28T16:57:15.797399+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042126_Ecomm_June_41402MTS_2856_1.jpg?v=1779808689",
+      "url": "https://evereve.com/products/josie-short-pralinestripe"
+    },
+    "evereve_10442100539557": {
+      "title": "Lake Sweatshirt",
+      "first_seen": "2026-05-28T16:57:15.798846+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_JuneEcomm_SS201-HG-LAK_1337_1.jpg?v=1779901089",
+      "url": "https://evereve.com/products/lake-sweatshirt-heathergrey"
+    },
+    "evereve_10442100965541": {
+      "title": "Leo Cotton Contrast Trim Short",
+      "first_seen": "2026-05-28T16:57:15.799567+00:00",
+      "price": 80.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/050626_JuneCatEcomm_B126_0540_1.jpg?v=1779903498",
+      "url": "https://evereve.com/products/leo-cotton-contrast-trim-short-pacificblue-ivory"
+    },
+    "evereve_10562035548325": {
+      "title": "Leya Tera Paisley Maxi Skirt",
+      "first_seen": "2026-05-28T16:57:15.799687+00:00",
+      "price": 120.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZK262765S_1889_1.jpg?v=1779728598",
+      "url": "https://evereve.com/products/leya-tera-paisley-maxi-skirt-everglade"
+    },
+    "evereve_10562035613861": {
+      "title": "Leya Tera Paisley Smocked Top",
+      "first_seen": "2026-05-28T16:57:15.799694+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZT262764S_2010_1.jpg?v=1779728589",
+      "url": "https://evereve.com/products/leya-tera-paisley-smocked-top-everglade"
+    },
+    "evereve_9655584686245": {
+      "title": "Linen Wrap Skort",
+      "first_seen": "2026-05-28T16:57:15.799984+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_C7540-S99-304_2024_1.jpg?v=1779389890",
+      "url": "https://evereve.com/products/linen-wrap-skort-santoriniblueflora"
+    },
+    "evereve_10468029923493": {
+      "title": "Lyn Mini Shift Dress",
+      "first_seen": "2026-05-28T16:57:15.800632+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/050626_JuneCatEcomm_EVSU26WD36-MOD_1562_1.jpg?v=1779902590",
+      "url": "https://evereve.com/products/lyn-mini-shift-dress-black-ivory"
+    },
+    "evereve_9374990336165": {
+      "title": "Melody Micro Linen Balloon Pant",
+      "first_seen": "2026-05-28T16:57:15.802400+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_JuneEcomm_CP1320716_1388_1.jpg?v=1779900498",
+      "url": "https://evereve.com/products/melody-micro-linen-balloon-pant-black"
+    },
+    "evereve_10431184273573": {
+      "title": "Melody Micro Linen Balloon Pant",
+      "first_seen": "2026-05-28T16:57:15.802408+00:00",
+      "price": 119.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_CP1320716_2102_1.jpg?v=1779900489",
+      "url": "https://evereve.com/products/melody-micro-linen-balloon-pant-white"
+    },
+    "evereve_9229915226277": {
+      "title": "Open Stitch Lightweight Quarter Sock",
+      "first_seen": "2026-05-28T16:57:15.804313+00:00",
+      "price": 20.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_MAYJASI_111Q27-SDMS-01P_0166_1.jpg?v=1777296488",
+      "url": "https://evereve.com/products/open-stitch-lightweight-quarter-sock-white"
+    },
+    "evereve_9229915291813": {
+      "title": "Open Stitch Lightweight Quarter Sock",
+      "first_seen": "2026-05-28T16:57:15.804320+00:00",
+      "price": 20.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_MAYJASI_111Q27-HDSM-01P_0143_1.jpg?v=1777048089",
+      "url": "https://evereve.com/products/open-stitch-lightweight-quarter-sock-varsitygrey"
+    },
+    "evereve_10428463775909": {
+      "title": "Ria Tube Top",
+      "first_seen": "2026-05-28T16:57:15.807012+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051126_JuneEcomm_EVSP26KT32-SL_0565_1.jpg?v=1779901688",
+      "url": "https://evereve.com/products/ria-tube-top-brownstripe"
+    },
+    "evereve_10434928967845": {
+      "title": "River Pocket Top",
+      "first_seen": "2026-05-28T16:57:15.807256+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_FA2126S_0638_1.jpg?v=1779978189",
+      "url": "https://evereve.com/products/river-pocket-top-whitew-navystripe"
+    },
+    "evereve_10439395934373": {
+      "title": "Romy Wrap Satin Skirt",
+      "first_seen": "2026-05-28T16:57:15.807406+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_EVSU26WB38-MOD_2274_1.jpg?v=1779901989",
+      "url": "https://evereve.com/products/romy-wrap-satin-skirt-black-whiteborder"
+    },
+    "evereve_9213782753445": {
+      "title": "Ruffle Quarter Rib",
+      "first_seen": "2026-05-28T16:57:15.807712+00:00",
+      "price": 16.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_MAYJASI_113Q78-FSOL-01P-2026_white_0183_1.jpg?v=1777047788",
+      "url": "https://evereve.com/products/ruffle-quarter-rib-white"
+    },
+    "evereve_10562035777701": {
+      "title": "Sandcomber Striped Midi Dress",
+      "first_seen": "2026-05-28T16:57:15.808165+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZD262690S_3108_1.jpg?v=1779727693",
+      "url": "https://evereve.com/products/sandcomber-striped-midi-dress-indigo"
+    },
+    "evereve_9978319437989": {
+      "title": "Sara Stripe Satin Tank",
+      "first_seen": "2026-05-28T16:57:15.808273+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051126_JuneEcomm_EVSU26WT04-MOD_0399_1.jpg?v=1779902316",
+      "url": "https://evereve.com/products/sara-stripe-satin-tank-black"
+    },
+    "evereve_10452294828197": {
+      "title": "Sarah Poplin Maxi Skirt",
+      "first_seen": "2026-05-28T16:57:15.808290+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/032626_JuneCatEcomm_WSK128768-E-SL_1734_1.jpg?v=1779902298",
+      "url": "https://evereve.com/products/sarah-poplin-maxi-skirt-stripe"
+    },
+    "evereve_10525077962917": {
+      "title": "Stevie Nylon Handbag",
+      "first_seen": "2026-05-28T16:57:15.810096+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051126_JUNJASI_RAC14792-RL_OLIVE_0084_1.jpg?v=1779901397",
+      "url": "https://evereve.com/products/stevie-nylon-handbag-olive"
+    },
+    "evereve_10442080649381": {
+      "title": "Tana Top",
+      "first_seen": "2026-05-28T16:57:15.810727+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/042326_JuneEcomm_TANA07_2864_1.jpg?v=1779807789",
+      "url": "https://evereve.com/products/tana-top-shamrock"
+    },
+    "evereve_10562035581093": {
+      "title": "The Perfect Striped Button Up",
+      "first_seen": "2026-05-28T16:57:15.811975+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZT262689S_2134_1.jpg?v=1779728289",
+      "url": "https://evereve.com/products/the-perfect-striped-button-up-gelato"
+    },
+    "evereve_10562035744933": {
+      "title": "The Perfect Striped Short",
+      "first_seen": "2026-05-28T16:57:15.811996+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/051926_JuneEcomm_ZS262850S_2224_1.jpg?v=1779728289",
+      "url": "https://evereve.com/products/the-perfect-striped-short-gelato"
     }
   },
-  "last_run": "2026-05-27T16:41:11.225313+00:00"
+  "last_run": "2026-05-28T16:57:49.683077+00:00"
 }
