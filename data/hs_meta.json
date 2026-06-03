@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T12:12:59.078590+00:00",
-  "meta_date": "2026-06-02",
+  "generated_at": "2026-06-03T12:48:04.008151+00:00",
+  "meta_date": "2026-06-03",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
@@ -8,22 +8,22 @@
   "hsreplay_heroes": null,
   "patch_notes": [
     {
-      "title": "Hearthstone Updates",
+      "title": "Hearthstone Card Reveals with Friends!",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
     {
-      "title": "Battlegrounds Updates",
+      "title": "Hearthstone on Reddit",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
     {
-      "title": "Minion and Spell Updates",
+      "title": "Hearthstone Discord",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
     {
-      "title": "Battlegrounds",
+      "title": "Where to Find Hearthstone on Social Media",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
@@ -33,7 +33,7 @@
       "date": ""
     },
     {
-      "title": "Mode Updates and Bug Fixes",
+      "title": "Battlegrounds Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
