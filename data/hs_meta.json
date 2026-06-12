@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-06-11T12:15:50.948521+00:00",
-  "meta_date": "2026-06-11",
+  "generated_at": "2026-06-12T11:49:44.911530+00:00",
+  "meta_date": "2026-06-12",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
   "community_posts": [],
   "hsreplay_heroes": null,
   "patch_notes": [
+    {
+      "title": "Hearthstone Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Arena Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
     {
       "title": "Hearthstone Card Reveals with Friends!",
       "url": "https://hearthstone.blizzard.com/en-us/news",
@@ -24,16 +44,6 @@
     },
     {
       "title": "Where to Find Hearthstone on Social Media",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Arena Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Battlegrounds Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
