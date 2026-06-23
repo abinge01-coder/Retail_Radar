@@ -74598,7 +74598,224 @@
       "price": 148.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWF2600-RIN_Laundered_Oxford_Shirt_LD_FRONT_1_Web.jpg?v=1781718713",
       "url": "https://www.fahertybrand.com/products/laundered-oxford-shirt-river-navy"
+    },
+    "evereve_9272248434853": {
+      "title": "Atrium High Rise Short",
+      "first_seen": "2026-06-23T15:54:13.497235+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040926_JulyCatEcomm_VAR01759-G_0264_1.jpg?v=1782153790",
+      "url": "https://evereve.com/products/atrium-high-rise-short-lightgreymarl"
+    },
+    "evereve_9375715229861": {
+      "title": "Benson Faux Leather Strapless Top",
+      "first_seen": "2026-06-23T15:54:13.498063+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060326_JulyEcomm_EVSU26WT63-CPW_2628_1.jpg?v=1782225189",
+      "url": "https://evereve.com/products/benson-faux-leather-strapless-top-ecru"
+    },
+    "evereve_9262666711205": {
+      "title": "Bodie Tie Waist Pant",
+      "first_seen": "2026-06-23T15:54:13.498554+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040926_JulyCatEcomm_P00116022-WR_0669_1.jpg?v=1782152589",
+      "url": "https://evereve.com/products/bodie-tie-waist-pant-black"
+    },
+    "evereve_9280759070885": {
+      "title": "Bonnie Linen Skirt",
+      "first_seen": "2026-06-23T15:54:13.498570+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040926_JulyCatEcomm_PK262958E_1004_1.jpg?v=1782153495",
+      "url": "https://evereve.com/products/bonnie-linen-skirt-chocolatebrown"
+    },
+    "evereve_10491054325925": {
+      "title": "Celeste Quarterzip",
+      "first_seen": "2026-06-23T15:54:13.500360+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060326_JulyEcomm_OB2616343_2001_1.jpg?v=1782226712",
+      "url": "https://evereve.com/products/celeste-quarterzip-cleanivory"
+    },
+    "evereve_9684984135845": {
+      "title": "Evie Balloon Pant",
+      "first_seen": "2026-06-23T15:54:13.504583+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060326_JulyEcomm_EVSU26WB07-IDG_0925_1.jpg?v=1782225189",
+      "url": "https://evereve.com/products/evie-balloon-pant-darkolive"
+    },
+    "evereve_9303824302245": {
+      "title": "Evie Bubble Vest",
+      "first_seen": "2026-06-23T15:54:13.504592+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060326_JulyEcomm_EVSU26WJ11-IDG_1213_1.jpg?v=1782225789",
+      "url": "https://evereve.com/products/evie-bubble-vest-darkolive"
+    },
+    "evereve_10430955847845": {
+      "title": "Khai Slide",
+      "first_seen": "2026-06-23T15:54:13.511204+00:00",
+      "price": 120.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060826_JULYJASI_K0578L1201_0009_1.jpg?v=1781792590",
+      "url": "https://evereve.com/products/khai-slide-cafenoir"
+    },
+    "evereve_9761895481509": {
+      "title": "Sasha Knit Dress",
+      "first_seen": "2026-06-23T15:54:13.522084+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060326_JulyEcomm_EVSU26KD10-GX_0215_1.jpg?v=1782226089",
+      "url": "https://evereve.com/products/sasha-knit-dress-black"
+    },
+    "evereve_9251382296741": {
+      "title": "Vintage Straight Jean",
+      "first_seen": "2026-06-23T15:54:13.527707+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/040926_JulyCatEcomm_VIST062_0374_1.jpg?v=1782155890",
+      "url": "https://evereve.com/products/vintage-straight-jean-indigo1282"
+    },
+    "faherty_8021063827525": {
+      "title": "Boucle Deep V-Neck Sweater - Cream",
+      "first_seen": "2026-06-23T15:54:47.497977+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WYU2611-CRM_Boucle_Deep_V_Sweater_OM_FRONT_CROP_1_Web.jpg?v=1781039579",
+      "url": "https://www.fahertybrand.com/products/boucle-deep-v-sweater-cream"
+    },
+    "faherty_8021099741253": {
+      "title": "Dune Cotton Gauze Relaxed Camp Shirt - Indigo Blossom",
+      "first_seen": "2026-06-23T15:54:47.499719+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WWU2610-INX_Dune_Cotton_Gauze_Relaxed_Camp_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1781039381",
+      "url": "https://www.fahertybrand.com/products/dune-cotton-gauze-relaxed-camp-shirt-indigo-blossom"
+    },
+    "faherty_8021115273285": {
+      "title": "Dune Cotton Gauze Serena Short - Indigo Blossom",
+      "first_seen": "2026-06-23T15:54:47.499744+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2608-INX_Dune_Cotton_Gauze_Serena_Short_OM_FULL_BODY_1_Web.jpg?v=1781036640",
+      "url": "https://www.fahertybrand.com/products/dune-cotton-gauze-serena-short-indigo-blossom"
+    },
+    "faherty_8021061075013": {
+      "title": "Dune Utility Short - Stone",
+      "first_seen": "2026-06-23T15:54:47.499865+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2505-STN_Dune_Utility_Short_OM_FULL_BODY_1_Web.jpg?v=1779198495",
+      "url": "https://www.fahertybrand.com/products/dune-utility-short-stone"
+    },
+    "faherty_8021115338821": {
+      "title": "Macey Mini Dress - Indigo Blossom",
+      "first_seen": "2026-06-23T15:54:47.504185+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2625-INX_Macey_Mini_Dress_OM_FRONT_FULL_BODY_1_Web.jpg?v=1782159706",
+      "url": "https://www.fahertybrand.com/products/macey-mini-dress-indigo-blossom"
+    },
+    "faherty_8021060714565": {
+      "title": "Short-Sleeve Breeze Shirt - Crystal Cascade Diamond",
+      "first_seen": "2026-06-23T15:54:47.507172+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWS2516-CCQ_Ss_Breeze_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1781628564",
+      "url": "https://www.fahertybrand.com/products/ss-breeze-shirt-crystal-cascade-diamond"
+    },
+    "faherty_8021058879557": {
+      "title": "Short-Sleeve Kona Camp Shirt - Wave Breaks Scenic",
+      "first_seen": "2026-06-23T15:54:47.507484+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/Faherty-SU26-Collection-PDP-3.jpg?v=1778873449",
+      "url": "https://www.fahertybrand.com/products/ss-kona-camp-shirt-wave-breaks-scenic"
+    },
+    "faherty_8021061337157": {
+      "title": "Short-Sleeve Movement\u2122 Pique Polo - Inland Creek Melange",
+      "first_seen": "2026-06-23T15:54:47.507855+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2409-IMC_Ss_Movement_Pique_Polo_OM_FRONT_CROP_1_Web.jpg?v=1781029962",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-inland-creek-melange"
+    },
+    "faherty_8021061304389": {
+      "title": "Short-Sleeve Movement\u2122 Pique Polo - Tropics Olive Melange",
+      "first_seen": "2026-06-23T15:54:47.507921+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2409-TOG_Ss_Movement_Pique_Polo_OM_FRONT_CROP_1_Web.jpg?v=1781030283",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-tropics-olive-melange"
+    },
+    "faherty_8021055307845": {
+      "title": "Stretch Terry 5-Pocket Pant - Bay Blue",
+      "first_seen": "2026-06-23T15:54:47.509365+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2440-BBL_Stretch_Terry_5pocket_OM_FULL_BODY_1_Web.jpg?v=1780334750",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-5pocket-bay-blue"
+    },
+    "faherty_8021065007173": {
+      "title": "Sunwashed Slub Tank Dress - Mountain Pass Stripe",
+      "first_seen": "2026-06-23T15:54:47.511872+00:00",
+      "price": 110.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/Faherty-SU26-Collection-PDP-31.jpg?v=1778868842",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-tank-dress-mountain-pass-stripe"
+    },
+    "faherty_8021063237701": {
+      "title": "Sunwashed Slub Tank Dress - Sea Navy",
+      "first_seen": "2026-06-23T15:54:47.511880+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2564-SEN_Sunwashed_Slub_Tank_Dress_OM_FULL_BODY_1_Web.jpg?v=1781038029",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-tank-dress-sea-navy"
+    },
+    "faherty_8021062254661": {
+      "title": "Sunwashed T-Shirt Polo - Flint",
+      "first_seen": "2026-06-23T15:54:47.511923+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2504-FLT_Sunwashed_Tshirt_Polo_OM_FRONT_CROP_1_Web.jpg?v=1781627064",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tshirt-polo-flint"
+    },
+    "faherty_8021062287429": {
+      "title": "Sunwashed T-Shirt Polo - Island Brown",
+      "first_seen": "2026-06-23T15:54:47.511931+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2504-IAB_Sunwashed_Tshirt_Polo_OM_FRONT_CROP_1_Web.jpg?v=1781627020",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tshirt-polo-island-brown"
+    },
+    "faherty_8021057929285": {
+      "title": "Sunwashed T-Shirt Polo - Island Spruce",
+      "first_seen": "2026-06-23T15:54:47.511941+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2504-ISL_Sunwashed_Tshirt_Polo_OM_FRONT_CROP_1_Web.jpg?v=1781626989",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tshirt-polo-island-spruce"
+    },
+    "faherty_8021064777797": {
+      "title": "Tried & True Chambray Nera Skirt - River Mist Wash",
+      "first_seen": "2026-06-23T15:54:47.513311+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2644-RMX_Tried___True_Chambray_Nera_Skirt_OM_EDITORIAL_2_Web.jpg?v=1781037128",
+      "url": "https://www.fahertybrand.com/products/tried-true-chambray-nera-skirt-river-mist-wash"
+    },
+    "faherty_8021065138245": {
+      "title": "Tried & True Chambray Nera Top - River Mist Wash",
+      "first_seen": "2026-06-23T15:54:47.513320+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WTU2609-RMX_Tried___True_Chambray_Nera_Top_OM_FRONT_CROP_1_Web.jpg?v=1781039252",
+      "url": "https://www.fahertybrand.com/products/tried-true-chambray-nera-top-river-mist-wash"
+    },
+    "faherty_8021064810565": {
+      "title": "Tried & True Chambray Slip Dress - River Mist Wash",
+      "first_seen": "2026-06-23T15:54:47.513328+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WDU2657-RMX_Tried___True_Chambray_Slip_Dress_OM_FULL_BODY_1_Web.jpg?v=1781039129",
+      "url": "https://www.fahertybrand.com/products/tried-true-chambray-slip-dress-river-mist-wash"
+    },
+    "faherty_8021058486341": {
+      "title": "Tropic Surplus Shirt - Ridge Khaki",
+      "first_seen": "2026-06-23T15:54:47.513426+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWU2612-RGK_Tropic_Surplus_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1781032307",
+      "url": "https://www.fahertybrand.com/products/tropic-surplus-shirt-ridge-khaki"
+    },
+    "faherty_8021059371077": {
+      "title": "Tropic Surplus Shirt - Ridge Olive",
+      "first_seen": "2026-06-23T15:54:47.513434+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWU2612-RGO_Tropic_Surplus_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1781628590",
+      "url": "https://www.fahertybrand.com/products/tropic-surplus-shirt-ridge-olive"
+    },
+    "faherty_8021060976709": {
+      "title": "Tropic Surplus Shirt - Washed Charcoal",
+      "first_seen": "2026-06-23T15:54:47.513442+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWU2612-WCL_Tropic_Surplus_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1781033833",
+      "url": "https://www.fahertybrand.com/products/tropic-surplus-shirt-washed-charcoal"
     }
   },
-  "last_run": "2026-06-22T17:42:33.136017+00:00"
+  "last_run": "2026-06-23T15:54:50.872417+00:00"
 }
