@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T12:43:51.729752+00:00",
-  "meta_date": "2026-06-29",
+  "generated_at": "2026-06-30T11:16:14.064705+00:00",
+  "meta_date": "2026-06-30",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
@@ -8,42 +8,12 @@
   "hsreplay_heroes": null,
   "patch_notes": [
     {
-      "title": "Hearthstone Updates",
+      "title": "Deck Recipe Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
     {
       "title": "Arena Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Battlegrounds Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Battlegrounds",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Hearthstone Card Reveals with Friends!",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Hearthstone on Reddit",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Hearthstone Discord",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Where to Find Hearthstone on Social Media",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
