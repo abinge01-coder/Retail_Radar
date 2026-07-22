@@ -76502,7 +76502,119 @@
       "price": 148.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBS2651-FSV_ReserveChinoShort_OM_FRONT_CROP_1-Web.jpg?v=1784641736",
       "url": "https://www.fahertybrand.com/products/reserve-chino-short-forest-grove"
+    },
+    "buttercloth_7270734364853": {
+      "title": "Midnight Fun In Navy",
+      "first_seen": "2026-07-22T15:07:10.421652+00:00",
+      "price": 110.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/products/SO003-Navy-1.jpg?v=1666745569",
+      "url": "https://buttercloth.com/products/midnight-fun-in-navy"
+    },
+    "evereve_10497329856677": {
+      "title": "Astor Pinstripe Blazer",
+      "first_seen": "2026-07-22T15:07:53.337199+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/072026_Ecomm_EVFA26WJ27-CPW_0676_1.jpg?v=1784732607",
+      "url": "https://evereve.com/products/astor-pinstripe-blazer-navychalkstripe"
+    },
+    "evereve_10495871320229": {
+      "title": "Juliette Lace Pintuck Cami",
+      "first_seen": "2026-07-22T15:07:53.353058+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/060426_AugEcomm_EVSP26WT50-MOD_0795_1.jpg?v=1784662720",
+      "url": "https://evereve.com/products/juliette-lace-pintuck-cami-wine"
+    },
+    "evereve_10461001679013": {
+      "title": "Juno Lightweight Sweater",
+      "first_seen": "2026-07-22T15:07:53.353151+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/072026_Ecomm_P00063050-YF_mocha_0214_1.jpg?v=1784732597",
+      "url": "https://evereve.com/products/juno-lightweight-sweater-mocha"
+    },
+    "evereve_10430902665381": {
+      "title": "Lindi Mule",
+      "first_seen": "2026-07-22T15:07:53.357206+00:00",
+      "price": 170.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/071326_AUGJASI_LINDI_0221_1.jpg?v=1784562490",
+      "url": "https://evereve.com/products/lindi-mule-cinnamon"
+    },
+    "evereve_10497329463461": {
+      "title": "Mallory Short Sleeve Blazer",
+      "first_seen": "2026-07-22T15:07:53.359129+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/072026_Ecomm_EF26-20318W-CPW_0782_1.jpg?v=1784732291",
+      "url": "https://evereve.com/products/mallory-short-sleeve-blazer-creammulti"
+    },
+    "evereve_10430931337381": {
+      "title": "Margeaux Mule",
+      "first_seen": "2026-07-22T15:07:53.359494+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/071326_AUGJASI_K0481L2600_0260_1.jpg?v=1784562190",
+      "url": "https://evereve.com/products/margeaux-mule-merlot"
+    },
+    "evereve_10592669040805": {
+      "title": "The Boyfriend Shirt",
+      "first_seen": "2026-07-22T15:07:53.370021+00:00",
+      "price": 157.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/072026_Ecomm_THEBOYFRIEND_0314_1.jpg?v=1784732604",
+      "url": "https://evereve.com/products/the-boyfriend-shirt-burgundystripe"
+    },
+    "evereve_10549136490661": {
+      "title": "The Cord City Blazer",
+      "first_seen": "2026-07-22T15:07:53.370089+00:00",
+      "price": 398.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/072026_Ecomm_49FJDWFR6505-ESS_0999_1.jpg?v=1784732289",
+      "url": "https://evereve.com/products/the-cord-city-blazer-espresso"
+    },
+    "faherty_8131081863237": {
+      "title": "Jalen Brunson Kids Sunwashed Tee - Dune Navy",
+      "first_seen": "2026-07-22T15:08:27.987523+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/KPU2600-DUY.jpg?v=1784227663",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-kids-sunwashed-tee-dune-navy"
+    },
+    "faherty_8131082223685": {
+      "title": "Jalen Brunson Kids Sunwashed Tee - White",
+      "first_seen": "2026-07-22T15:08:27.987531+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/KPU2600-WHT_BACK.jpg?v=1784053272",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-kids-sunwashed-tee-white"
+    },
+    "faherty_8138054697029": {
+      "title": "NY Knicks Coastal Cloud Crew - Summer Sand",
+      "first_seen": "2026-07-22T15:08:27.990356+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPU2607-SMD.jpg?v=1782413604",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-coastal-cloud-crew-summer-sand"
+    },
+    "faherty_8164246782021": {
+      "title": "NY Knicks Sunwashed Organic Hoodie - Blue Nights",
+      "first_seen": "2026-07-22T15:08:27.990386+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPU2607-BLN_1.jpg?v=1783976276",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-sunwashed-slub-hoodie-blue-nights-2"
+    },
+    "faherty_8164247371845": {
+      "title": "NY Knicks Sunwashed Organic Hoodie - Light Grey Heather",
+      "first_seen": "2026-07-22T15:08:27.990401+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPU2615-LGH_FRONT_1.jpg?v=1783975954",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-sunwashed-slub-hoodie-light-grey-heather-4"
+    },
+    "faherty_8164246683717": {
+      "title": "NY Knicks Sunwashed Regenerative Tee - Antilles Blue",
+      "first_seen": "2026-07-22T15:08:27.990437+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPU2624-ABB_FRONT_1.jpg?v=1783975802",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-sunwashed-tee-antilles-blue"
+    },
+    "faherty_8164247273541": {
+      "title": "NY Knicks Sunwashed Regenerative Tee - Sky",
+      "first_seen": "2026-07-22T15:08:27.990459+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPU2624-SKY.jpg?v=1783975481",
+      "url": "https://www.fahertybrand.com/products/ny-knicks-sunwashed-tee-sky"
     }
   },
-  "last_run": "2026-07-21T15:07:23.930341+00:00"
+  "last_run": "2026-07-22T15:08:31.438996+00:00"
 }
