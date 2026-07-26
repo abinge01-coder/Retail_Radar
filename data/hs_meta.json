@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-07-25T09:56:20.614017+00:00",
-  "meta_date": "2026-07-25",
-  "sources_checked": [
-    "hearthstone.blizzard.com/news"
-  ],
+  "generated_at": "2026-07-26T10:10:29.223305+00:00",
+  "meta_date": "2026-07-26",
+  "sources_checked": [],
   "community_posts": [],
   "hsreplay_heroes": null,
-  "patch_notes": [
-    {
-      "title": "Hearthstone Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Standard Balance Changes",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Wild Balance Changes",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Arena Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Battlegrounds Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    }
-  ],
+  "patch_notes": [],
   "trends": {
     "top_keywords": [],
     "discussed_heroes": [],
