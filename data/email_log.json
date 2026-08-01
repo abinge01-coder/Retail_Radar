@@ -1,14 +1,6 @@
 {
   "emails": [
     {
-      "sent_at": "2026-05-27T16:41:11.224554+00:00",
-      "new_count": 39,
-      "by_retailer": {
-        "Evereve": 39
-      },
-      "total_scanned": 6530
-    },
-    {
       "sent_at": "2026-05-28T16:57:49.682302+00:00",
       "new_count": 49,
       "by_retailer": {
@@ -432,6 +424,14 @@
         "Buttercloth": 13
       },
       "total_scanned": 6795
+    },
+    {
+      "sent_at": "2026-08-01T14:37:29.889423+00:00",
+      "new_count": 1,
+      "by_retailer": {
+        "Evereve": 1
+      },
+      "total_scanned": 6791
     }
   ]
 }
