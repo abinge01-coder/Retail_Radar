@@ -1,14 +1,6 @@
 {
   "emails": [
     {
-      "sent_at": "2026-06-25T15:43:52.949345+00:00",
-      "new_count": 10,
-      "by_retailer": {
-        "Evereve": 10
-      },
-      "total_scanned": 7002
-    },
-    {
       "sent_at": "2026-06-26T15:27:08.601937+00:00",
       "new_count": 17,
       "by_retailer": {
@@ -432,6 +424,14 @@
         "Evereve": 2
       },
       "total_scanned": 6073
+    },
+    {
+      "sent_at": "2026-09-01T17:15:45.052834+00:00",
+      "new_count": 3,
+      "by_retailer": {
+        "Evereve": 3
+      },
+      "total_scanned": 6076
     }
   ]
 }
