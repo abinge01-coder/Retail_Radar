@@ -82921,7 +82921,245 @@
       "price": 109.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/070826_PetiteEcomm_Sept_KG2573PA1L_1484_1.jpg?v=1787691488",
       "url": "https://evereve.com/products/petite-meg-wide-leg-w-side-panel-chocolate"
+    },
+    "evereve_10501624791205": {
+      "title": "Alexi Sweatshirt",
+      "first_seen": "2026-09-02T17:04:40.376652+00:00",
+      "price": 120.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_T307-F128-ALEXI_0843_1.jpg?v=1788365887",
+      "url": "https://evereve.com/products/alexi-sweatshirt-turbulence"
+    },
+    "evereve_10515393511589": {
+      "title": "Alivia Top",
+      "first_seen": "2026-09-02T17:04:40.376746+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_ALIVIA07_1544_1.jpg?v=1788366787",
+      "url": "https://evereve.com/products/alivia-top-white"
+    },
+    "evereve_10507913035941": {
+      "title": "Ami Shirt",
+      "first_seen": "2026-09-02T17:04:40.377116+00:00",
+      "price": 278.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_9514-2033_0221_1.jpg?v=1788367387",
+      "url": "https://evereve.com/products/ami-shirt-sandatlasstripe"
+    },
+    "evereve_10504127807653": {
+      "title": "Anessa 31`Cord W/ Stich Utility Pockets Wide Leg",
+      "first_seen": "2026-09-02T17:04:40.377370+00:00",
+      "price": 259.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/061726_SepCatEcomm_1J99H84-6148_1888_1.jpg?v=1787678589",
+      "url": "https://evereve.com/products/anessa-31-cord-w-stich-utility-pockets-wide-leg-navy"
+    },
+    "evereve_10501624922277": {
+      "title": "Arden Sweatshirt",
+      "first_seen": "2026-09-02T17:04:40.377848+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_T403-ARDEN_0698_1.jpg?v=1788367087",
+      "url": "https://evereve.com/products/arden-sweatshirt-heathergrey"
+    },
+    "evereve_10507957731493": {
+      "title": "Bryn Boxy Henley",
+      "first_seen": "2026-09-02T17:04:40.380459+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_54G-73921EV_1264_1.jpg?v=1788366788",
+      "url": "https://evereve.com/products/bryn-boxy-henley-fadedbone"
+    },
+    "evereve_10525366780069": {
+      "title": "Clive Plaid Jacket",
+      "first_seen": "2026-09-02T17:04:40.382206+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_F265409EE_0501_1.jpg?v=1788366196",
+      "url": "https://evereve.com/products/clive-plaid-jacket-navy"
+    },
+    "evereve_10504130068645": {
+      "title": "Coated Arellia Skimmer",
+      "first_seen": "2026-09-02T17:04:40.382275+00:00",
+      "price": 289.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_1W10901-3364_0375_1.jpg?v=1788367387",
+      "url": "https://evereve.com/products/coated-arellia-skimmer-blackfogluxecoating"
+    },
+    "evereve_10510354448549": {
+      "title": "Emma Henley Top",
+      "first_seen": "2026-09-02T17:04:40.384370+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_PT263071E_3210_1.jpg?v=1788365887",
+      "url": "https://evereve.com/products/emma-henley-top-classicheathergrey"
+    },
+    "evereve_10515393544357": {
+      "title": "Fatima Sweatshirt",
+      "first_seen": "2026-09-02T17:04:40.385156+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm__FATIMA07_0221_1.jpg?v=1788366788",
+      "url": "https://evereve.com/products/fatima-sweatshirt-darkplum"
+    },
+    "evereve_10516825997477": {
+      "title": "Gia Poncho",
+      "first_seen": "2026-09-02T17:04:40.385923+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_GIA07_1953_1.jpg?v=1788367096",
+      "url": "https://evereve.com/products/gia-poncho-milk"
+    },
+    "evereve_10515393478821": {
+      "title": "Haddon Top",
+      "first_seen": "2026-09-02T17:04:40.386797+00:00",
+      "price": 159.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_HADDON06_1418_1.jpg?v=1788366796",
+      "url": "https://evereve.com/products/haddon-top-navycombo"
+    },
+    "evereve_10510354186405": {
+      "title": "Hannah Twofer Sweatshirt",
+      "first_seen": "2026-09-02T17:04:40.386980+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_PT263069E_2950_1.jpg?v=1788365888",
+      "url": "https://evereve.com/products/hannah-twofer-sweatshirt-charcoalheather"
+    },
+    "evereve_10515393642661": {
+      "title": "Imani Blouse",
+      "first_seen": "2026-09-02T17:04:40.388052+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_IMANI07_1665_1.jpg?v=1788365287",
+      "url": "https://evereve.com/products/imani-blouse-navymulti"
+    },
+    "evereve_10519730815141": {
+      "title": "Joelle Wide Leg Pant",
+      "first_seen": "2026-09-02T17:04:40.389406+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_EVFA26WB06-L_0086_1.jpg?v=1788367389",
+      "url": "https://evereve.com/products/joelle-wide-leg-pant-stripe"
+    },
+    "evereve_10510507573413": {
+      "title": "Karen Sweatpant",
+      "first_seen": "2026-09-02T17:04:40.389971+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_KAREN07_1806_1.jpg?v=1788365587",
+      "url": "https://evereve.com/products/karen-sweatpant-darkplum"
+    },
+    "evereve_10496463863973": {
+      "title": "Kilnwick Quilted Jacket",
+      "first_seen": "2026-09-02T17:04:40.390559+00:00",
+      "price": 330.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_LQU1933_0063_1.jpg?v=1788368294",
+      "url": "https://evereve.com/products/kilnwick-quilted-jacket-ittrench"
+    },
+    "evereve_10567904526501": {
+      "title": "Livia Knitted Crew",
+      "first_seen": "2026-09-02T17:04:40.392322+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_L951_2707_1.jpg?v=1788365587",
+      "url": "https://evereve.com/products/livia-knitted-crew-scarlet"
+    },
+    "evereve_10510450229413": {
+      "title": "Mae Stripe Pullover",
+      "first_seen": "2026-09-02T17:04:40.393111+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_MAE07_2234_1.jpg?v=1788365897",
+      "url": "https://evereve.com/products/mae-stripe-pullover-multi"
+    },
+    "evereve_10567904493733": {
+      "title": "Marielle Classic Tee",
+      "first_seen": "2026-09-02T17:04:40.393569+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_L239-J11_2507_1.jpg?v=1788365587",
+      "url": "https://evereve.com/products/marielle-classic-tee-scarlet"
+    },
+    "evereve_10567904559269": {
+      "title": "Marielle Classic Tee",
+      "first_seen": "2026-09-02T17:04:40.393576+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_L239-J11_brown_2840_1.jpg?v=1788365587",
+      "url": "https://evereve.com/products/marielle-classic-tee-chocolate"
+    },
+    "evereve_10507957567653": {
+      "title": "Off Shoulder Asymmetrical Gathered Top",
+      "first_seen": "2026-09-02T17:04:40.396403+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_54G-86361EV_1357_1.jpg?v=1788368290",
+      "url": "https://evereve.com/products/off-shoulder-asymmetrical-gathered-top-black"
+    },
+    "evereve_10567904755877": {
+      "title": "Palmer Wide Leg Pant",
+      "first_seen": "2026-09-02T17:04:40.396926+00:00",
+      "price": 240.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_L437-F05_2387_1.jpg?v=1788365595",
+      "url": "https://evereve.com/products/palmer-wide-leg-pant-parchment"
+    },
+    "evereve_10503102988453": {
+      "title": "Paloma Jacket",
+      "first_seen": "2026-09-02T17:04:40.396962+00:00",
+      "price": 217.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_TW247-PALOMA_0935_1.jpg?v=1788367087",
+      "url": "https://evereve.com/products/paloma-jacket-warmochre"
+    },
+    "evereve_10567904624805": {
+      "title": "Rosie Reversed Zip-Up Hoodie",
+      "first_seen": "2026-09-02T17:04:40.399489+00:00",
+      "price": 258.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_L400-F05_2290_1.jpg?v=1788365601",
+      "url": "https://evereve.com/products/rosie-reversed-zip-up-hoodie-parchment"
+    },
+    "evereve_10588776530085": {
+      "title": "Ruffle Neck Shirt",
+      "first_seen": "2026-09-02T17:04:40.399640+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_54F-64913EV_1145_1.jpg?v=1788366187",
+      "url": "https://evereve.com/products/ruffle-neck-shirt-umber"
+    },
+    "evereve_10610477760677": {
+      "title": "Ryan Leather Clutch",
+      "first_seen": "2026-09-02T17:04:40.399719+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/082026_SEPTJASI_RAC14956-RL_0103_1.jpg?v=1787776088",
+      "url": "https://evereve.com/products/ryan-leather-clutch-chocolate"
+    },
+    "evereve_10672331292837": {
+      "title": "Soren Twofer Henley",
+      "first_seen": "2026-09-02T17:04:40.401575+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_EVFA26KT97-MOD_3331_1.jpg?v=1788367087",
+      "url": "https://evereve.com/products/soren-twofer-henley-grey-whitestripe"
+    },
+    "evereve_10491197685925": {
+      "title": "Sydney Straight Jean",
+      "first_seen": "2026-09-02T17:04:40.402273+00:00",
+      "price": 255.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/061626_Ecomm_SEPT_VDM1H14UB_2690_1.jpg?v=1787342587",
+      "url": "https://evereve.com/products/sydney-straight-jean-echo"
+    },
+    "evereve_10657261486245": {
+      "title": "The Everyday Striped Crew",
+      "first_seen": "2026-09-02T17:04:40.403281+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_ZT263558S_3023_1.jpg?v=1788367087",
+      "url": "https://evereve.com/products/the-everyday-striped-crew-heatherash"
+    },
+    "evereve_10507905269925": {
+      "title": "Thea Boyfriend Shirt",
+      "first_seen": "2026-09-02T17:04:40.404437+00:00",
+      "price": 288.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_9519-2044_0324_1.jpg?v=1788367387",
+      "url": "https://evereve.com/products/thea-boyfriend-shirt-marseillestripe"
+    },
+    "evereve_10507963072677": {
+      "title": "Tie Waist Utility Shirt",
+      "first_seen": "2026-09-02T17:04:40.404595+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/083126_Ecomm_54G-68536EV_1034_1.jpg?v=1788366187",
+      "url": "https://evereve.com/products/tie-waist-utility-shirt-black"
+    },
+    "faherty_8045973438533": {
+      "title": "Costa 5-Pocket Pant - Coastal Sage",
+      "first_seen": "2026-09-02T17:05:19.996012+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2607-COS_Costa_5pocket_Pant_OM_FRONT_CROP_1_Web.jpg?v=1785083205",
+      "url": "https://www.fahertybrand.com/products/costa-5pocket-pant-coastal-sage"
+    },
+    "faherty_8045975044165": {
+      "title": "Costa 5-Pocket Pant - Island West Khaki",
+      "first_seen": "2026-09-02T17:05:19.996058+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2607-IWK_Costa_5pocket_Pant_OM_FRONT_CROP_1_Web.jpg?v=1785083826",
+      "url": "https://www.fahertybrand.com/products/costa-5pocket-pant-island-west-khaki"
     }
   },
-  "last_run": "2026-09-01T17:15:45.053572+00:00"
+  "last_run": "2026-09-02T17:05:23.811663+00:00"
 }
