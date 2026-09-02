@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T13:25:38.901027+00:00",
-  "meta_date": "2026-09-01",
+  "generated_at": "2026-09-02T12:42:52.154703+00:00",
+  "meta_date": "2026-09-02",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
@@ -29,21 +29,6 @@
     },
     {
       "title": "Battlegrounds Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Hearthstone Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Battlegrounds Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "General Battlegrounds Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
