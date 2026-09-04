@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-09-03T12:45:51.589572+00:00",
-  "meta_date": "2026-09-03",
+  "generated_at": "2026-09-04T12:39:39.960749+00:00",
+  "meta_date": "2026-09-04",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
   "community_posts": [],
   "hsreplay_heroes": null,
   "patch_notes": [
+    {
+      "title": "Hearthstone Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Arena Updates&#160;",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
     {
       "title": "Arena Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
@@ -19,16 +34,6 @@
     },
     {
       "title": "Battlegrounds",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Hearthstone Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Battlegrounds Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
