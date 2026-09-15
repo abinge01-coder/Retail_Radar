@@ -1,10 +1,288 @@
 {
-  "generated_at": "2026-09-14T14:57:20.590096+00:00",
-  "meta_date": "2026-09-14",
+  "generated_at": "2026-09-15T13:24:51.188460+00:00",
+  "meta_date": "2026-09-15",
   "sources_checked": [
+    "reddit.com/r/BobsTavern",
+    "reddit.com/r/hearthstone",
     "hearthstone.blizzard.com/news"
   ],
-  "community_posts": [],
+  "community_posts": [
+    {
+      "title": "Think this would be a fair trinket to have?",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wgxojw/think_this_would_be_a_fair_trinket_to_have/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Legitimate-Let-7684",
+      "created_utc": 1789471603,
+      "flair": "Custom Card",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "5th place board :')",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wgx0cy/5th_place_board/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Soren114",
+      "created_utc": 1789469565,
+      "flair": "Final Board",
+      "subreddit": "BobsTavern",
+      "preview": "# Got WALLOPED for 15 points back to back by two massive pirate builds. Thought I was scaling really well up until those games. I had almost a full golden board."
+    },
+    {
+      "title": "I know you guys hate my 2nd place posts but it seems like that's my jam",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wgw3sw/i_know_you_guys_hate_my_2nd_place_posts_but_it/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "QueenOfThePiratez",
+      "created_utc": 1789466641,
+      "flair": "Final Board",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "This is who you really are.",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wguhvh/this_is_who_you_really_are/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "eQOfficial",
+      "created_utc": 1789460992,
+      "flair": "OC / Meme",
+      "subreddit": "BobsTavern",
+      "preview": "jk"
+    },
+    {
+      "title": "Casual third place",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wgpcfs/casual_third_place/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "xLucienLachance",
+      "created_utc": 1789444140,
+      "flair": "Final Board",
+      "subreddit": "BobsTavern",
+      "preview": "7.5k MMR - Couldn't find unbound until the end and got beat out by double beatboxer mechs... P.S air revenant had golem dark gift"
+    },
+    {
+      "title": "I had a plan. So did he.",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wgd3wo/i_had_a_plan_so_did_he/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "MooKo_Tastensport",
+      "created_utc": 1789413428,
+      "flair": "OC / Meme",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "The ability to swap trinket sets with a teammate in Duos (before buying)",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wg4r0k/the_ability_to_swap_trinket_sets_with_a_teammate/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "krol1k",
+      "created_utc": 1789395547,
+      "flair": "Feature Request",
+      "subreddit": "BobsTavern",
+      "preview": "It often happens that the powerful trinket you need drops for your teammate, while the one they need drops for you. It would be great to be able to swap trinket sets by mutual agreement."
+    },
+    {
+      "title": "Pretty sure I encountered a bug with Goldenizer",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wg3fe7/pretty_sure_i_encountered_a_bug_with_goldenizer/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "sephireicc",
+      "created_utc": 1789392438,
+      "flair": "🐛Bug/Glitch",
+      "subreddit": "BobsTavern",
+      "preview": "I used my second Goldenizer on Choral, and had a second one on board. I discovered a third, and it made a golden with a Golden/Non-Golden/Non-Golden."
+    },
+    {
+      "title": "The short duration of the late game in Battlegrounds",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wg1uq5/the_short_duration_of_the_late_game_in/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "rnggj4",
+      "created_utc": 1789388387,
+      "flair": "Discussion",
+      "subreddit": "BobsTavern",
+      "preview": "In the late game, there isn’t enough time, so sometimes there are missing minions on the board or I can’t play the way I want especially in APM-heavy compositions like Pirate, Undead, etc. Wouldn’t it make sense to extend the time limit in the late game? Or am I just too slow? Ho"
+    },
+    {
+      "title": "Finally a good dragons game",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wg1ltd/finally_a_good_dragons_game/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "chessmen3000",
+      "created_utc": 1789387691,
+      "flair": "Final Board",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "Since Ghastcoiler is back again, he's the ultimate scam build from 2020",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfy40b/since_ghastcoiler_is_back_again_hes_the_ultimate/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "mang1x666",
+      "created_utc": 1789376283,
+      "flair": "OC / Meme",
+      "subreddit": "BobsTavern",
+      "preview": "[removed]"
+    },
+    {
+      "title": "Beautiful board",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfwq4d/beautiful_board/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Staali",
+      "created_utc": 1789371165,
+      "flair": "Highlight",
+      "subreddit": "BobsTavern",
+      "preview": "I know - no shield on the rally :)"
+    },
+    {
+      "title": "If you get 4th you shouldn’t lose mmr, no matter how many people you tie with.",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfto00/if_you_get_4th_you_shouldnt_lose_mmr_no_matter/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "jacoviansmythe",
+      "created_utc": 1789360883,
+      "flair": "Discussion",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "Love “wheelchair”",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfte35/love_wheelchair/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "csgoatniko",
+      "created_utc": 1789360005,
+      "flair": "Highlight",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "Disgusting final board with naga trinkets",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wft61k/disgusting_final_board_with_naga_trinkets/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Sgt_DeuxDeux",
+      "created_utc": 1789359334,
+      "flair": "Final Board",
+      "subreddit": "BobsTavern",
+      "preview": "Craziest thing here is I got the sushi trinket (doubles the first 2 spellcraft spells each turn) from the minor trinket “after you cast 18 spells get a random greater naga trinket”. I got my zarjira from hero power same turn I got the cyclist portrait and was building what felt l"
+    },
+    {
+      "title": "frustrating lack of synergy due to exceptions",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfrgov/frustrating_lack_of_synergy_due_to_exceptions/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "jet_bread2",
+      "created_utc": 1789354292,
+      "flair": "Game Balance",
+      "subreddit": "BobsTavern",
+      "preview": "Discovered recently that Time Twister Chromi doesnt count as a refresh for triggering effects. I understand that the game is balanced in certain ways but it feels like the game is slowly becoming the english language in that theres more exceptions to the rules than the actual rul"
+    },
+    {
+      "title": "Got my dragons up over 3million damage.",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfrfgo/got_my_dragons_up_over_3million_damage/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Thewhitepanther7777",
+      "created_utc": 1789354191,
+      "flair": "Highlight",
+      "subreddit": "BobsTavern",
+      "preview": "Under the best circumstances possible I got my dragons into the millions of damage , one had over 75 k , health,  all had shields, and two could resurrect with full health, shield and damage. \n\nI know you guys will think it's cool, that's why I like the cut of your jib. \n\nBest"
+    },
+    {
+      "title": "Winning with this schenanigan when dragon's so weak",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfpgg2/winning_with_this_schenanigan_when_dragons_so_weak/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "DiogLin",
+      "created_utc": 1789348589,
+      "flair": "Highlight",
+      "subreddit": "BobsTavern",
+      "preview": "https://preview.redd.it/pk5f7wycydph1.png?width=2002&format=png&auto=webp&s=05281ab42abfe4439a94350b6a2f6b2172092ae4\n\nMy berst minions were 200-300 when I lost to a big demon comp who were 2k-3k. I have been exploiting the interaction between greater trinket and my HP, but it's s"
+    },
+    {
+      "title": "triple stats at the start of combat + retain stats from combat?",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfmkav/triple_stats_at_the_start_of_combat_retain_stats/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "bwils3423",
+      "created_utc": 1789340674,
+      "flair": "Question",
+      "subreddit": "BobsTavern",
+      "preview": "so I just played a game with the balinda DG that triples stats at the start of combat, super fun. This worked so well primarily because of my trinket thaumatorgist spellcrafts are permanent. \n\n  \nBut I was wondering , is it possible to get a balinda dark gift that triples stats a"
+    },
+    {
+      "title": "Battleground mythbuster 2",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wflv4u/battleground_mythbuster_2/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "laksof",
+      "created_utc": 1789338804,
+      "flair": "OC / Meme",
+      "subreddit": "BobsTavern",
+      "preview": "EP1 ( [https://www.reddit.com/r/BobsTavern/s/qT9YvMlwxw](https://www.reddit.com/r/BobsTavern/s/qT9YvMlwxw) )  \nEP2 ( [https://www.reddit.com/r/BobsTavern/s/hUWSyJ4XiV](https://www.reddit.com/r/BobsTavern/s/hUWSyJ4XiV) )  \nEP3 ( [https://www.reddit.com/r/BobsTavern/s/A9ykAtDGiX](h"
+    },
+    {
+      "title": "Does Random Greater Trinket give a trinket for your tribe or is it truly random?",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfluc7/does_random_greater_trinket_give_a_trinket_for/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "CallMeOrdinary",
+      "created_utc": 1789338747,
+      "flair": "Question",
+      "subreddit": "BobsTavern",
+      "preview": ""
+    },
+    {
+      "title": "What do you think Yogg-Saron and Y'Shaarj will be like? These are my guesses:",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfkgc5/what_do_you_think_yoggsaron_and_yshaarj_will_be/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "CucumberJukebox",
+      "created_utc": 1789335312,
+      "flair": "Custom Card",
+      "subreddit": "BobsTavern",
+      "preview": "Looking at the existing Deities, it seems like they each play on different main Abberation mechanics. C'Thun works well with Deity buffing, and Y'Shaarj works with deathrattles or scaling big minions. So, I think it might make sense to look at what Abberation mechanics seem out o"
+    },
+    {
+      "title": "welcome home 🥹",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfhmg4/welcome_home/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "urgod42069",
+      "created_utc": 1789328724,
+      "flair": "Announcement",
+      "subreddit": "BobsTavern",
+      "preview": "it's giving majordomo, **big time**\n\nlove it"
+    },
+    {
+      "title": "Enterprising Escapee does not trigger while tripling. Is this the expected behavior?",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wfg1bj/enterprising_escapee_does_not_trigger_while/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "kronos23456777777",
+      "created_utc": 1789325212,
+      "flair": "Question",
+      "subreddit": "BobsTavern",
+      "preview": "It has happened more than a few times with me now. Say, I buy this minion from tavern to triple it and the gold spent while buying makes the one in my warband go 5/5, should I not get a lockbox if I already don’t have one in my hand?\n\nAm I missing something?"
+    },
+    {
+      "title": "Dead on turn 11 with this, 5th place :_:  (I think we need a number squish)",
+      "url": "https://reddit.com/r/BobsTavern/comments/1wffp17/dead_on_turn_11_with_this_5th_place_i_think_we/",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Nonting_",
+      "created_utc": 1789324457,
+      "flair": "Discussion",
+      "subreddit": "BobsTavern",
+      "preview": "https://preview.redd.it/nh4jdk4azbph1.png?width=1064&format=png&auto=webp&s=e9d221601a6b4b7bc7ec1a47cf510dc81e562337\n\nI just needed 1 turn to scale properly, I just found so many triples (and buying all of them was probably a misplay) I didn't have time to cycle :\\_:  \nDied to de"
+    }
+  ],
   "hsreplay_heroes": null,
   "patch_notes": [
     {
@@ -49,10 +327,72 @@
     }
   ],
   "trends": {
-    "top_keywords": [],
-    "discussed_heroes": [],
+    "top_keywords": [
+      {
+        "topic": "op",
+        "mentions": 4
+      },
+      {
+        "topic": "gold",
+        "mentions": 3
+      },
+      {
+        "topic": "dragon",
+        "mentions": 3
+      },
+      {
+        "topic": "triple",
+        "mentions": 3
+      },
+      {
+        "topic": "pirate",
+        "mentions": 2
+      },
+      {
+        "topic": "mech",
+        "mentions": 2
+      },
+      {
+        "topic": "discover",
+        "mentions": 2
+      },
+      {
+        "topic": "undead",
+        "mentions": 1
+      },
+      {
+        "topic": "naga",
+        "mentions": 1
+      },
+      {
+        "topic": "hero power",
+        "mentions": 1
+      },
+      {
+        "topic": "balance",
+        "mentions": 1
+      },
+      {
+        "topic": "demon",
+        "mentions": 1
+      }
+    ],
+    "discussed_heroes": [
+      {
+        "hero": "C'Thun",
+        "mentions": 1
+      },
+      {
+        "hero": "Death Speaker Blackthorn",
+        "mentions": 1
+      },
+      {
+        "hero": "Yogg-Saron",
+        "mentions": 1
+      }
+    ],
     "sentiment": "neutral",
-    "avg_post_score": 0
+    "avg_post_score": 1.0
   },
   "meta_insights": null
 }
