@@ -85511,7 +85511,343 @@
       "price": 178.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/070826_PetiteEcomm_Oct_GPPPP960B_2061_1.jpg?v=1790005089",
       "url": "https://evereve.com/products/petite-good-waist-palazzo-jeans-black001"
+    },
+    "evereve_10502214123685": {
+      "title": "Natalie Bootcut Jean",
+      "first_seen": "2026-09-22T17:35:10.124054+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/081426_OctEcomm_KP1240MA8_2756_1.jpg?v=1790016187",
+      "url": "https://evereve.com/products/natalie-bootcut-jean-glamour"
+    },
+    "faherty_8045990903877": {
+      "title": "Frontier Field Jacket - Blue Nights",
+      "first_seen": "2026-09-22T17:35:47.529827+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MOF2649-BLN_Frontier_Field_Jacket_OM_FRONT_CROP_1_Web.jpg?v=1789685768",
+      "url": "https://www.fahertybrand.com/products/frontier-field-jacket-blue-nights"
+    },
+    "faherty_8046005354565": {
+      "title": "High Standard Fleece Hoodie - Lilac Twilight",
+      "first_seen": "2026-09-22T17:35:47.530187+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MQF2413-LLT_High_Standard_Fleece_Hoodie_OM_FRONT_CROP_1_Web.jpg?v=1787858639",
+      "url": "https://www.fahertybrand.com/products/high-standard-fleece-hoodie-lilac-twilight"
+    },
+    "faherty_8046005878853": {
+      "title": "High Standard Fleece Hoodie - Pebble Grey Heather",
+      "first_seen": "2026-09-22T17:35:47.530195+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MQF2413-PAE_Campaign.jpg?v=1787336441",
+      "url": "https://www.fahertybrand.com/products/high-standard-fleece-hoodie-pebble-grey-heather"
+    },
+    "faherty_8046001324101": {
+      "title": "Highland Knit Blazer - Coast Brown",
+      "first_seen": "2026-09-22T17:35:47.530300+00:00",
+      "price": 498.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MTH2501-COQ_Highland_Knit_Blazer_OM_FRONT_CROP_1_Web.jpg?v=1789660906",
+      "url": "https://www.fahertybrand.com/products/highland-knit-blazer-coast-brown"
+    },
+    "faherty_8045989232709": {
+      "title": "Indigo Sashiko Chore Jacket - Dark Indigo",
+      "first_seen": "2026-09-22T17:35:47.530471+00:00",
+      "price": 448.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MOF2644-DIN_Indigo_Sashiko_Chore_Jacket_OM_FRONT_CROP_1_Web.jpg?v=1789682150",
+      "url": "https://www.fahertybrand.com/products/indigo-sashiko-chore-jacket-dark-indigo"
+    },
+    "faherty_8045994803269": {
+      "title": "Indigo Shibori Dyed Sweatshirt - Indigo Shibori Dye",
+      "first_seen": "2026-09-22T17:35:47.530479+00:00",
+      "price": 328.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/PDPLeads_Mens_8.jpg?v=1789658766",
+      "url": "https://www.fahertybrand.com/products/indigo-shibori-dyed-sweatshirt-indigo-shibori-dye"
+    },
+    "faherty_8046216413253": {
+      "title": "Jackson Crew Sweater - Forest Grove Heather",
+      "first_seen": "2026-09-22T17:35:47.530696+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MYF2420-FGH_Jackson_Crew_Sweater_OM_FRONT_CROP_1_Web.jpg?v=1789424252",
+      "url": "https://www.fahertybrand.com/products/jackson-crew-sweater-forest-grove-heather"
+    },
+    "faherty_8046218182725": {
+      "title": "Jackson Crew Sweater - Ironwood Heather",
+      "first_seen": "2026-09-22T17:35:47.530703+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MYF2420-IWH_Jackson_Crew_Sweater_OM_FRONT_CROP_1_Web.jpg?v=1787857907",
+      "url": "https://www.fahertybrand.com/products/jackson-crew-sweater-ironwood-heather"
+    },
+    "faherty_8046217429061": {
+      "title": "Jackson Crew Sweater - Sunset Red Heather",
+      "first_seen": "2026-09-22T17:35:47.530717+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MYF2420-HSR_Jackson_Crew_Sweater_OM_FRONT_CROP_1_Web.jpg?v=1787853316",
+      "url": "https://www.fahertybrand.com/products/jackson-crew-sweater-sunset-red-heather"
+    },
+    "faherty_8046180991045": {
+      "title": "Japanese Flannel Workshirt - Blue Sora Plaid",
+      "first_seen": "2026-09-22T17:35:47.530768+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWF2615-BSQ_Campaign.jpg?v=1787339310",
+      "url": "https://www.fahertybrand.com/products/japanese-flannel-workshirt-blue-sora-plaid"
+    },
+    "faherty_8046181908549": {
+      "title": "Japanese Flannel Workshirt - Green Mori Plaid",
+      "first_seen": "2026-09-22T17:35:47.530773+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2615-GMP_Japanese_Flannel_Workshirt_OM_FRONT_CROP_1_Web.jpg?v=1789664909",
+      "url": "https://www.fahertybrand.com/products/japanese-flannel-workshirt-green-mori-plaid"
+    },
+    "faherty_8046182662213": {
+      "title": "Japanese Flannel Workshirt - Russet Cedar Plaid",
+      "first_seen": "2026-09-22T17:35:47.530779+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2615-RCX_Japanese_Flannel_Workshirt_OM_FRONT_CROP_1_Web.jpg?v=1789681296",
+      "url": "https://www.fahertybrand.com/products/japanese-flannel-workshirt-russet-cedar-plaid"
+    },
+    "faherty_8045978746949": {
+      "title": "Long-Sleeve Movement Pique Polo - Tropics Olive Melange",
+      "first_seen": "2026-09-22T17:35:47.532140+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2616-TOG_Ls_Movement_Pique_Polo_OM_FULL_BODY_1_Web.jpg?v=1789400164",
+      "url": "https://www.fahertybrand.com/products/ls-movement-pique-polo-tropics-olive-melange"
+    },
+    "faherty_8045980090437": {
+      "title": "Long-Sleeve Movement Polo - Cedar Waters Stripe",
+      "first_seen": "2026-09-22T17:35:47.532147+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2526-CWZ_Ls_Movement_Polo_OM_FRONT_CROP_1_Web.jpg?v=1787660564",
+      "url": "https://www.fahertybrand.com/products/ls-movement-polo-cedar-waters-stripe"
+    },
+    "faherty_8045981171781": {
+      "title": "Long-Sleeve Movement Polo - Navy Strait Stripe",
+      "first_seen": "2026-09-22T17:35:47.532175+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MKF2526-NHT_Ls_Movement_Polo_OM_FRONT_CROP_1_Web.jpg?v=1789691068",
+      "url": "https://www.fahertybrand.com/products/ls-movement-polo-navy-strait-stripe"
+    },
+    "faherty_8045980287045": {
+      "title": "Long-Sleeve Movement Polo - Pebble Shore Stripe",
+      "first_seen": "2026-09-22T17:35:47.532182+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MKF2526-EBB_Ls_Movement_Polo_OM_FRONT_CROP_1_Web.jpg?v=1787855663",
+      "url": "https://www.fahertybrand.com/products/ls-movement-polo-pebble-shore-stripe"
+    },
+    "faherty_8045977993285": {
+      "title": "Long-Sleeve Pima Polo - Autumn Woods Melange",
+      "first_seen": "2026-09-22T17:35:47.532189+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MKF2605-AWM_Ls_Pima_Polo_OM_FRONT_CROP_1_Web.jpg?v=1789423302",
+      "url": "https://www.fahertybrand.com/products/ls-pima-polo-autumn-woods-melange"
+    },
+    "faherty_8045978222661": {
+      "title": "Long-Sleeve Pima Polo - Shadow Rock Melange",
+      "first_seen": "2026-09-22T17:35:47.532197+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MKF2605-RMS_Ls_Pima_Polo_OM_FRONT_CROP_1_Web.jpg?v=1789659307",
+      "url": "https://www.fahertybrand.com/products/ls-pima-polo-shadow-rock-melange"
+    },
+    "faherty_8045978419269": {
+      "title": "Long-Sleeve Pima Polo - White Wall",
+      "first_seen": "2026-09-22T17:35:47.532205+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2605-WWL_Ls_Pima_Polo_OM_FULL_BODY_1_Web.jpg?v=1789408986",
+      "url": "https://www.fahertybrand.com/products/ls-pima-polo-white-wall"
+    },
+    "faherty_8046000439365": {
+      "title": "Loopwheel Hoodie - Heather Grey",
+      "first_seen": "2026-09-22T17:35:47.532435+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MQF2605-HGY_Loopwheel_Hoodie_OM_FRONT_CROP_1_Web.jpg?v=1789660065",
+      "url": "https://www.fahertybrand.com/products/loopwheel-hoodie-heather-grey"
+    },
+    "faherty_8045985759301": {
+      "title": "Military Bomber - Graphite",
+      "first_seen": "2026-09-22T17:35:47.532591+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MOF2650-GRP_Military_Bomber_OM_FRONT_CROP_1_Web.jpg?v=1787844289",
+      "url": "https://www.fahertybrand.com/products/military-bomber-graphite"
+    },
+    "faherty_8045992443973": {
+      "title": "Range Fleece CPO - Brown Forest Suns",
+      "first_seen": "2026-09-22T17:35:47.533955+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MOH2401-BFZ_Campaign.jpg?v=1787337588",
+      "url": "https://www.fahertybrand.com/products/range-fleece-cpo-brown-forest-suns"
+    },
+    "faherty_8046180499525": {
+      "title": "Sashiko Indigo Workshirt - Dark Indigo",
+      "first_seen": "2026-09-22T17:35:47.534222+00:00",
+      "price": 348.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWF2614-DIN_Campaign.jpg?v=1787338991",
+      "url": "https://www.fahertybrand.com/products/sashiko-indigo-workshirt-dark-indigo"
+    },
+    "faherty_8045974945861": {
+      "title": "Selvedge 5-Pocket Denim - Indigo Rinse Wash",
+      "first_seen": "2026-09-22T17:35:47.534374+00:00",
+      "price": 348.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MOF2644-DIN_Campaign.jpg?v=1787339164",
+      "url": "https://www.fahertybrand.com/products/selvedge-5pocket-denim-indigo-rinse-wash"
+    },
+    "faherty_8045992902725": {
+      "title": "Stretch Blanket Lined CPO - Abyss Navy",
+      "first_seen": "2026-09-22T17:35:47.536373+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MOF2651-YVY_Stretch_Blanket_Lined_Cpo_OM_FRONT_CROP_1_Web.jpg?v=1789655873",
+      "url": "https://www.fahertybrand.com/products/stretch-blanket-lined-cpo-abyss-navy"
+    },
+    "faherty_8045992673349": {
+      "title": "Stretch Blanket Lined CPO - Coast Brown",
+      "first_seen": "2026-09-22T17:35:47.536380+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MOF2651-COQ_Stretch_Blanket_Lined_Cpo_OM_FRONT_CROP_1_Web.jpg?v=1789671407",
+      "url": "https://www.fahertybrand.com/products/stretch-blanket-lined-cpo-coast-brown"
+    },
+    "faherty_8048101228613": {
+      "title": "Stretch Terry 5-Pocket Pant - Abyss Navy",
+      "first_seen": "2026-09-22T17:35:47.536495+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MBF2440-YVY_Stretch_Terry_5pocket_OM_FRONT_CROP_1_Web.jpg?v=1789672594",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-5pocket-abyss-navy"
+    },
+    "faherty_8046186954821": {
+      "title": "Stretch Terry Corduroy Workshirt - Abyss Navy",
+      "first_seen": "2026-09-22T17:35:47.536777+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2518-YVY_Stretch_Terry_Corduroy_Workshirt_OM_FRONT_CROP_1_Web.jpg?v=1789665941",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-corduroy-workshirt-abyss-navy"
+    },
+    "faherty_8046181318725": {
+      "title": "Stretch Terry Corduroy Workshirt - Brown Umber",
+      "first_seen": "2026-09-22T17:35:47.536783+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWF2518-BUB_Campaign.jpg?v=1787338213",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-corduroy-workshirt-brown-umber"
+    },
+    "faherty_8046183481413": {
+      "title": "Stretch Terry Corduroy Workshirt - Deep Moss",
+      "first_seen": "2026-09-22T17:35:47.536789+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2518-DMO_Stretch_Terry_Corduroy_Workshirt_OM_FRONT_CROP_1_Web.jpg?v=1789664474",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-corduroy-workshirt-deep-moss"
+    },
+    "faherty_8046185283653": {
+      "title": "Stretch Terry Corduroy Workshirt - Tundra Stone",
+      "first_seen": "2026-09-22T17:35:47.536794+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2518-TDI_Stretch_Terry_Corduroy_Workshirt_OM_FRONT_CROP_1_Web.jpg?v=1789672170",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-corduroy-workshirt-tundra-stone"
+    },
+    "faherty_8046207598661": {
+      "title": "Sunwashed Dockside Quarter Button - Abyss Navy",
+      "first_seen": "2026-09-22T17:35:47.537585+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MYF2604-YVY_Sunwashed_Dockside_Quarter_Button_OM_FRONT_CROP_1_Web.jpg?v=1789484348",
+      "url": "https://www.fahertybrand.com/products/sunwashed-dockside-quarter-button-abyss-navy"
+    },
+    "faherty_8046206844997": {
+      "title": "Sunwashed Dockside Quarter Button - Coast Brown",
+      "first_seen": "2026-09-22T17:35:47.537590+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MYF2604-COQ_Sunwashed_Dockside_Quarter_Button_OM_FRONT_CROP_1_Web.jpg?v=1789672984",
+      "url": "https://www.fahertybrand.com/products/sunwashed-dockside-quarter-button-coast-brown"
+    },
+    "faherty_8046008074309": {
+      "title": "Sunwashed Organic Hoodie - Timber Rock Feeder",
+      "first_seen": "2026-09-22T17:35:47.538016+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MQS2608-TRK_Sunwashed_Slub_Hoodie_OM_FRONT_CROP_1_Web.jpg?v=1787836809",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-hoodie-timber-rock-feeder"
+    },
+    "faherty_8046008270917": {
+      "title": "Sunwashed Organic Hoodie - Western Prairie Stripe",
+      "first_seen": "2026-09-22T17:35:47.538022+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MQS2608-WPZ_Sunwashed_Slub_Hoodie_OM_FRONT_CROP_1_Web.jpg?v=1789699246",
+      "url": "https://www.fahertybrand.com/products/sunwashed-slub-hoodie-western-prairie-stripe"
+    },
+    "faherty_8045988446277": {
+      "title": "Sunwashed Regenerative Tee - Coast Brown",
+      "first_seen": "2026-09-22T17:35:47.538256+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MKS2501-COQ_Sunwashed_Tee_OM_FRONT_CROP_1_Web.jpg?v=1789667635",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tee-coast-brown"
+    },
+    "faherty_8047151677509": {
+      "title": "The Movement Shirt - Berry Navy Pincheck",
+      "first_seen": "2026-09-22T17:35:47.539086+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWC0082-YNP_The_Movement_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789669118",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-berry-navy-pincheck"
+    },
+    "faherty_8046193147973": {
+      "title": "The Movement Shirt - Lavender Lake Plaid",
+      "first_seen": "2026-09-22T17:35:47.539213+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWC0082-LLV_The_Movement_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789491279",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-lavender-lake-plaid"
+    },
+    "faherty_8046202748997": {
+      "title": "The Movement Shirt - Ocean Mist Check",
+      "first_seen": "2026-09-22T17:35:47.539245+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWC0082-OMC_The_Movement_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789671928",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-ocean-mist-check"
+    },
+    "faherty_8046208221253": {
+      "title": "The Movement Shirt - Ridge Brook Check",
+      "first_seen": "2026-09-22T17:35:47.539281+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWC0082-RBQ_The_Movement_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1790089656",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-ridge-brook-check"
+    },
+    "faherty_8046181941317": {
+      "title": "Timberline Brushed Twill Shirt - Mineral Grey",
+      "first_seen": "2026-09-22T17:35:47.539461+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2603-ING_Timberline_Brushed_Twill_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789497666",
+      "url": "https://www.fahertybrand.com/products/timberline-brushed-twill-shirt-mineral-grey"
+    },
+    "faherty_8046182760517": {
+      "title": "Timberline Brushed Twill Shirt - Moraine Hills Plaid",
+      "first_seen": "2026-09-22T17:35:47.539467+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2603-MHX_Timberline_Brushed_Twill_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789671647",
+      "url": "https://www.fahertybrand.com/products/timberline-brushed-twill-shirt-moraine-hills-plaid"
+    },
+    "faherty_8046183317573": {
+      "title": "Timberline Brushed Twill Shirt - Open Tundra Plaid",
+      "first_seen": "2026-09-22T17:35:47.539475+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2603-OPX_Timberline_Brushed_Twill_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789685412",
+      "url": "https://www.fahertybrand.com/products/timberline-brushed-twill-shirt-open-tundra-plaid"
+    },
+    "faherty_8046183972933": {
+      "title": "Timberline Brushed Twill Shirt - Rocky Summit",
+      "first_seen": "2026-09-22T17:35:47.539481+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2603-RYZ_Timberline_Brushed_Twill_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789406896",
+      "url": "https://www.fahertybrand.com/products/timberline-brushed-twill-shirt-rocky-summit"
+    },
+    "faherty_8046184497221": {
+      "title": "Timberline Brushed Twill Shirt - Skyline Creek Plaid",
+      "first_seen": "2026-09-22T17:35:47.539488+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2603-SYC_Timberline_Brushed_Twill_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789500184",
+      "url": "https://www.fahertybrand.com/products/timberline-brushed-twill-shirt-skyline-creek-plaid"
+    },
+    "faherty_8046185087045": {
+      "title": "Timberline Brushed Twill Shirt - Smoky Hills Plaid",
+      "first_seen": "2026-09-22T17:35:47.539495+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MWF2603-YHP_Timberline_Brushed_Twill_Shirt_OM_FRONT_CROP_1_Web.jpg?v=1789665576",
+      "url": "https://www.fahertybrand.com/products/timberline-brushed-twill-shirt-smoky-hills-plaid"
+    },
+    "faherty_8046221164613": {
+      "title": "Wave Swell Cardigan - Pearl Blue Crest",
+      "first_seen": "2026-09-22T17:35:47.540154+00:00",
+      "price": 378.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MYF2611-PBR_Wave_Swell_Cardigan_OM_FRONT_CROP_1_Web.jpg?v=1789657408",
+      "url": "https://www.fahertybrand.com/products/wave-swell-cardigan-pearl-blue-crest"
     }
   },
-  "last_run": "2026-09-21T18:34:49.357750+00:00"
+  "last_run": "2026-09-22T17:35:51.299136+00:00"
 }
