@@ -1,22 +1,12 @@
 {
-  "generated_at": "2026-09-29T14:46:57.166014+00:00",
-  "meta_date": "2026-09-29",
+  "generated_at": "2026-09-30T14:50:22.966605+00:00",
+  "meta_date": "2026-09-30",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
   "community_posts": [],
   "hsreplay_heroes": null,
   "patch_notes": [
-    {
-      "title": "Hearthstone Card Reveals clash with the power of the Old Gods!",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Where to Find Hearthstone on Social Media",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
     {
       "title": "Arena Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
@@ -34,6 +24,16 @@
     },
     {
       "title": "Battlegrounds",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Hearthstone Card Reveals clash with the power of the Old Gods!",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Where to Find Hearthstone on Social Media",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
