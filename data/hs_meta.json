@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-02T14:39:56.685629+00:00",
-  "meta_date": "2026-10-02",
+  "generated_at": "2026-10-03T13:16:09.941266+00:00",
+  "meta_date": "2026-10-03",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
   "community_posts": [],
   "hsreplay_heroes": null,
   "patch_notes": [
+    {
+      "title": "Sneak Peek at What's Coming in Patch 37.0&#160;",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
     {
       "title": "Arena Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
@@ -39,11 +44,6 @@
     },
     {
       "title": "Embark on Your Epic Journey with the Updated Journal",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "New Minion Type Coming to Battlegrounds",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
