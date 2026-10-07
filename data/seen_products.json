@@ -88605,7 +88605,1015 @@
       "price": 78.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26265-WHT_FRONT.jpg?v=1790283812",
       "url": "https://www.fahertybrand.com/products/university-of-florida-sunwashed-pocket-tee-white"
+    },
+    "buttercloth_10578271338677": {
+      "title": "Cosmic Elegance in Black",
+      "first_seen": "2026-10-07T19:15:27.577654+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SOW6035_Black_0.jpg?v=1791389241",
+      "url": "https://buttercloth.com/products/cosmic-elegance-in-black"
+    },
+    "buttercloth_10578271273141": {
+      "title": "Cosmic Elegance in Off White",
+      "first_seen": "2026-10-07T19:15:27.577662+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SOW6035_Off-White_0.jpg?v=1791389256",
+      "url": "https://buttercloth.com/products/cosmic-elegance-in-off-white"
+    },
+    "buttercloth_10578271240373": {
+      "title": "Eclipse Hour in Black",
+      "first_seen": "2026-10-07T19:15:27.577946+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SOW6032_Black_0.jpg?v=1791389101",
+      "url": "https://buttercloth.com/products/eclipse-hour-in-black"
+    },
+    "buttercloth_10578271207605": {
+      "title": "Eclipse Hour in Off White",
+      "first_seen": "2026-10-07T19:15:27.577953+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SOW6032_Off-White_0.jpg?v=1791389121",
+      "url": "https://buttercloth.com/products/eclipse-hour-in-off-white"
+    },
+    "buttercloth_10578271436981": {
+      "title": "Lunar Glow in Taupe White",
+      "first_seen": "2026-10-07T19:15:27.579119+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SOW6033_Lunar-Glow_0.jpg?v=1791389200",
+      "url": "https://buttercloth.com/products/lunar-glow-in-taupe-white"
+    },
+    "buttercloth_10578271469749": {
+      "title": "Lunar Glow in White Black",
+      "first_seen": "2026-10-07T19:15:27.579127+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/SOW6033_White_Black_0.jpg?v=1791389222",
+      "url": "https://buttercloth.com/products/lunar-glow-in-white-black"
+    },
+    "buttercloth_10483996393653": {
+      "title": "Prestige in Black Sand",
+      "first_seen": "2026-10-07T19:15:27.579497+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6029L_Black-Sand_0.jpg?v=1791389355",
+      "url": "https://buttercloth.com/products/prestige-in-black-sand"
+    },
+    "buttercloth_10483996459189": {
+      "title": "Prestige in Whisper White Black",
+      "first_seen": "2026-10-07T19:15:27.579512+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6029L_Whisper-White-Black_1.jpg?v=1782949208",
+      "url": "https://buttercloth.com/products/prestige-in-whisper-white-black"
+    },
+    "buttercloth_10480211689653": {
+      "title": "Spotlight in Black",
+      "first_seen": "2026-10-07T19:15:27.579855+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6064L_Black_1-_Belt.jpg?v=1782949295",
+      "url": "https://buttercloth.com/products/spotlight-in-black"
+    },
+    "buttercloth_10480211722421": {
+      "title": "Spotlight in Black Whisper White",
+      "first_seen": "2026-10-07T19:15:27.579861+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6064L_Black_Whisper-White_0.jpg?v=1791389387",
+      "url": "https://buttercloth.com/products/spotlight-in-black-whisper-white"
+    },
+    "buttercloth_10480211787957": {
+      "title": "Spotlight in Deep Sea Blue",
+      "first_seen": "2026-10-07T19:15:27.579867+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6064L_Deep-Sea-Blue_0.jpg?v=1791389415",
+      "url": "https://buttercloth.com/products/spotlight-in-deep-sea-blue"
+    },
+    "buttercloth_10483996590261": {
+      "title": "Stellar in Black",
+      "first_seen": "2026-10-07T19:15:27.579944+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6069L_Black_1.jpg?v=1782949229",
+      "url": "https://buttercloth.com/products/stellar-in-black"
+    },
+    "buttercloth_10483996623029": {
+      "title": "Stellar in Whisper White",
+      "first_seen": "2026-10-07T19:15:27.579949+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/2292/7197/files/WVW6069L_Whisper-White_1.jpg?v=1782949258",
+      "url": "https://buttercloth.com/products/stellar-in-whisper-white"
+    },
+    "evereve_10699380129957": {
+      "title": "Babysoft Mock Neck Rib Pullover",
+      "first_seen": "2026-10-07T19:16:16.870878+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_780BN_0073_1.jpg?v=1791387787",
+      "url": "https://evereve.com/products/babysoft-mock-neck-rib-pullover-briskblue"
+    },
+    "evereve_10466562572453": {
+      "title": "Beau Seamed Crescent Jean",
+      "first_seen": "2026-10-07T19:16:16.871284+00:00",
+      "price": 208.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_P00017000-EZ_2575_1.jpg?v=1791389587",
+      "url": "https://evereve.com/products/beau-seamed-crescent-jean-nightfall"
+    },
+    "evereve_10502869188773": {
+      "title": "Bishop Shirt",
+      "first_seen": "2026-10-07T19:16:16.871966+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_201087-563B-12109_0423_1.jpg?v=1791387488",
+      "url": "https://evereve.com/products/bishop-shirt-onyxtaupe"
+    },
+    "evereve_10502945865893": {
+      "title": "Blake Jacket",
+      "first_seen": "2026-10-07T19:16:16.872034+00:00",
+      "price": 278.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_201090-426B-004_0715_1.jpg?v=1791387497",
+      "url": "https://evereve.com/products/blake-jacket-heathergrey"
+    },
+    "evereve_10502995804325": {
+      "title": "Cameron Suiting Trouser",
+      "first_seen": "2026-10-07T19:16:16.873347+00:00",
+      "price": 218.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_201090-285D-004_0625_1.jpg?v=1791387488",
+      "url": "https://evereve.com/products/cameron-suiting-trouser-heathergrey"
+    },
+    "evereve_10782158061733": {
+      "title": "Cindy Turtleneck",
+      "first_seen": "2026-10-07T19:16:16.874334+00:00",
+      "price": 103.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_T303-J191_2535_1.jpg?v=1791389588",
+      "url": "https://evereve.com/products/cindy-turtleneck-naturalstripe"
+    },
+    "evereve_10493886759077": {
+      "title": "Classic Tee",
+      "first_seen": "2026-10-07T19:16:16.874631+00:00",
+      "price": 145.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_CVA1001110-ARCRM_1811_1.jpg?v=1791391687",
+      "url": "https://evereve.com/products/classic-tee-army-creamstripe"
+    },
+    "evereve_10503059079333": {
+      "title": "Daija Mesh Midi Dress",
+      "first_seen": "2026-10-07T19:16:16.875593+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_500A-199E-12075__1370_1.jpg?v=1791388087",
+      "url": "https://evereve.com/products/daija-mesh-midi-dress-chocolatepolkadot"
+    },
+    "evereve_10503029948581": {
+      "title": "Davie Long Sleeve Sweater Tee",
+      "first_seen": "2026-10-07T19:16:16.875858+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_883-386E-12088_1097_1.jpg?v=1791387506",
+      "url": "https://evereve.com/products/davie-long-sleeve-sweater-tee-heatheroatstripe"
+    },
+    "evereve_10786716582053": {
+      "title": "Diane Cardigan",
+      "first_seen": "2026-10-07T19:16:16.876220+00:00",
+      "price": 258.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_820C-388E-001_0311_1.jpg?v=1791387787",
+      "url": "https://evereve.com/products/diane-cardigan-black"
+    },
+    "evereve_10466562703525": {
+      "title": "Evie Bootcut Jean",
+      "first_seen": "2026-10-07T19:16:16.877702+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_P00016420-QL_2665_1.jpg?v=1791400087",
+      "url": "https://evereve.com/products/evie-bootcut-jean-soho"
+    },
+    "evereve_10501624823973": {
+      "title": "Flora Ribbed Long Sleeve",
+      "first_seen": "2026-10-07T19:16:16.878263+00:00",
+      "price": 115.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_T431-FLORA_2033_1.jpg?v=1791389291",
+      "url": "https://evereve.com/products/flora-ribbed-long-sleeve-heathergrey"
+    },
+    "evereve_10502868598949": {
+      "title": "Hunter Shirt",
+      "first_seen": "2026-10-07T19:16:16.880791+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_100-550-12112_1013_1.jpg?v=1791388096",
+      "url": "https://evereve.com/products/hunter-shirt-plumcream"
+    },
+    "evereve_10502869024933": {
+      "title": "Hunter Shirt",
+      "first_seen": "2026-10-07T19:16:16.880797+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_100-550-12063_0896_1.jpg?v=1791388087",
+      "url": "https://evereve.com/products/hunter-shirt-almondblack"
+    },
+    "evereve_10523090354341": {
+      "title": "Jean Belted Long Cardigan",
+      "first_seen": "2026-10-07T19:16:16.881523+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_CAS0112029EE_1619_1.jpg?v=1791391097",
+      "url": "https://evereve.com/products/jean-belted-long-cardigan-oat"
+    },
+    "evereve_10502971719845": {
+      "title": "Jordan Mesh Midi Skirt",
+      "first_seen": "2026-10-07T19:16:16.882195+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_500A-283D-12075_1141_1.jpg?v=1791388088",
+      "url": "https://evereve.com/products/jordan-mesh-midi-skirt-chocolatepolkadot"
+    },
+    "evereve_10525332045989": {
+      "title": "Korin Rib Snap Tee",
+      "first_seen": "2026-10-07T19:16:16.883451+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_KTP129231-E-SL_2762_1.jpg?v=1791400088",
+      "url": "https://evereve.com/products/korin-rib-snap-tee-charcoal"
+    },
+    "evereve_10502869614757": {
+      "title": "Lauris Top",
+      "first_seen": "2026-10-07T19:16:16.883893+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_500A-2833-12075_1315_1.jpg?v=1791387788",
+      "url": "https://evereve.com/products/lauris-top-chocolatepolkadot"
+    },
+    "evereve_10555797110949": {
+      "title": "Melchie Relaxed Knit Hoodie",
+      "first_seen": "2026-10-07T19:16:16.887001+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_OctEcomm_VAR03706_3239_1.jpg?v=1790617999",
+      "url": "https://evereve.com/products/melchie-relaxed-knit-hoodie-greymarl"
+    },
+    "evereve_10555796390053": {
+      "title": "Milano Half Zip Sweat",
+      "first_seen": "2026-10-07T19:16:16.887363+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_OctEcomm_VAR02122_2742_1.jpg?v=1790697788",
+      "url": "https://evereve.com/products/milano-half-zip-sweat-miragegrey-snowwhite"
+    },
+    "evereve_10501624529061": {
+      "title": "Oversized Ziggy Sweatshirt",
+      "first_seen": "2026-10-07T19:16:16.889083+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_T394-OVERSIZEDZIGGY_grey_2411_1.jpg?v=1791389288",
+      "url": "https://evereve.com/products/oversized-ziggy-sweatshirt-darkheathergrey"
+    },
+    "evereve_10670819213477": {
+      "title": "Oversized Ziggy Sweatshirt",
+      "first_seen": "2026-10-07T19:16:16.889089+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_T394-OVERSIZEDZIGGY_2296_1.jpg?v=1791389287",
+      "url": "https://evereve.com/products/oversized-ziggy-sweatshirt-cherrylacquer"
+    },
+    "evereve_10503029850277": {
+      "title": "Paxton Rugby Sweater",
+      "first_seen": "2026-10-07T19:16:16.889555+00:00",
+      "price": 258.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_813B-378D-12088_1505_1.jpg?v=1791387796",
+      "url": "https://evereve.com/products/paxton-rugby-sweater-heatheroatstripe"
+    },
+    "evereve_10555796324517": {
+      "title": "Philippe Crop Sweat",
+      "first_seen": "2026-10-07T19:16:16.890401+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_OctEcomm_VAR02946_2207_1.jpg?v=1790619236",
+      "url": "https://evereve.com/products/philippe-crop-sweat-lightgreymarl"
+    },
+    "evereve_10777610911909": {
+      "title": "Ritla Ballet Flat",
+      "first_seen": "2026-10-07T19:16:16.891598+00:00",
+      "price": 135.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_OCTJASI_RITLA_0141_1.jpg?v=1791315811",
+      "url": "https://evereve.com/products/ritla-ballet-flat-black"
+    },
+    "evereve_10503030112421": {
+      "title": "Roman Short Sleeve Cardigan",
+      "first_seen": "2026-10-07T19:16:16.891692+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_201096-301F-8271_0813_1.jpg?v=1791391087",
+      "url": "https://evereve.com/products/roman-short-sleeve-cardigan-crimson"
+    },
+    "evereve_10503030243493": {
+      "title": "Roman Short Sleeve Cardigan",
+      "first_seen": "2026-10-07T19:16:16.891698+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_201096-301F-008_0533_1.jpg?v=1791391087",
+      "url": "https://evereve.com/products/roman-short-sleeve-cardigan-charcoal"
+    },
+    "evereve_10497307574437": {
+      "title": "The Slub Stripe Tee",
+      "first_seen": "2026-10-07T19:16:16.896482+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_RE7M32PT3KW_2124_1.jpg?v=1791389587",
+      "url": "https://evereve.com/products/the-slub-stripe-tee-black-whitestripe"
+    },
+    "evereve_10495017451685": {
+      "title": "Upside Jacket",
+      "first_seen": "2026-10-07T19:16:16.897278+00:00",
+      "price": 169.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_CJ1199GV8_1932_1.jpg?v=1791387188",
+      "url": "https://evereve.com/products/upside-jacket-cocoakitty"
+    },
+    "evereve_10502996295845": {
+      "title": "Vista Fringe Mini Skirt",
+      "first_seen": "2026-10-07T19:16:16.897852+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_917-216C-12090_1694_1.jpg?v=1791387488",
+      "url": "https://evereve.com/products/vista-fringe-mini-skirt-highlandplaid"
+    },
+    "evereve_10496494665893": {
+      "title": "Vitow Cardigan",
+      "first_seen": "2026-10-07T19:16:16.897858+00:00",
+      "price": 245.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_VITO19EH26-blue_0244_1.jpg?v=1791389287",
+      "url": "https://evereve.com/products/vitow-cardigan-curacaochine"
+    },
+    "evereve_10496494829733": {
+      "title": "Vitow Cardigan",
+      "first_seen": "2026-10-07T19:16:16.897864+00:00",
+      "price": 245.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_Ecomm_VITO19EH26_0135_1.jpg?v=1791389287",
+      "url": "https://evereve.com/products/vitow-cardigan-grisclairchine"
+    },
+    "faherty_8047186575429": {
+      "title": "Atlas Puffer - Olive",
+      "first_seen": "2026-10-07T19:16:57.878085+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WOF2602-OLV_Campaign.jpg?v=1787333689",
+      "url": "https://www.fahertybrand.com/products/atlas-puffer-olive"
+    },
+    "faherty_8199154794565": {
+      "title": "Boston College High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.878530+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26259-SVA.jpg?v=1790630479",
+      "url": "https://www.fahertybrand.com/products/boston-college-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8199154925637": {
+      "title": "Boston College High Standard Fleece Hoodie - Mountain Black",
+      "first_seen": "2026-10-07T19:16:57.878537+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26260-MBA.jpg?v=1790631010",
+      "url": "https://www.fahertybrand.com/products/boston-college-high-standard-fleece-hoodie-mountain-black"
+    },
+    "faherty_8285450731589": {
+      "title": "Boston College Sunwashed Regenerative Pocket Tee - Island Dune Heather",
+      "first_seen": "2026-10-07T19:16:57.878546+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26258-IDU_FRONT.jpg?v=1790630851",
+      "url": "https://www.fahertybrand.com/products/boston-college-sunwashed-pocket-tee-island-dune-heather"
+    },
+    "faherty_8199157874757": {
+      "title": "Boston College Sunwashed Regenerative Tee - Washed Black",
+      "first_seen": "2026-10-07T19:16:57.878554+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26226-WBK.jpg?v=1790631571",
+      "url": "https://www.fahertybrand.com/products/boston-college-sunwashed-essential-tee-washed-black-1"
+    },
+    "faherty_8021099708485": {
+      "title": "Dune Cotton Gauze Relaxed Camp Shirt - Desert Blossom",
+      "first_seen": "2026-10-07T19:16:57.880183+00:00",
+      "price": 69.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WWU2610-DXS_386_Web.jpg?v=1776877272",
+      "url": "https://www.fahertybrand.com/products/dune-cotton-gauze-relaxed-camp-shirt-desert-blossom"
+    },
+    "faherty_8021114126405": {
+      "title": "Dune Cotton Gauze Serena Short - Desert Blossom",
+      "first_seen": "2026-10-07T19:16:57.880205+00:00",
+      "price": 49.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2608-DXS_0319_Web.jpg?v=1776789015",
+      "url": "https://www.fahertybrand.com/products/dune-cotton-gauze-serena-short-desert-blossom"
+    },
+    "faherty_8199157481541": {
+      "title": "Florida State University Sunwashed Essential Tee - Washed Black",
+      "first_seen": "2026-10-07T19:16:57.881362+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26224-WBK.jpg?v=1790632444",
+      "url": "https://www.fahertybrand.com/products/florida-state-university-sunwashed-essential-tee-washed-black-1"
+    },
+    "faherty_8199157153861": {
+      "title": "Florida State University Sunwashed Organic Hoodie - Oat Plains Heather",
+      "first_seen": "2026-10-07T19:16:57.881369+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26257-OPH.jpg?v=1790689559",
+      "url": "https://www.fahertybrand.com/products/florida-state-university-sunwashed-slub-hoodie-oat-plains-heather"
+    },
+    "faherty_8233635708997": {
+      "title": "Georgetown High Standard Fleece Crew - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.881427+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26312-BLN.jpg?v=1790030231",
+      "url": "https://www.fahertybrand.com/products/georgetown-high-standard-fleece-crew-blue-nights"
+    },
+    "faherty_8233636429893": {
+      "title": "Georgetown Sunwashed Organic Hoodie - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.881450+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26313-LGH.jpg?v=1790030228",
+      "url": "https://www.fahertybrand.com/products/georgetown-sunwashed-slub-hoodie-light-grey-heather"
+    },
+    "faherty_8233635610693": {
+      "title": "Georgetown Sunwashed Organic Raglan Long-Sleeve - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.881473+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26260-LGH_OM.jpg?v=1791316502",
+      "url": "https://www.fahertybrand.com/products/georgetown-sunwashed-slub-raglan-ls-light-grey-heather"
+    },
+    "faherty_8285450993733": {
+      "title": "Georgetown Sunwashed Regenerative Pocket Tee - White",
+      "first_seen": "2026-10-07T19:16:57.881487+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26311-WHT_FRONT.jpg?v=1790030239",
+      "url": "https://www.fahertybrand.com/products/georgetown-sunwashed-pocket-tee-white"
+    },
+    "faherty_8233641214021": {
+      "title": "Georgetown Sunwashed Regenerative Tee - Dune Navy",
+      "first_seen": "2026-10-07T19:16:57.881495+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26259-DUY.jpg?v=1790030225",
+      "url": "https://www.fahertybrand.com/products/georgetown-sunwashed-essential-tee-dune-navy"
+    },
+    "faherty_1935462236229": {
+      "title": "Gift Wrap - Fishscale Hawaiian",
+      "first_seen": "2026-10-07T19:16:57.881513+00:00",
+      "price": 0.5,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/products/wrap1.jpg?v=1742428028",
+      "url": "https://www.fahertybrand.com/products/hol18-gift-wrap-fishscale-hawaiian"
+    },
+    "faherty_8285451223109": {
+      "title": "Harvard Legend Sweater Rugby Popover - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.881561+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26297-LGH.jpg?v=1790186738",
+      "url": "https://www.fahertybrand.com/products/harvard-legend-sweater-rugby-popover-light-grey-heather-1"
+    },
+    "faherty_8233640460357": {
+      "title": "Harvard Sunwashed Regenerative Tee - Dune Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.881592+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26245-EYH.jpg?v=1790186731",
+      "url": "https://www.fahertybrand.com/products/harvard-sunwashed-essential-tee-dune-grey-heather"
+    },
+    "faherty_7778856665157": {
+      "title": "Horizon Series CPO - Charcoal",
+      "first_seen": "2026-10-07T19:16:57.882256+00:00",
+      "price": 298.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MOH2421-CCL_Horizon_Series_CPO_WS_FRONT_CROP_1_Web.jpg?v=1789081674",
+      "url": "https://www.fahertybrand.com/products/horizon-series-cpo-charcoal"
+    },
+    "faherty_8195315793989": {
+      "title": "Indiana University High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.882285+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26244-SVA.jpg?v=1790172986",
+      "url": "https://www.fahertybrand.com/products/indiana-university-high-standard-fleece-crew-silver-ash-heather-2"
+    },
+    "faherty_8195316056133": {
+      "title": "Indiana University Sunwashed Organic Hoodie - Oat Plains Heather",
+      "first_seen": "2026-10-07T19:16:57.882304+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26245-OPH.jpg?v=1790172896",
+      "url": "https://www.fahertybrand.com/products/indiana-university-sunwashed-slub-hoodie-oat-plains-heather"
+    },
+    "faherty_8195315925061": {
+      "title": "Indiana University Sunwashed Regenerative Pocket Tee - Granite Heather",
+      "first_seen": "2026-10-07T19:16:57.882314+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26243-GHE.jpg?v=1790172726",
+      "url": "https://www.fahertybrand.com/products/indiana-university-sunwashed-pocket-tee-granite-heather"
+    },
+    "faherty_8195316023365": {
+      "title": "Indiana University Sunwashed Regenerative Tee - Cherry Wood",
+      "first_seen": "2026-10-07T19:16:57.882320+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26242-CYW.jpg?v=1791373510",
+      "url": "https://www.fahertybrand.com/products/indiana-university-sunwashed-tee-cherry-wood-1"
+    },
+    "faherty_8195316154437": {
+      "title": "Indiana University Sunwashed Regenerative Tee - Washed Black",
+      "first_seen": "2026-10-07T19:16:57.882328+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26214-WBK.jpg?v=1790172288",
+      "url": "https://www.fahertybrand.com/products/indiana-university-sunwashed-essential-tee-washed-black"
+    },
+    "faherty_6900370079813": {
+      "title": "Laguna Linen Shirt - White",
+      "first_seen": "2026-10-07T19:16:57.883082+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP24-faherty-MWS2410-WHT-linen-shirt-white_OM_EDITORIAL_1.jpg?v=1753274582",
+      "url": "https://www.fahertybrand.com/products/linen-laguna-shirt-white-4"
+    },
+    "faherty_8045987233861": {
+      "title": "Lakeside CPO - Dusk",
+      "first_seen": "2026-10-07T19:16:57.883185+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FA25-FAHERTY-Mens-MOF2503-USK-LakesideCpo-Dusk_FRONT_1_Web.jpg?v=1789481184",
+      "url": "https://www.fahertybrand.com/products/lakeside-cpo-dusk"
+    },
+    "faherty_8047164096581": {
+      "title": "Long-Sleeve Sunseeker Dress - Avignon Floral Print",
+      "first_seen": "2026-10-07T19:16:57.884656+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Womens-WDS2615-GNF-LsSunseekerDress-AvignonFloralPrint_OM_FULL_BODY_1_Web.jpg?v=1791307428",
+      "url": "https://www.fahertybrand.com/products/ls-sunseeker-dress-avignon-floral-print"
+    },
+    "faherty_8199154827333": {
+      "title": "Michigan State Legend Sweater Shirt - Heathered Black Twill",
+      "first_seen": "2026-10-07T19:16:57.885053+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26264-HBT.jpg?v=1790948553",
+      "url": "https://www.fahertybrand.com/products/michigan-state-legend-sweater-shirt-heathered-black-twill"
+    },
+    "faherty_8233641279557": {
+      "title": "Michigan State Sunwashed Organic Crewneck - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.885068+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26274-LGH.jpg?v=1790621013",
+      "url": "https://www.fahertybrand.com/products/michigan-state-sunwashed-slub-crew-light-grey-heather"
+    },
+    "faherty_8267365843013": {
+      "title": "Michigan State Sunwashed Organic Hoodie - Graphite",
+      "first_seen": "2026-10-07T19:16:57.885075+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26333-GRP_FRONT.jpg?v=1790620836",
+      "url": "https://www.fahertybrand.com/products/michigan-state-sunwashed-slub-hoodie-graphite-1"
+    },
+    "faherty_8233636593733": {
+      "title": "Michigan State Sunwashed Organic Raglan Long-Sleeve - Black Beauty",
+      "first_seen": "2026-10-07T19:16:57.885091+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26275-BTY_OM.jpg?v=1791316494",
+      "url": "https://www.fahertybrand.com/products/michigan-state-sunwashed-slub-raglan-ls-black-beauty"
+    },
+    "faherty_8199157088325": {
+      "title": "Michigan State Sunwashed Tee - Green Meadow",
+      "first_seen": "2026-10-07T19:16:57.885113+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26261-GMD.jpg?v=1790622622",
+      "url": "https://www.fahertybrand.com/products/michigan-state-sunwashed-tee-green-meadow"
+    },
+    "faherty_7505416388677": {
+      "title": "Movement Quarter Zip - Grey Cove Stripe",
+      "first_seen": "2026-10-07T19:16:57.885961+00:00",
+      "price": 74.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU25-FAHERTY-WOMENS-MQS2504-GCV-Reshoot-MovementQuarterZip-GreyCoveStripe_FRONT_OM_WS_1.jpg?v=1753301414",
+      "url": "https://www.fahertybrand.com/products/movement-quarter-zip-grey-cove-stripe-2"
+    },
+    "faherty_8164067606597": {
+      "title": "Notre Dame Faherty x Ebbets Ballcap - Natural Navy",
+      "first_seen": "2026-10-07T19:16:57.886124+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/EBHD26CT01010-NTNV_Notre_Dame_Faherty_X_Ebbets_Ballcap_LD_FRONT_1_Web.jpg?v=1791310607",
+      "url": "https://www.fahertybrand.com/products/notre-dame-faherty-x-ebbets-ballcap-natural-navy"
+    },
+    "faherty_8164067967045": {
+      "title": "Notre Dame Faherty x Ebbets Ballcap - Navy",
+      "first_seen": "2026-10-07T19:16:57.886130+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/EBHD26CT01011-NVNV_Notre_Dame_Faherty_X_Ebbets_Ballcap_LD_FRONT_1_Web.jpg?v=1791308354",
+      "url": "https://www.fahertybrand.com/products/notre-dame-faherty-x-ebbets-ballcap-navy"
+    },
+    "faherty_8233635086405": {
+      "title": "Notre Dame Sunwashed Organic Hoodie - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.886160+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26290-BLN.jpg?v=1790187934",
+      "url": "https://www.fahertybrand.com/products/notre-dame-sunwashed-slub-hoodie-blue-nights-1"
+    },
+    "faherty_8233640525893": {
+      "title": "Notre Dame Sunwashed Organic Raglan Long-Sleeve - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.886168+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26248-BLN_OM.jpg?v=1791316836",
+      "url": "https://www.fahertybrand.com/products/notre-dame-sunwashed-slub-raglan-ls-blue-nights"
+    },
+    "faherty_8233636528197": {
+      "title": "Notre Dame Sunwashed Regenerative Tee - Dune Navy",
+      "first_seen": "2026-10-07T19:16:57.886183+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26247-DUY.jpg?v=1790187846",
+      "url": "https://www.fahertybrand.com/products/notre-dame-sunwashed-essential-tee-dune-navy"
+    },
+    "faherty_8233632956485": {
+      "title": "Ohio State High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.886413+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MQF2412-SVA_017f945a-5e7e-47d5-967e-c07fba13f0a1.jpg?v=1790184324",
+      "url": "https://www.fahertybrand.com/products/ohio-state-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8233633841221": {
+      "title": "Ohio State Sunwashed Organic Hoodie - Graphite",
+      "first_seen": "2026-10-07T19:16:57.886421+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26278-GRP_b67727b4-3e33-49a3-93a6-d550c3471df1.jpg?v=1790185225",
+      "url": "https://www.fahertybrand.com/products/ohio-state-sunwashed-slub-hoodie-graphite"
+    },
+    "faherty_8233633185861": {
+      "title": "Ohio State Sunwashed Regenerative Tee - Apex Red",
+      "first_seen": "2026-10-07T19:16:57.886428+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26276-AXR.jpg?v=1790184147",
+      "url": "https://www.fahertybrand.com/products/ohio-state-sunwashed-tee-apex-red"
+    },
+    "faherty_8233639804997": {
+      "title": "Ohio State Sunwashed Regenerative Tee - Washed Black",
+      "first_seen": "2026-10-07T19:16:57.886436+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WKS2503-WBK.jpg?v=1790183530",
+      "url": "https://www.fahertybrand.com/products/ohio-state-sunwashed-essential-tee-washed-black"
+    },
+    "faherty_8233633218629": {
+      "title": "Penn State High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.886811+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26280-SVA.jpg?v=1790179224",
+      "url": "https://www.fahertybrand.com/products/penn-state-high-standard-fleece-crew-silver-ash-heather-2"
+    },
+    "faherty_8233634267205": {
+      "title": "Penn State Legend Sweater Shirt - Brighton Navy Twill",
+      "first_seen": "2026-10-07T19:16:57.886826+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26282-AVT.jpg?v=1790178415",
+      "url": "https://www.fahertybrand.com/products/penn-state-legend-sweater-shirt-brighton-navy-twill-2"
+    },
+    "faherty_8233640230981": {
+      "title": "Penn State Sunwashed Organic Crewneck - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.886840+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26242-LGH.jpg?v=1790176872",
+      "url": "https://www.fahertybrand.com/products/penn-state-sunwashed-slub-crew-light-grey-heather"
+    },
+    "faherty_8233634431045": {
+      "title": "Penn State Sunwashed Organic Hoodie - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.886847+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26281-BLN_38605230-d70b-44ab-b7d1-324ec633b98b.jpg?v=1790948775",
+      "url": "https://www.fahertybrand.com/products/penn-state-sunwashed-slub-hoodie-blue-nights-1"
+    },
+    "faherty_8233640362053": {
+      "title": "Penn State Sunwashed Organic Raglan Long-Sleeve - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.886861+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26240-BLN_OM.jpg?v=1791316182",
+      "url": "https://www.fahertybrand.com/products/penn-state-sunwashed-slub-raglan-ls-blue-nights"
+    },
+    "faherty_8233635414085": {
+      "title": "Penn State Sunwashed Regenerative Tee - Island Dune Heather",
+      "first_seen": "2026-10-07T19:16:57.886889+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26241-IDU.jpg?v=1790177141",
+      "url": "https://www.fahertybrand.com/products/penn-state-sunwashed-essential-tee-island-dune-heather"
+    },
+    "faherty_8021113995333": {
+      "title": "Seacoast Crochet Pant - Midnight Labyrinth",
+      "first_seen": "2026-10-07T19:16:57.887547+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBU2628-XXX_334_Web.jpg?v=1776888934",
+      "url": "https://www.fahertybrand.com/products/seacoast-crochet-pant-midnight-labyrinth"
+    },
+    "faherty_8046199996485": {
+      "title": "Short-Sleeve Breeze Shirt - Coral Pond Leaves",
+      "first_seen": "2026-10-07T19:16:57.888096+00:00",
+      "price": 69.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2516-DAV-SsBreezeShirt-CoralPondLeaves_WS_FRONT_CROP_1_High_Web.jpg?v=1791303145",
+      "url": "https://www.fahertybrand.com/products/ss-breeze-shirt-coral-pond-leaves"
+    },
+    "faherty_7784167407685": {
+      "title": "Soleil Quarter Zip - Faded Tide Soleil",
+      "first_seen": "2026-10-07T19:16:57.889723+00:00",
+      "price": 69.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-Faherty-Womens-WKH2524-DDD-SolielQuarterZip-FadedTideSoleil_OM_EDITORIAL_1_Web.jpg?v=1769278502",
+      "url": "https://www.fahertybrand.com/products/soleil-quarter-zip-faded-tide-soleil"
+    },
+    "faherty_8045968097349": {
+      "title": "Stretch Terry 5-Pocket Pant - Stone",
+      "first_seen": "2026-10-07T19:16:57.890562+00:00",
+      "price": 69.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBF2437-STN-Stretch_Terry_5pocket-Stone_OM_FRONT_CROP_1_Web.jpg?v=1785342504",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-5pocket-stone-3"
+    },
+    "faherty_7401968631877": {
+      "title": "Sunwashed Macrame Tote - Aqua",
+      "first_seen": "2026-10-07T19:16:57.891895+00:00",
+      "price": 39.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP25-FAHERTY-WOMENS-YD0052-AQUA-SunwashedMacrameTote-Aqua_FRONT_1.jpg?v=1752809559",
+      "url": "https://www.fahertybrand.com/products/sunwashed-macrame-tote-aqua-1"
+    },
+    "faherty_7888929390661": {
+      "title": "Sunwashed T-Shirt Polo - Coastal Glacier Stripe",
+      "first_seen": "2026-10-07T19:16:57.892983+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MKS2530-COG-SunwashedTshirtPolo-CoastalGlacierStripe_WS_FRONT_CROP_1_Web.jpg?v=1789995217",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tshirt-polo-coastal-glacier-stripe"
+    },
+    "faherty_8199157383237": {
+      "title": "Texas A&M High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.893415+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26269-SVA.jpg?v=1790186482",
+      "url": "https://www.fahertybrand.com/products/texas-a-m-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8199157284933": {
+      "title": "Texas A&M Sunwashed Organic Hoodie - Graphite",
+      "first_seen": "2026-10-07T19:16:57.893449+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26270-GRP.jpg?v=1790186547",
+      "url": "https://www.fahertybrand.com/products/texas-a-m-sunwashed-slub-hoodie-graphite"
+    },
+    "faherty_8199157612613": {
+      "title": "Texas A&M Sunwashed Regenerative Tee - Island Dune Heather",
+      "first_seen": "2026-10-07T19:16:57.893487+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26233-IDU.jpg?v=1790185793",
+      "url": "https://www.fahertybrand.com/products/texas-a-m-sunwashed-essential-tee-island-dune-heather-1"
+    },
+    "faherty_8233637740613": {
+      "title": "Texas Christian University High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.893518+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26344-SVA.jpg?v=1790692882",
+      "url": "https://www.fahertybrand.com/products/texas-christian-university-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8233639673925": {
+      "title": "Texas Christian University Sunwashed Organic Hoodie - Oat Plains Heather",
+      "first_seen": "2026-10-07T19:16:57.893526+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26345-OPH.jpg?v=1790693067",
+      "url": "https://www.fahertybrand.com/products/texas-christian-university-sunwashed-slub-hoodie-oat-plains-heather"
+    },
+    "faherty_8233641508933": {
+      "title": "Texas Christian University Sunwashed Organic Raglan Long-Sleeve - Black Beauty",
+      "first_seen": "2026-10-07T19:16:57.893534+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26286-BTY_OM.jpg?v=1791316772",
+      "url": "https://www.fahertybrand.com/products/texas-christian-university-sunwashed-slub-raglan-ls-black-beauty"
+    },
+    "faherty_8233638428741": {
+      "title": "Texas Christian University Sunwashed Regenerative Tee - Mountain Grape",
+      "first_seen": "2026-10-07T19:16:57.893541+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26343-UGR.jpg?v=1790692771",
+      "url": "https://www.fahertybrand.com/products/texas-christian-university-sunwashed-tee-mountain-grape"
+    },
+    "faherty_8233640099909": {
+      "title": "Texas Christian University Sunwashed Regenerative Tee - Washed Black",
+      "first_seen": "2026-10-07T19:16:57.893549+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26287-WBK.jpg?v=1790693518",
+      "url": "https://www.fahertybrand.com/products/texas-christian-university-sunwashed-essential-tee-washed-black"
+    },
+    "faherty_7888971006021": {
+      "title": "The Movement Shirt - Blue Orchid Plaid",
+      "first_seen": "2026-10-07T19:16:57.893733+00:00",
+      "price": 69.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWC0082-UCH-TheMovementShirt-BlueOrchidPlaid_WS_FRONT_CROP_1.jpg?v=1790792914",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-blue-orchid-plaid"
+    },
+    "faherty_8233638002757": {
+      "title": "University of Arkansas High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.894565+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26334-SVA.jpg?v=1790628389",
+      "url": "https://www.fahertybrand.com/products/university-of-arkansas-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_7963379073093": {
+      "title": "University of Arkansas Sunwashed Organic Hoodie - Oat Plains Heather",
+      "first_seen": "2026-10-07T19:16:57.894571+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPS2664-OPH.jpg?v=1790628083",
+      "url": "https://www.fahertybrand.com/products/university-of-arkansas-sunwashed-slub-hoodie-oat-plains-heather"
+    },
+    "faherty_8233637937221": {
+      "title": "University of Arkansas Sunwashed Organic Raglan Long-Sleeve - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.894583+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26276-LGH_OM.jpg?v=1791316642",
+      "url": "https://www.fahertybrand.com/products/university-of-arkansas-sunwashed-slub-raglan-ls-light-grey-heather"
+    },
+    "faherty_7963378974789": {
+      "title": "University of Arkansas Sunwashed Regenerative Tee - Cherry Wood",
+      "first_seen": "2026-10-07T19:16:57.894590+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPS2662-CYW.jpg?v=1791373392",
+      "url": "https://www.fahertybrand.com/products/university-of-arkansas-sunwashed-tee-cherry-wood"
+    },
+    "faherty_8199157317701": {
+      "title": "University of Colorado High Standard Fleece Crew - Antique Ivory Heather",
+      "first_seen": "2026-10-07T19:16:57.894597+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26272-AQV.jpg?v=1790180588",
+      "url": "https://www.fahertybrand.com/products/university-of-colorado-high-standard-fleece-crew-antique-ivory-heather"
+    },
+    "faherty_8199154991173": {
+      "title": "University of Colorado High Standard Fleece Hoodie - Mountain Black",
+      "first_seen": "2026-10-07T19:16:57.894605+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26273-MBA.jpg?v=1790182361",
+      "url": "https://www.fahertybrand.com/products/university-of-colorado-high-standard-fleece-hoodie-mountain-black"
+    },
+    "faherty_8199157055557": {
+      "title": "University of Colorado Sunwashed Regenerative Pocket Tee - Granite Heather",
+      "first_seen": "2026-10-07T19:16:57.894612+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26271-GHE_FRONT.jpg?v=1790180763",
+      "url": "https://www.fahertybrand.com/products/university-of-colorado-sunwashed-pocket-tee-granite-heather"
+    },
+    "faherty_8199158005829": {
+      "title": "University of Colorado Sunwashed Regenerative Tee - Washed Black",
+      "first_seen": "2026-10-07T19:16:57.894619+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26235-WBK.jpg?v=1790179386",
+      "url": "https://www.fahertybrand.com/products/university-of-colorado-sunwashed-essential-tee-washed-black"
+    },
+    "faherty_8233641181253": {
+      "title": "University of Connecticut Legend Sweater Rugby Popover - Brighton Navy Twill",
+      "first_seen": "2026-10-07T19:16:57.894634+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26264-AVT.jpg?v=1790032103",
+      "url": "https://www.fahertybrand.com/products/university-of-connecticut-legend-sweater-rugby-popover-brighton-navy-twill-1"
+    },
+    "faherty_8233634005061": {
+      "title": "University of Connecticut Legend Sweater Shirt - Brighton Navy Twill",
+      "first_seen": "2026-10-07T19:16:57.894643+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26318-AVT.jpg?v=1790197407",
+      "url": "https://www.fahertybrand.com/products/university-of-connecticut-legend-sweater-shirt-brighton-navy-twill"
+    },
+    "faherty_8233635577925": {
+      "title": "University of Connecticut Sunwashed Organic Hoodie - Light Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.894657+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26317-LGH.jpg?v=1790031882",
+      "url": "https://www.fahertybrand.com/products/university-of-connecticut-sunwashed-slub-hoodie-light-grey-heather"
+    },
+    "faherty_8233640722501": {
+      "title": "University of Connecticut Sunwashed Organic Raglan Long-Sleeve - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.894665+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26263-BLN_OM.jpg?v=1791316595",
+      "url": "https://www.fahertybrand.com/products/university-of-connecticut-sunwashed-slub-raglan-ls-blue-nights"
+    },
+    "faherty_8233635774533": {
+      "title": "University of Connecticut Sunwashed Regenerative Tee - Dune Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.894680+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26262-EYH.jpg?v=1790104192",
+      "url": "https://www.fahertybrand.com/products/university-of-connecticut-sunwashed-essential-tee-dune-grey-heather"
+    },
+    "faherty_8199154958405": {
+      "title": "University of Florida Sunwashed Organic Hoodie - White",
+      "first_seen": "2026-10-07T19:16:57.894723+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26267-WHT.jpg?v=1790349141",
+      "url": "https://www.fahertybrand.com/products/university-of-florida-sunwashed-slub-hoodie-white"
+    },
+    "faherty_8199158071365": {
+      "title": "University of Florida Sunwashed Regenerative Tee - Island Dune Heather",
+      "first_seen": "2026-10-07T19:16:57.894738+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26231-IDU.jpg?v=1790283974",
+      "url": "https://www.fahertybrand.com/products/university-of-florida-sunwashed-essential-tee-island-dune-heather"
+    },
+    "faherty_8233637576773": {
+      "title": "University of Michigan Coastal Cloud Crew - Navy",
+      "first_seen": "2026-10-07T19:16:57.894773+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26251-NVY.jpg?v=1790279149",
+      "url": "https://www.fahertybrand.com/products/university-of-michigan-coastal-cloud-crew-navy"
+    },
+    "faherty_8164067737669": {
+      "title": "University of Michigan Faherty X Ebbets Ballcap - Navy",
+      "first_seen": "2026-10-07T19:16:57.894779+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/EBHD26CT01008-NVNV_University_of_Michigan_Faherty_X_Ebbets_Ballcap_LD_FRONT_1_Web.jpg?v=1791311958",
+      "url": "https://www.fahertybrand.com/products/university-of-michigan-faherty-x-ebbets-ballcap-navy"
+    },
+    "faherty_8233633546309": {
+      "title": "University of Michigan High Standard Fleece Crew - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.894786+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26296-BLN.jpg?v=1790280726",
+      "url": "https://www.fahertybrand.com/products/university-of-michigan-high-standard-fleece-crew-blue-nights"
+    },
+    "faherty_8285451026501": {
+      "title": "University of Michigan Legend Sweater Shirt - Brighton Navy Twill",
+      "first_seen": "2026-10-07T19:16:57.894807+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26358-AVT.jpg?v=1790276308",
+      "url": "https://www.fahertybrand.com/products/university-of-michigan-legend-sweater-shirt-brighton-navy-twill"
+    },
+    "faherty_8233634463813": {
+      "title": "University of Michigan Sunwashed Organic Hoodie - Oat Plains Heather",
+      "first_seen": "2026-10-07T19:16:57.894836+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26297-OPH.jpg?v=1790281269",
+      "url": "https://www.fahertybrand.com/products/university-of-michigan-sunwashed-slub-hoodie-oat-plains-heather-1"
+    },
+    "faherty_8233637412933": {
+      "title": "University of Michigan Sunwashed Regenerative Tee - Dune Grey Heather",
+      "first_seen": "2026-10-07T19:16:57.894850+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26250-EYH.jpg?v=1790280387",
+      "url": "https://www.fahertybrand.com/products/university-of-michigan-sunwashed-essential-tee-dune-grey-heather"
+    },
+    "faherty_8233637609541": {
+      "title": "University of North Carolina Sunwashed Organic Crewneck - White",
+      "first_seen": "2026-10-07T19:16:57.894885+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26252-WHT.jpg?v=1790281561",
+      "url": "https://www.fahertybrand.com/products/university-of-north-carolina-sunwashed-slub-crew-white-2"
+    },
+    "faherty_8233633087557": {
+      "title": "University of Tennessee High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.894956+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26275-SVA.jpg?v=1790173405",
+      "url": "https://www.fahertybrand.com/products/university-of-tennessee-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8233633284165": {
+      "title": "University of Tennessee Sunwashed Organic Hoodie - Oat Plains Heather",
+      "first_seen": "2026-10-07T19:16:57.894962+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26274-OPH.jpg?v=1790173408",
+      "url": "https://www.fahertybrand.com/products/university-of-tennessee-sunwashed-slub-hoodie-oat-plains-heather"
+    },
+    "faherty_8233636036677": {
+      "title": "Villanova University Coastal Cloud Crew - Navy",
+      "first_seen": "2026-10-07T19:16:57.895119+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26271-NVY.jpg?v=1790620080",
+      "url": "https://www.fahertybrand.com/products/villanova-university-coastal-cloud-crew-navy-1"
+    },
+    "faherty_8233634136133": {
+      "title": "Villanova University High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.895127+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26328-SVA.jpg?v=1790619230",
+      "url": "https://www.fahertybrand.com/products/villanova-university-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8233637150789": {
+      "title": "Villanova University Sunwashed Organic Hoodie - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.895134+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26329-BLN.jpg?v=1790609423",
+      "url": "https://www.fahertybrand.com/products/villanova-university-sunwashed-slub-hoodie-blue-nights"
+    },
+    "faherty_8233638133829": {
+      "title": "Villanova University Sunwashed Organic Raglan Long-Sleeve - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.895142+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26272-BLN_OM.jpg?v=1791317287",
+      "url": "https://www.fahertybrand.com/products/villanova-university-sunwashed-slub-raglan-ls-blue-nights"
+    },
+    "faherty_8233636397125": {
+      "title": "Villanova University Sunwashed Regenerative Pocket Tee - Granite Heather",
+      "first_seen": "2026-10-07T19:16:57.895148+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26327-GHE_FRONT.jpg?v=1790619025",
+      "url": "https://www.fahertybrand.com/products/villanova-university-sunwashed-pocket-tee-granite-heather"
+    },
+    "faherty_8240954474565": {
+      "title": "Villanova University Sunwashed Regenerative Tee - Blue Shore",
+      "first_seen": "2026-10-07T19:16:57.895156+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26356-BUE.jpg?v=1790608908",
+      "url": "https://www.fahertybrand.com/products/villanova-university-sunwashed-tee-blue-shore"
+    },
+    "faherty_6895444721733": {
+      "title": "Waves Pom Beanie - Navy",
+      "first_seen": "2026-10-07T19:16:57.895314+00:00",
+      "price": 24.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HOL23-faherty-unisex-YC0007-405-WAVES-POM-BEANIE-NAVY_001v1_1_lead_lifestyle1.jpg?v=1753274709",
+      "url": "https://www.fahertybrand.com/products/waves-pom-beanie-navy"
+    },
+    "faherty_7888906879045": {
+      "title": "Whitewater Sweatshort - Seabrook Stripe",
+      "first_seen": "2026-10-07T19:16:57.895479+00:00",
+      "price": 49.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2643-OOK-WhitewaterSweatshort-SeabrookStripe_WS_FULL_BODY_1_Web.jpg?v=1791225988",
+      "url": "https://www.fahertybrand.com/products/whitewater-sweatshort-seabrook-stripe"
+    },
+    "faherty_8233635315781": {
+      "title": "Yale High Standard Fleece Crew - Silver Ash Heather",
+      "first_seen": "2026-10-07T19:16:57.895572+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26302-SVA.jpg?v=1790351876",
+      "url": "https://www.fahertybrand.com/products/yale-high-standard-fleece-crew-silver-ash-heather"
+    },
+    "faherty_8233640755269": {
+      "title": "Yale Legend Sweater Rugby Popover - Brighton Navy Twill",
+      "first_seen": "2026-10-07T19:16:57.895594+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26255-AVT.jpg?v=1790356830",
+      "url": "https://www.fahertybrand.com/products/yale-legend-sweater-rugby-popover-brighton-navy-twill-1"
+    },
+    "faherty_8233634398277": {
+      "title": "Yale Sunwashed Organic Hoodie - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.895657+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26303-BLN.jpg?v=1790352193",
+      "url": "https://www.fahertybrand.com/products/yale-sunwashed-slub-hoodie-blue-nights-2"
+    },
+    "faherty_8233640558661": {
+      "title": "Yale Sunwashed Organic Raglan Long-Sleeve - Blue Nights",
+      "first_seen": "2026-10-07T19:16:57.895664+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WPF26254-BLN_OM.jpg?v=1791317085",
+      "url": "https://www.fahertybrand.com/products/yale-sunwashed-slub-raglan-ls-blue-nights"
+    },
+    "faherty_8233635250245": {
+      "title": "Yale Sunwashed Regenerative Pocket Tee - Granite Heather",
+      "first_seen": "2026-10-07T19:16:57.895678+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MPF26301-GHE_FRONT.jpg?v=1790351197",
+      "url": "https://www.fahertybrand.com/products/yale-sunwashed-pocket-tee-granite-heather"
     }
   },
-  "last_run": "2026-10-06T18:51:56.487968+00:00"
+  "last_run": "2026-10-07T19:17:04.162883+00:00"
 }
