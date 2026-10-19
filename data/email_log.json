@@ -1,15 +1,6 @@
 {
   "emails": [
     {
-      "sent_at": "2026-08-22T13:35:50.126407+00:00",
-      "new_count": 3,
-      "by_retailer": {
-        "Faherty Brand": 1,
-        "Evereve": 2
-      },
-      "total_scanned": 7053
-    },
-    {
       "sent_at": "2026-08-23T13:36:38.272564+00:00",
       "new_count": 1,
       "by_retailer": {
@@ -438,6 +429,14 @@
         "Evereve": 1
       },
       "total_scanned": 7845
+    },
+    {
+      "sent_at": "2026-10-19T19:10:58.124046+00:00",
+      "new_count": 16,
+      "by_retailer": {
+        "Evereve": 16
+      },
+      "total_scanned": 7825
     }
   ]
 }
