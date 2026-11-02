@@ -94583,7 +94583,315 @@
       "price": 168.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MAF2636-MUL_Outpost_Leather_Belt_LD_BACK_1_Web.jpg?v=1793414795",
       "url": "https://www.fahertybrand.com/products/outpost-leather-belt-multi"
+    },
+    "evereve_10629698715813": {
+      "title": "Abbey Pearl Necklace",
+      "first_seen": "2026-11-02T22:14:03.843333+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/101926_NOVJASI_A832245-AG_0129_1.jpg?v=1793629387",
+      "url": "https://evereve.com/products/abbey-pearl-necklace-pearl"
+    },
+    "evereve_10633628254373": {
+      "title": "Aiden Flannel Shirt",
+      "first_seen": "2026-11-02T22:14:03.843629+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102726_Ecomm_NOV_EVHO26WT23-SL_1215_1.jpg?v=1793655187",
+      "url": "https://evereve.com/products/aiden-flannel-shirt-multiplaid"
+    },
+    "evereve_10431437209765": {
+      "title": "Amsterdam Shearling Clog",
+      "first_seen": "2026-11-02T22:14:03.844624+00:00",
+      "price": 100.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_NOVJASI_1032581_0160_1.jpg?v=1792073289",
+      "url": "https://evereve.com/products/amsterdam-shearling-clog-plaid"
+    },
+    "evereve_10613763375269": {
+      "title": "Amy Beaded Chain Necklace",
+      "first_seen": "2026-11-02T22:14:03.844631+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091526_NOVJASI_06-N0081-BW_0209_1.jpg?v=1793629391",
+      "url": "https://evereve.com/products/amy-beaded-chain-necklace-gold"
+    },
+    "evereve_10621867360421": {
+      "title": "Anessa 31 w Mitered Patch Pockets",
+      "first_seen": "2026-11-02T22:14:03.844807+00:00",
+      "price": 269.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102626_NovEcomm_2A71635-C446_0034_1.jpg?v=1793635087",
+      "url": "https://evereve.com/products/anessa-31-w-mitered-patch-pockets-amora"
+    },
+    "evereve_10622753046693": {
+      "title": "Bea Hammered Cuff Bracelet",
+      "first_seen": "2026-11-02T22:14:03.846668+00:00",
+      "price": 49.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_06-B0077-GD-BW_0021_1.jpg?v=1793630007",
+      "url": "https://evereve.com/products/bea-hammered-cuff-bracelet-gold"
+    },
+    "evereve_10622753079461": {
+      "title": "Bea Hammered Cuff Bracelet",
+      "first_seen": "2026-11-02T22:14:03.846674+00:00",
+      "price": 49.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_06-B0077-SIL-BW_0004_1.jpg?v=1793629991",
+      "url": "https://evereve.com/products/bea-hammered-cuff-bracelet-silver"
+    },
+    "evereve_10629698617509": {
+      "title": "Bentley Statement Necklace",
+      "first_seen": "2026-11-02T22:14:03.846986+00:00",
+      "price": 72.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_A832248-AG_0140_1.jpg?v=1793629399",
+      "url": "https://evereve.com/products/bentley-statement-necklace-silver-chocolate"
+    },
+    "evereve_10645878767781": {
+      "title": "Bev Semi Pendant Necklace",
+      "first_seen": "2026-11-02T22:14:03.847121+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_298150-TGE-OK_0177_1.jpg?v=1793629686",
+      "url": "https://evereve.com/products/bev-semi-pendant-necklace-tigerseye"
+    },
+    "evereve_10645879193765": {
+      "title": "Bev Semi Pendant Necklace",
+      "first_seen": "2026-11-02T22:14:03.847127+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_298150-NV-OK_0175_1.jpg?v=1793629695",
+      "url": "https://evereve.com/products/bev-semi-pendant-necklace-navy-gold"
+    },
+    "evereve_10585655247013": {
+      "title": "Carina Super Wide Flare",
+      "first_seen": "2026-11-02T22:14:03.849209+00:00",
+      "price": 208.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102726_Ecomm_P00016600-EZ_2474_1.jpg?v=1793654887",
+      "url": "https://evereve.com/products/carina-super-wide-flare-nightfall"
+    },
+    "evereve_10622769889445": {
+      "title": "Clara Bezel Cord Bracelet",
+      "first_seen": "2026-11-02T22:14:03.850133+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345805-OK_LTBLUE_0089_1.jpg?v=1793629696",
+      "url": "https://evereve.com/products/clara-bezel-cord-bracelet-ltblue"
+    },
+    "evereve_10622770315429": {
+      "title": "Clara Bezel Cord Bracelet",
+      "first_seen": "2026-11-02T22:14:03.850138+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345805-OK_GREEN_0076_1.jpg?v=1793629703",
+      "url": "https://evereve.com/products/clara-bezel-cord-bracelet-green"
+    },
+    "evereve_10622771364005": {
+      "title": "Clara Bezel Cord Bracelet",
+      "first_seen": "2026-11-02T22:14:03.850144+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345805-OK_PINK_0087_1.jpg?v=1793629687",
+      "url": "https://evereve.com/products/clara-bezel-cord-bracelet-pink"
+    },
+    "evereve_10622771593381": {
+      "title": "Clara Bezel Cord Bracelet",
+      "first_seen": "2026-11-02T22:14:03.850151+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345805-OK_CHOCOLATE_0084_1.jpg?v=1793629687",
+      "url": "https://evereve.com/products/clara-bezel-cord-bracelet-chocolate"
+    },
+    "evereve_10622770380965": {
+      "title": "Emma Puffy Heart Necklace",
+      "first_seen": "2026-11-02T22:14:03.853148+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091026_OCTJASI_298149-RD-OK_0242_1.jpg?v=1790171287",
+      "url": "https://evereve.com/products/emma-puffy-heart-necklace-gold-red"
+    },
+    "evereve_10622771298469": {
+      "title": "Emma Puffy Heart Necklace",
+      "first_seen": "2026-11-02T22:14:03.853154+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091026_OCTJASI_298149-BRN-OK_0223_1.jpg?v=1790171286",
+      "url": "https://evereve.com/products/emma-puffy-heart-necklace-gold-brown"
+    },
+    "evereve_10622770774181": {
+      "title": "Eva Pave Hoop Earrings",
+      "first_seen": "2026-11-02T22:14:03.853470+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092926_NOVJASI_182138-OK_0125_1.jpg?v=1792078687",
+      "url": "https://evereve.com/products/eva-pave-hoop-earrings-gold"
+    },
+    "evereve_10861380862117": {
+      "title": "EVEREVE Blue Gift Card",
+      "first_seen": "2026-11-02T22:14:03.853704+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/BlueGC.png?v=1793652721",
+      "url": "https://evereve.com/products/evereve-blue-gift-card"
+    },
+    "evereve_10619718238373": {
+      "title": "Gigi Organza Blouse",
+      "first_seen": "2026-11-02T22:14:03.855094+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102626_NovEcomm_EVHO26WT11-SL_0156_1.jpg?v=1793635387",
+      "url": "https://evereve.com/products/gigi-organza-blouse-burgundy"
+    },
+    "evereve_10861443023013": {
+      "title": "Holiday Stripe Gift Card",
+      "first_seen": "2026-11-02T22:14:03.856954+00:00",
+      "price": 25.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/HolidayGC.png?v=1793652817",
+      "url": "https://evereve.com/products/holiday-stripe-gift-card"
+    },
+    "evereve_10763934269605": {
+      "title": "Kids Windsor Tartan Nightgown",
+      "first_seen": "2026-11-02T22:14:03.860312+00:00",
+      "price": 60.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/101926_WNGNAT_1.jpg?v=1793629087",
+      "url": "https://evereve.com/products/kids-windsor-tartan-nightgown-navytartan"
+    },
+    "evereve_10587726905509": {
+      "title": "Kit V-Neck Sweater",
+      "first_seen": "2026-11-02T22:14:03.860560+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102726_Ecomm_P00063120NB_0175_1.jpg?v=1793654896",
+      "url": "https://evereve.com/products/kit-v-neck-sweater-sapphire"
+    },
+    "evereve_10627614113957": {
+      "title": "Kori Sequin Party Sweater",
+      "first_seen": "2026-11-02T22:14:03.860636+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102626_NovEcomm_EVHO26SW66-DH_0308_1.jpg?v=1793635387",
+      "url": "https://evereve.com/products/kori-sequin-party-sweater-lightheathergrey"
+    },
+    "evereve_10633739862181": {
+      "title": "Kristi Semi Stone Necklace",
+      "first_seen": "2026-11-02T22:14:03.860690+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/101926_NOVJASI_A832249-AG_0146_1.jpg?v=1793629386",
+      "url": "https://evereve.com/products/kristi-semi-stone-necklace-red-gold"
+    },
+    "evereve_10622770151589": {
+      "title": "Liv Pendant Cord Necklace",
+      "first_seen": "2026-11-02T22:14:03.862375+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091526_NOVJASI_298173-OK_0197_1.jpg?v=1793629408",
+      "url": "https://evereve.com/products/liv-pendant-cord-necklace-gold-black"
+    },
+    "evereve_10650771882149": {
+      "title": "Lucy Velour Jogger",
+      "first_seen": "2026-11-02T22:14:03.862848+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102626_NovEcomm_EVHO26WBO8-CC_green_2532_1.jpg?v=1793635700",
+      "url": "https://evereve.com/products/lucy-velour-jogger-green"
+    },
+    "evereve_10622769922213": {
+      "title": "Lula Pave Resin Cuff",
+      "first_seen": "2026-11-02T22:14:03.862876+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345894-OK_0036_1.jpg?v=1793629386",
+      "url": "https://evereve.com/products/lula-pave-resin-cuff-black"
+    },
+    "evereve_10622770708645": {
+      "title": "Lula Resin Cuff",
+      "first_seen": "2026-11-02T22:14:03.862896+00:00",
+      "price": 45.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345893-BLU-OK_0028_1.jpg?v=1793629695",
+      "url": "https://evereve.com/products/lula-resin-cuff-cobalt"
+    },
+    "evereve_10622771003557": {
+      "title": "Lula Resin Cuff",
+      "first_seen": "2026-11-02T22:14:03.862902+00:00",
+      "price": 45.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_345893-BRG-OK_0033_1.jpg?v=1793629687",
+      "url": "https://evereve.com/products/lula-resin-cuff-dkpurple"
+    },
+    "evereve_10622770348197": {
+      "title": "Mila Beaded Necklace",
+      "first_seen": "2026-11-02T22:14:03.865271+00:00",
+      "price": 70.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_298148-OK_0151_1.jpg?v=1793629998",
+      "url": "https://evereve.com/products/mila-beaded-necklace-neutralmulti"
+    },
+    "evereve_10622771495077": {
+      "title": "Mila Beaded Necklace",
+      "first_seen": "2026-11-02T22:14:03.865277+00:00",
+      "price": 70.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_298147-OK_0166_1.jpg?v=1793629992",
+      "url": "https://evereve.com/products/mila-beaded-necklace-brightmulti"
+    },
+    "evereve_10843366719653": {
+      "title": "Nia Textured Bomber",
+      "first_seen": "2026-11-02T22:14:03.866673+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102726_Ecomm_WJA129757-E-SL_0496_1.jpg?v=1793654888",
+      "url": "https://evereve.com/products/nia-textured-bomber-black"
+    },
+    "evereve_10622770643109": {
+      "title": "Sara Pave Y Necklace",
+      "first_seen": "2026-11-02T22:14:03.871640+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091426_NOVJASI_298198-OK_0186_1.jpg?v=1793629687",
+      "url": "https://evereve.com/products/sara-pave-y-necklace-gold"
+    },
+    "evereve_10613763113125": {
+      "title": "Tina Beaded Chain Necklace",
+      "first_seen": "2026-11-02T22:14:03.876720+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/091526_NOVJASI_06-N0080-BW_0223_1.jpg?v=1793629392",
+      "url": "https://evereve.com/products/tina-beaded-chain-necklace-gold"
+    },
+    "evereve_10594947104933": {
+      "title": "Vista Pull On Satin Jogger",
+      "first_seen": "2026-11-02T22:14:03.877882+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102726_Ecomm_NOV_CP1378CB3_1068_1.jpg?v=1793655187",
+      "url": "https://evereve.com/products/vista-pull-on-satin-jogger-kalamata"
+    },
+    "faherty_8196781801541": {
+      "title": "Adirondack Blanket - Desert Bloom Stripe",
+      "first_seen": "2026-11-02T22:14:44.421759+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HAH2607-DBZ_Adirondack_Blanket_LD_BACK_1_Web.jpg?v=1793398180",
+      "url": "https://www.fahertybrand.com/products/adirondack-blanket-desert-bloom-stripe"
+    },
+    "faherty_8196781768773": {
+      "title": "Adirondack High Pile Fleece Blanket - Alpine Clay Stripe",
+      "first_seen": "2026-11-02T22:14:44.421768+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HAH2606-YIP_Adirondack_High_Pile_Fleece_Blanket_LD_BACK_1_Web.jpg?v=1793397968",
+      "url": "https://www.fahertybrand.com/products/adirondack-high-pile-fleece-blanket-alpine-clay-stripe"
+    },
+    "faherty_8196783079493": {
+      "title": "Birkenstock Boston Suede Soft Footbed - Mocha",
+      "first_seen": "2026-11-02T22:14:44.422954+00:00",
+      "price": 170.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/UFH2698-MCH_Birkenstock_Boston_Suede_Soft_Footbed_LD_FRONT_1_Web.jpg?v=1793399402",
+      "url": "https://www.fahertybrand.com/products/birkenstock-boston-suede-soft-footbed-mocha"
+    },
+    "faherty_8047181725765": {
+      "title": "Evercrest Cord Trucker Jacket - Evercrest Plaid",
+      "first_seen": "2026-11-02T22:14:44.425696+00:00",
+      "price": 348.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WOH2605-ERT_Evercrest_Cord_Trucker_Jacket_OM_FULL_BODY_1_Web.jpg?v=1791832267",
+      "url": "https://www.fahertybrand.com/products/evercrest-cord-trucker-jacket-evercrest-plaid"
+    },
+    "faherty_8196786651205": {
+      "title": "Legend Sweater Shirt - Red Cabin Plaid",
+      "first_seen": "2026-11-02T22:14:44.428925+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_WKH2617-ERC_Legend_Sweater_Shirt_no_buttons_OM_FRONT_CROP_1_Web.jpg?v=1793395922",
+      "url": "https://www.fahertybrand.com/products/legend-sweater-shirt-no-buttons-red-cabin-plaid"
+    },
+    "faherty_8196781604933": {
+      "title": "Range High Pile Fleece Blanket - Winterberry Plaid",
+      "first_seen": "2026-11-02T22:14:44.432131+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HAH2602-WYX_Range_High_Pile_Fleece_Blanket_LD_BACK_1_Web.jpg?v=1793397649",
+      "url": "https://www.fahertybrand.com/products/range-high-pile-fleece-blanket-winterberry-plaid"
+    },
+    "faherty_8196781703237": {
+      "title": "Steven Paul Judd High Pile Fleece Story Blanket - Lawa",
+      "first_seen": "2026-11-02T22:14:44.434899+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HAH2609-LAB_Steven_Paul_Judd_High_Pile_Fleece_Story_Blanket_LD_BACK_1_Web.jpg?v=1793398351",
+      "url": "https://www.fahertybrand.com/products/steven-paul-judd-high-pile-fleece-story-blanket-lawa"
+    },
+    "faherty_8047154462789": {
+      "title": "Twill Tide Slim Straight Pant - Blackwatch Plaid",
+      "first_seen": "2026-11-02T22:14:44.438978+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBF2530-WPL_Twill_Tide_Slim_Straight_Pant_OM_FULL_BODY_1_Web.jpg?v=1793393958",
+      "url": "https://www.fahertybrand.com/products/twill-tide-slim-straight-pant-blackwatch-plaid"
     }
   },
-  "last_run": "2026-11-01T18:20:23.073986+00:00"
+  "last_run": "2026-11-02T22:14:47.389813+00:00"
 }
