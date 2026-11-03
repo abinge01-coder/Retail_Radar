@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T18:09:29.597192+00:00",
-  "meta_date": "2026-11-02",
+  "generated_at": "2026-11-03T16:03:51.543655+00:00",
+  "meta_date": "2026-11-03",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
@@ -8,12 +8,12 @@
   "hsreplay_heroes": null,
   "patch_notes": [
     {
-      "title": "Deck Recipe Updates",
+      "title": "Hearthstone Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
     {
-      "title": "Your Hearthstone Journey Begins Now",
+      "title": "Assemble Pool Update",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
@@ -23,7 +23,27 @@
       "date": ""
     },
     {
-      "title": "Reign of the Black Empire Updated Rewards Guide",
+      "title": "Battlegrounds Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Minion and Spell Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "General Battlegrounds Changes",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Hearthstone",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Deck Recipe Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
