@@ -94975,7 +94975,350 @@
       "price": 398.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_MOH2603-DHH_Teton_Valley_Cpo_OM_FRONT_CROP_1_Web.jpg?v=1792356967",
       "url": "https://www.fahertybrand.com/products/teton-valley-cpo-dark-charcoal-herringbone"
+    },
+    "evereve_10626697920677": {
+      "title": "Addie Top",
+      "first_seen": "2026-11-04T20:21:02.128165+00:00",
+      "price": 248.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_ADDIE08_0934_1.jpg?v=1793808192",
+      "url": "https://evereve.com/products/addie-top-darkchocolate"
+    },
+    "evereve_10431437111461": {
+      "title": "Amsterdam Shearling Clog",
+      "first_seen": "2026-11-04T20:21:02.129355+00:00",
+      "price": 100.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/100526_NOVJASI_1032474_0173_1.jpg?v=1792073289",
+      "url": "https://evereve.com/products/amsterdam-shearling-clog-herringbone"
+    },
+    "evereve_10594413969573": {
+      "title": "Asymmetric Zip Sweater",
+      "first_seen": "2026-11-04T20:21:02.130728+00:00",
+      "price": 99.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_CW1935RC9_2217_1.jpg?v=1793808213",
+      "url": "https://evereve.com/products/asymmetric-zip-sweater-black"
+    },
+    "evereve_10603613225125": {
+      "title": "Autumn Plaid Button Up",
+      "first_seen": "2026-11-04T20:21:02.130889+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_ZT264735E_0311_1.jpg?v=1793809689",
+      "url": "https://evereve.com/products/autumn-plaid-button-up-eclipse"
+    },
+    "evereve_10595818635429": {
+      "title": "Avery High Rise Easy Straight",
+      "first_seen": "2026-11-04T20:21:02.130957+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_KP2476MA5_0299_1.jpg?v=1793809387",
+      "url": "https://evereve.com/products/avery-high-rise-easy-straight-estimate"
+    },
+    "evereve_10431437045925": {
+      "title": "Boston Shearling Clog",
+      "first_seen": "2026-11-04T20:21:02.132666+00:00",
+      "price": 165.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/101926_NOVJASI_1033169_0047_1.jpg?v=1792603998",
+      "url": "https://evereve.com/products/boston-shearling-clog-darktea"
+    },
+    "evereve_10673621434533": {
+      "title": "Cashmere Boyfriend Sweater",
+      "first_seen": "2026-11-04T20:21:02.134232+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_1303680CNU_0520_1.jpg?v=1793808215",
+      "url": "https://evereve.com/products/cashmere-boyfriend-sweater-ceruleannavystripe"
+    },
+    "evereve_10626697986213": {
+      "title": "Erika Blouse",
+      "first_seen": "2026-11-04T20:21:02.138279+00:00",
+      "price": 215.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_ERIKA08_0756_1.jpg?v=1793808193",
+      "url": "https://evereve.com/products/erika-blouse-borderprint"
+    },
+    "evereve_10632782348453": {
+      "title": "Gracie Textured Dolman Top",
+      "first_seen": "2026-11-04T20:21:02.140822+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_EVHO26KT67-MOD_1181_1.jpg?v=1793808487",
+      "url": "https://evereve.com/products/gracie-textured-dolman-top-bluemulti"
+    },
+    "evereve_10603613159589": {
+      "title": "Hidden Hills Sweatshirt",
+      "first_seen": "2026-11-04T20:21:02.141932+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_ZT264114E_0510_1.jpg?v=1793809387",
+      "url": "https://evereve.com/products/hidden-hills-sweatshirt-black"
+    },
+    "evereve_10608915841189": {
+      "title": "Jaylen Satin Blouse",
+      "first_seen": "2026-11-04T20:21:02.143301+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_H266832EE_1842_1.jpg?v=1793809387",
+      "url": "https://evereve.com/products/jaylen-satin-blouse-offwhite"
+    },
+    "evereve_10602444652709": {
+      "title": "Julianne Plaid Blazer",
+      "first_seen": "2026-11-04T20:21:02.144552+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_EVFA26WJ13-BN_1720_1.jpg?v=1793808488",
+      "url": "https://evereve.com/products/julianne-plaid-blazer-greyplaid"
+    },
+    "evereve_10603634688165": {
+      "title": "Lacey Sheer Top",
+      "first_seen": "2026-11-04T20:21:02.146107+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_PT264130E_olive_0228_1.jpg?v=1793809386",
+      "url": "https://evereve.com/products/lacey-sheer-top-olive"
+    },
+    "evereve_10670884454565": {
+      "title": "Liliana High Rise Flare Pant",
+      "first_seen": "2026-11-04T20:21:02.147281+00:00",
+      "price": 109.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_KB85001_0556_1.jpg?v=1793809396",
+      "url": "https://evereve.com/products/liliana-high-rise-flare-pant-black"
+    },
+    "evereve_10845255893157": {
+      "title": "Luna Relaxed Denim",
+      "first_seen": "2026-11-04T20:21:02.148245+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_W303-155_1995_1.jpg?v=1793809087",
+      "url": "https://evereve.com/products/luna-relaxed-denim-nightfall"
+    },
+    "evereve_10655499813029": {
+      "title": "Memphis Contrast Topstitch Top",
+      "first_seen": "2026-11-04T20:21:02.150424+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_EVFA26KT194-CPW_1436_1.jpg?v=1793808487",
+      "url": "https://evereve.com/products/memphis-contrast-topstitch-top-ivory"
+    },
+    "evereve_10762143695013": {
+      "title": "Monty Burnout Velvet Midi Dress",
+      "first_seen": "2026-11-04T20:21:02.151657+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_12118_0068_1.jpg?v=1793807886",
+      "url": "https://evereve.com/products/monty-burnout-velvet-midi-dress-burgundy-blackikat"
+    },
+    "evereve_10603634360485": {
+      "title": "Nolita Nights Top",
+      "first_seen": "2026-11-04T20:21:02.152307+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_ZT264808E_black_0431_1.jpg?v=1793809687",
+      "url": "https://evereve.com/products/nolita-nights-top-black"
+    },
+    "evereve_10603634819237": {
+      "title": "Nolita Nights Top",
+      "first_seen": "2026-11-04T20:21:02.152314+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_2_ZT264808E_0083_1.jpg?v=1793809696",
+      "url": "https://evereve.com/products/nolita-nights-top-sandstone"
+    },
+    "evereve_10632978858149": {
+      "title": "Odita Skirt",
+      "first_seen": "2026-11-04T20:21:02.152580+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_201209-205D-695_1488_1_ca7ce8d4-68e8-45a9-9f97-3795d51e5c01.jpg?v=1793808201",
+      "url": "https://evereve.com/products/odita-skirt-heathercharcoal"
+    },
+    "evereve_10626654240933": {
+      "title": "Polly Tweed Long Sleeve Top",
+      "first_seen": "2026-11-04T20:21:02.154843+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_EVFA26KT102-MOD_1050_1.jpg?v=1793808489",
+      "url": "https://evereve.com/products/polly-tweed-long-sleeve-top-multi"
+    },
+    "evereve_10626697592997": {
+      "title": "Quinn Skirt",
+      "first_seen": "2026-11-04T20:21:02.155270+00:00",
+      "price": 293.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_QUINN08_0793_1.jpg?v=1793809697",
+      "url": "https://evereve.com/products/quinn-skirt-darkchocolate"
+    },
+    "evereve_10632978923685": {
+      "title": "Romina Skirt",
+      "first_seen": "2026-11-04T20:21:02.156235+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_924-214B-12162_2262_1.jpg?v=1793807887",
+      "url": "https://evereve.com/products/romina-skirt-wine"
+    },
+    "evereve_10602309288101": {
+      "title": "Soiree Stretch Lace Mini",
+      "first_seen": "2026-11-04T20:21:02.158613+00:00",
+      "price": 120.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_ZD264894E_0162_1.jpg?v=1793809387",
+      "url": "https://evereve.com/products/soiree-stretch-lace-mini-black"
+    },
+    "evereve_10626653782181": {
+      "title": "Stella Blouse",
+      "first_seen": "2026-11-04T20:21:02.158928+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_EVSP27WT11-MOD_0646_1.jpg?v=1793818687",
+      "url": "https://evereve.com/products/stella-blouse-cream"
+    },
+    "evereve_10626654372005": {
+      "title": "Tenley Sleeveless Draped Lurex Top",
+      "first_seen": "2026-11-04T20:21:02.160040+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_EVHO26KT58-MOD_0409_1.jpg?v=1793808487",
+      "url": "https://evereve.com/products/tenley-sleeveless-draped-lurex-top-black"
+    },
+    "evereve_10633628123301": {
+      "title": "Tianna Off The Should Sweater",
+      "first_seen": "2026-11-04T20:21:02.162226+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_201209-2876-695_1576_1.jpg?v=1793808198",
+      "url": "https://evereve.com/products/tianna-off-the-should-sweater-heathercharcoal"
+    },
+    "evereve_10626697789605": {
+      "title": "Tina Sweater",
+      "first_seen": "2026-11-04T20:21:02.162425+00:00",
+      "price": 193.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_TINA08_1308_1.jpg?v=1793809687",
+      "url": "https://evereve.com/products/tina-sweater-multi"
+    },
+    "evereve_10845452828837": {
+      "title": "Tux Stripe Column Denim",
+      "first_seen": "2026-11-04T20:21:02.162744+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_W578-195_2127_1.jpg?v=1793809089",
+      "url": "https://evereve.com/products/tux-stripe-column-denim-mocha"
+    },
+    "evereve_10592824754341": {
+      "title": "Tux Stripe Utility Barrel",
+      "first_seen": "2026-11-04T20:21:02.162753+00:00",
+      "price": 278.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_W564-150_1904_1.jpg?v=1793809087",
+      "url": "https://evereve.com/products/tux-stripe-utility-barrel-afterdark"
+    },
+    "evereve_10653695017125": {
+      "title": "Vegan Wrap Skirt",
+      "first_seen": "2026-11-04T20:21:02.163196+00:00",
+      "price": 176.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110226_Ecomm_FW2627_0147_1.jpg?v=1793809705",
+      "url": "https://evereve.com/products/vegan-wrap-skirt-black"
+    },
+    "faherty_8196782129221": {
+      "title": "Embroidered Baseball Hat - Evergreen",
+      "first_seen": "2026-11-04T20:21:40.633677+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MAH2602-EVG_Embroidered_Baseball_Hat_LD_FRONT_1_Web.jpg?v=1793398855",
+      "url": "https://www.fahertybrand.com/products/embroidered-baseball-hat-evergreen"
+    },
+    "faherty_8130632581189": {
+      "title": "Essential Merino Beanie - Classic Navy",
+      "first_seen": "2026-11-04T20:21:40.633892+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0389-412_0021_Web.jpg?v=1793817684",
+      "url": "https://www.fahertybrand.com/products/essential-merino-beanie-classic-navy"
+    },
+    "faherty_8196786356293": {
+      "title": "Evergreen Fairisle Pom Beanie - Black",
+      "first_seen": "2026-11-04T20:21:40.633944+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0397-001_MIDNIGHT_FAIRISLE_POM_BEANIE_LD_BACK_1_Web.jpg?v=1793395654",
+      "url": "https://www.fahertybrand.com/products/evergreen-fairisle-pom-beanie-black"
+    },
+    "faherty_8196786520133": {
+      "title": "Evergreen Fairisle Pom Beanie - Pine Green",
+      "first_seen": "2026-11-04T20:21:40.633952+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0397-335_EVERGREEN_FAIRISLE_POM_BEANIE_LD_BACK_1_Web.jpg?v=1793395872",
+      "url": "https://www.fahertybrand.com/products/evergreen-fairisle-pom-beanie-pine-green"
+    },
+    "faherty_8047197618245": {
+      "title": "Fireside Fleece Full Zip - Navy",
+      "first_seen": "2026-11-04T20:21:40.634891+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_WOH2613-NVY_Fireside_Fleece_Full_Zip_OM_FRONT_CROP_1_Web.jpg?v=1791812249",
+      "url": "https://www.fahertybrand.com/products/fireside-fleece-full-zip-navy"
+    },
+    "faherty_8047182446661": {
+      "title": "Fireside Fleece Pullover - Campfire Sunrise",
+      "first_seen": "2026-11-04T20:21:40.634910+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/PDP_Womens_11.jpg?v=1793742726",
+      "url": "https://www.fahertybrand.com/products/fireside-fleece-pullover-campfire-sunrise"
+    },
+    "faherty_8196786323525": {
+      "title": "Men's Cashmere Beanie - Apple Butter",
+      "first_seen": "2026-11-04T20:21:40.638798+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0383-610_Mens_Cashmere_Beanie_LD_FRONT_1_Web.jpg?v=1793392574",
+      "url": "https://www.fahertybrand.com/products/mens-cashmere-beanie-apple-butter"
+    },
+    "faherty_8196785897541": {
+      "title": "Men's Cashmere Beanie - Charcoal",
+      "first_seen": "2026-11-04T20:21:40.638806+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0383-003_Mens_Cashmere_Beanie_LD_FRONT_1_Web.jpg?v=1793392123",
+      "url": "https://www.fahertybrand.com/products/mens-cashmere-beanie-charcoal"
+    },
+    "faherty_8196786094149": {
+      "title": "Men's Cashmere Scarf - Charcoal",
+      "first_seen": "2026-11-04T20:21:40.638813+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0386-003_Mens_Cashmere_Scarf_LD_FRONT_1_Web.jpg?v=1793392832",
+      "url": "https://www.fahertybrand.com/products/mens-cashmere-scarf-charcoal"
+    },
+    "faherty_8196785963077": {
+      "title": "Midnight Fairisle Scarf - Black",
+      "first_seen": "2026-11-04T20:21:40.639087+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0398-001_MIDNIGHT_FAIRISLE_SCARF_LD_FRONT_1_Web.jpg?v=1792438811",
+      "url": "https://www.fahertybrand.com/products/midnight-fairisle-scarf-black"
+    },
+    "faherty_8196786159685": {
+      "title": "Midnight Fairisle Scarf - Pine Green",
+      "first_seen": "2026-11-04T20:21:40.639095+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/PDP_Womens_4.jpg?v=1793742280",
+      "url": "https://www.fahertybrand.com/products/midnight-fairisle-scarf-pine-green"
+    },
+    "faherty_8196784193605": {
+      "title": "Rainier Single Breasted Coat - Shadow Herringbone",
+      "first_seen": "2026-11-04T20:21:40.641622+00:00",
+      "price": 428.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WOH2616-SHU_Rainier_Single_Breasted_Coat_OM_FULL_BODY_1_Web.jpg?v=1791837283",
+      "url": "https://www.fahertybrand.com/products/rainier-single-breasted-coat-shadow-herringbone"
+    },
+    "faherty_8045976944709": {
+      "title": "Reserve Flannel 5-Pocket Pant - Midnight Navy Melange",
+      "first_seen": "2026-11-04T20:21:40.641831+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBH2607-YNM_Reserve_Flannel_5pocket_Pant_OM_FULL_BODY_1_Web.jpg?v=1792270218",
+      "url": "https://www.fahertybrand.com/products/reserve-flannel-5pocket-pant-midnight-navy-melange"
+    },
+    "faherty_8045977501765": {
+      "title": "Reserve Flannel 5-Pocket Pant - Shore Brown Melange",
+      "first_seen": "2026-11-04T20:21:40.641852+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBH2607-ZBM_Reserve_Flannel_5pocket_Pant_OM_FULL_BODY_1_Web.jpg?v=1792783663",
+      "url": "https://www.fahertybrand.com/products/reserve-flannel-5pocket-pant-shore-brown-melange"
+    },
+    "faherty_8196785602629": {
+      "title": "Sun & Wave Beanie - Black",
+      "first_seen": "2026-11-04T20:21:40.646261+00:00",
+      "price": 78.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0365-001_Sun__Wave_Beanie_LD_FRONT_1_Web.jpg?v=1793391947",
+      "url": "https://www.fahertybrand.com/products/sun-wave-beanie-black"
+    },
+    "faherty_8196786225221": {
+      "title": "Women's Cashmere Beanie - Black",
+      "first_seen": "2026-11-04T20:21:40.651650+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0390-001_Womens_Cashmere_Beanie_LD_FRONT_1_Web.jpg?v=1793393114",
+      "url": "https://www.fahertybrand.com/products/womens-cashmere-beanie-black"
+    },
+    "faherty_8196786585669": {
+      "title": "Women's Cashmere Beanie - Cherry Red",
+      "first_seen": "2026-11-04T20:21:40.651659+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0390-620_Womens_Cashmere_Beanie_LD_FRONT_1_Web.jpg?v=1793393930",
+      "url": "https://www.fahertybrand.com/products/womens-cashmere-beanie-cherry-red"
+    },
+    "faherty_8196786454597": {
+      "title": "Women's Cashmere Beanie - Pine Green",
+      "first_seen": "2026-11-04T20:21:40.651666+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/YC0390-335_Womens_Cashmere_Beanie_LD_FRONT_1_Web.jpg?v=1793393419",
+      "url": "https://www.fahertybrand.com/products/womens-cashmere-beanie-pine-green"
     }
   },
-  "last_run": "2026-11-03T20:01:19.914314+00:00"
+  "last_run": "2026-11-04T20:21:44.180929+00:00"
 }
