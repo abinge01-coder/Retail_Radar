@@ -95696,7 +95696,287 @@
       "price": 298.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/WBH2621-BLK_Zahara_Slip_Skirt_OM_FULL_BODY_1_Web.jpg?v=1793819852",
       "url": "https://www.fahertybrand.com/products/zahara-slip-skirt-black"
+    },
+    "evereve_10555636187301": {
+      "title": "Bresson Fleece Jacket",
+      "first_seen": "2026-11-12T20:42:30.903148+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_VAR03863-S5_1703_01.jpg?v=1794431297",
+      "url": "https://evereve.com/products/bresson-fleece-jacket-peacoat"
+    },
+    "evereve_10555637235877": {
+      "title": "Bruna Zip Through Sweat",
+      "first_seen": "2026-11-12T20:42:30.903456+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_VAR03829_1783_01.jpg?v=1794431305",
+      "url": "https://evereve.com/products/bruna-zip-through-sweat-coffeebean"
+    },
+    "evereve_10622015013029": {
+      "title": "Callum Chevron Turtleneck Pullover",
+      "first_seen": "2026-11-12T20:42:30.903799+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_EVHO26SW31-DH_1089_01.jpg?v=1794431591",
+      "url": "https://evereve.com/products/callum-chevron-turtleneck-pullover-camel-ivory"
+    },
+    "evereve_10593799897253": {
+      "title": "Connie Stripe Shirt",
+      "first_seen": "2026-11-12T20:42:30.905476+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_RA8L26SSMCO_0363_01.jpg?v=1794431599",
+      "url": "https://evereve.com/products/connie-stripe-shirt-burgundystripe"
+    },
+    "evereve_10602416341157": {
+      "title": "Crestview Plaid Skirt",
+      "first_seen": "2026-11-12T20:42:30.905737+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110326_Ecomm_ZK264201E_1969_1.jpg?v=1793905988",
+      "url": "https://evereve.com/products/crestview-plaid-skirt-reddahlia"
+    },
+    "evereve_10620649144485": {
+      "title": "Danica Cable Mini Sweater Dress",
+      "first_seen": "2026-11-12T20:42:30.906046+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_EVHO26KD34-CPW_0629_1.jpg?v=1794431591",
+      "url": "https://evereve.com/products/danica-cable-mini-sweater-dress-ivory"
+    },
+    "evereve_10550952001701": {
+      "title": "Draper Knit Sweater",
+      "first_seen": "2026-11-12T20:42:30.906648+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_VAR03935_2081_01.jpg?v=1794431291",
+      "url": "https://evereve.com/products/draper-knit-sweater-chocolatewine"
+    },
+    "evereve_10627614048421": {
+      "title": "Finn Fair Isle Mock Neck Pullover",
+      "first_seen": "2026-11-12T20:42:30.908221+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_EVHO26SW58-DH_1151_01.jpg?v=1794431590",
+      "url": "https://evereve.com/products/finn-fair-isle-mock-neck-pullover-black-white"
+    },
+    "evereve_10551040737445": {
+      "title": "Hoyland Knit Sweater",
+      "first_seen": "2026-11-12T20:42:30.910649+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_VAR04116_2454_01.jpg?v=1794431300",
+      "url": "https://evereve.com/products/hoyland-knit-sweater-peacoat"
+    },
+    "evereve_10555636220069": {
+      "title": "Kayden Half Zip Sweat",
+      "first_seen": "2026-11-12T20:42:30.912749+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_VAR03836_2178_01.jpg?v=1794431287",
+      "url": "https://evereve.com/products/kayden-half-zip-sweat-coffeebean"
+    },
+    "evereve_10625404633253": {
+      "title": "Lady Lux Layering Top",
+      "first_seen": "2026-11-12T20:42:30.913917+00:00",
+      "price": 40.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_OB1227158_3210_01.jpg?v=1794429186",
+      "url": "https://evereve.com/products/lady-lux-layering-top-chocolatemalt"
+    },
+    "evereve_10510797439141": {
+      "title": "Lexi Mock Neck Pullover",
+      "first_seen": "2026-11-12T20:42:30.914744+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_Ecomm_EVFA26SW34-SW_0069_1.jpg?v=1794512287",
+      "url": "https://evereve.com/products/lexi-mock-neck-pullover-heatheredgrey"
+    },
+    "evereve_10586339115173": {
+      "title": "Miramar Brush Terry Wide Leg",
+      "first_seen": "2026-11-12T20:42:30.917867+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_Ecomm_RC6M26H7MTE_0151_1.jpg?v=1794512289",
+      "url": "https://evereve.com/products/miramar-brush-terry-wide-leg-belmont"
+    },
+    "evereve_10626779512997": {
+      "title": "Sleeveless Dress to Knee",
+      "first_seen": "2026-11-12T20:42:30.923807+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_KK4253PLT08001_0973_01.jpg?v=1794431600",
+      "url": "https://evereve.com/products/sleeveless-dress-to-knee-black"
+    },
+    "evereve_10626713223333": {
+      "title": "Sleeveless Top",
+      "first_seen": "2026-11-12T20:42:30.923836+00:00",
+      "price": 85.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_KK4266PLE91702_0767_01.jpg?v=1794431592",
+      "url": "https://evereve.com/products/sleeveless-top-foxtrot"
+    },
+    "evereve_10755083829413": {
+      "title": "Sleeveless Top",
+      "first_seen": "2026-11-12T20:42:30.923841+00:00",
+      "price": 85.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_KK4256PLE91001_0921_01.jpg?v=1794431591",
+      "url": "https://evereve.com/products/sleeveless-top-black"
+    },
+    "evereve_10626510520485": {
+      "title": "Sundazed Jacquard Cardi",
+      "first_seen": "2026-11-12T20:42:30.924692+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_OB2689171_3035_01.jpg?v=1794429193",
+      "url": "https://evereve.com/products/sundazed-jacquard-cardi-lightgreycombo"
+    },
+    "evereve_10586339508389": {
+      "title": "Sutton Cigarette Jean",
+      "first_seen": "2026-11-12T20:42:30.924778+00:00",
+      "price": 288.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_Ecomm_RJ9526H1SBE_0207_1.jpg?v=1794512287",
+      "url": "https://evereve.com/products/sutton-cigarette-jean-belden"
+    },
+    "evereve_10584342429861": {
+      "title": "The Concert Sweatshirt",
+      "first_seen": "2026-11-12T20:42:30.925600+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_89392-1540-2_2655_01.jpg?v=1794430986",
+      "url": "https://evereve.com/products/the-concert-sweatshirt-mothereagle"
+    },
+    "evereve_10593800061093": {
+      "title": "The Slub Stripe Tee",
+      "first_seen": "2026-11-12T20:42:30.926750+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_RE7M32PT3KW_0424_01.jpg?v=1794431598",
+      "url": "https://evereve.com/products/the-slub-stripe-tee-pnkmt"
+    },
+    "evereve_10584342462629": {
+      "title": "The Vintage Sporty Concert",
+      "first_seen": "2026-11-12T20:42:30.926870+00:00",
+      "price": 150.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_8625-601_2601_01.jpg?v=1794430987",
+      "url": "https://evereve.com/products/the-vintage-sporty-concert-tarragon-white"
+    },
+    "evereve_10602489086117": {
+      "title": "Verity Jacket",
+      "first_seen": "2026-11-12T20:42:30.927822+00:00",
+      "price": 329.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/110926_Ecomm_1J95H04-606_2816_01.jpg?v=1794430987",
+      "url": "https://evereve.com/products/verity-jacket-chestnut"
+    },
+    "faherty_8047163244613": {
+      "title": "Cotton Hemp Long-Sleeve Dress - Baritone Blue",
+      "first_seen": "2026-11-12T20:43:08.225488+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_WDF2636-EIB_Cotton_Hemp_LS_Dress_OM_FRONT_FULL_BODY_1_Web.jpg?v=1789308107",
+      "url": "https://www.fahertybrand.com/products/cotton-hemp-ls-dress-baritone-blue"
+    },
+    "faherty_8047163441221": {
+      "title": "Cotton Hemp Long-Sleeve Dress - Brunette",
+      "first_seen": "2026-11-12T20:43:08.225506+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/A_WDF2636-ETT_Cotton_Hemp_LS_Dress_OM_FRONT_FULL_BODY_1_Web.jpg?v=1789313735",
+      "url": "https://www.fahertybrand.com/products/cotton-hemp-ls-dress-brunette"
+    },
+    "faherty_8045989822533": {
+      "title": "Inlet Knit Blazer - Deep Brown Heather",
+      "first_seen": "2026-11-12T20:43:08.227928+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MOC0010-DRH_Inlet_Knit_Blazer_WS_FULL_BODY_1_Web.jpg?v=1794435537",
+      "url": "https://www.fahertybrand.com/products/inlet-knit-blazer-deep-brown-heather-1"
+    },
+    "faherty_8046213627973": {
+      "title": "Jackson Crew Sweater - Coast Brown",
+      "first_seen": "2026-11-12T20:43:08.228048+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MYF2420-COQ_Jackson_Crew_Sweater_WS_FRONT_CROP_1_Web.jpg?v=1794506724",
+      "url": "https://www.fahertybrand.com/products/jackson-crew-sweater-coast-brown"
+    },
+    "faherty_8045980844101": {
+      "title": "Long-Sleeve Field Knit Polo - Coastal Cream",
+      "first_seen": "2026-11-12T20:43:08.229212+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2615-CTM_Ls_Field_Knit_Polo_WS_FRONT_CROP_1_Web.jpg?v=1794433070",
+      "url": "https://www.fahertybrand.com/products/ls-field-knit-polo-coastal-cream"
+    },
+    "faherty_8045981073477": {
+      "title": "Long-Sleeve Field Knit Polo - Forest Trail",
+      "first_seen": "2026-11-12T20:43:08.229220+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2615-FOA_Ls_Field_Knit_Polo_WS_FRONT_CROP_1_Web.jpg?v=1794433153",
+      "url": "https://www.fahertybrand.com/products/ls-field-knit-polo-forest-trail"
+    },
+    "faherty_8045981302853": {
+      "title": "Long-Sleeve Field Knit Polo - Ridge Black",
+      "first_seen": "2026-11-12T20:43:08.229226+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2615-RIB_Ls_Field_Knit_Polo_WS_FRONT_CROP_1_Web.jpg?v=1794433221",
+      "url": "https://www.fahertybrand.com/products/ls-field-knit-polo-ridge-black"
+    },
+    "faherty_8045982580805": {
+      "title": "Long-Sleeve Field Knit Polo - Storm River Wash",
+      "first_seen": "2026-11-12T20:43:08.229233+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2622-MVW_Ls_Field_Knit_Polo_WS_FRONT_CROP_1_Web.jpg?v=1794433345",
+      "url": "https://www.fahertybrand.com/products/ls-field-knit-polo-storm-river-wash"
+    },
+    "faherty_8046199111749": {
+      "title": "Movement Monterey Shirt - Lakeview Heights Plaid",
+      "first_seen": "2026-11-12T20:43:08.230242+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWS2509-LHQ_Movement_Monterey_Shirt_WS_FRONT_CROP_1_Web.jpg?v=1794436378",
+      "url": "https://www.fahertybrand.com/products/movement-monterey-shirt-lakeview-heights-plaid"
+    },
+    "faherty_8046001717317": {
+      "title": "Movement Popover Hoodie - Sea Sky Feeder",
+      "first_seen": "2026-11-12T20:43:08.230360+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MQF2604-ZZF_Movement_Popover_Hoodie_WS_FRONT_CROP_1_Web.jpg?v=1794435700",
+      "url": "https://www.fahertybrand.com/products/movement-popover-hoodie-sea-sky-feeder-1"
+    },
+    "faherty_8045982384197": {
+      "title": "Short-Sleeve Movement Pique Polo - Spruce Point",
+      "first_seen": "2026-11-12T20:43:08.232689+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKF2409-ZPP_Ss_Movement_Pique_Polo_WS_FRONT_CROP_1_Web.jpg?v=1794432838",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-spruce-point"
+    },
+    "faherty_8045991428165": {
+      "title": "Short-Sleeve Movement Polo - Light Orchid Feeder",
+      "first_seen": "2026-11-12T20:43:08.232729+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2425-LOF_Ss_Movement_Polo_WS_FRONT_CROP_1_Web.jpg?v=1794434213",
+      "url": "https://www.fahertybrand.com/products/ss-movement-polo-light-orchid-feeder"
+    },
+    "faherty_8045979729989": {
+      "title": "Stretch Terry Corduroy 5-Pocket Pant - Abyss Navy",
+      "first_seen": "2026-11-12T20:43:08.233976+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2420-YVY_Stretch_Terry_Corduroy_5_Pocket_WS_FULL_BODY_1_Web_96f00429-5375-4649-a5cb-aa0cdaa633d1.jpg?v=1794431844",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-corduroy-5pocket-pant-abyss-navy"
+    },
+    "faherty_8045977862213": {
+      "title": "Stretch Terry Corduroy 5-Pocket Pant - Tundra Stone",
+      "first_seen": "2026-11-12T20:43:08.234042+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2420-TDI_Stretch_Terry_Corduroy_5_Pocket_WS_FULL_BODY_1_Web.jpg?v=1794431062",
+      "url": "https://www.fahertybrand.com/products/stretch-terry-corduroy-5pocket-pant-tundra-stone"
+    },
+    "faherty_8045994737733": {
+      "title": "Sunwashed Regenerative Pocket Tee - Copper Red",
+      "first_seen": "2026-11-12T20:43:08.235276+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2519-QPR_Sunwashed_Pocket_Tee_WS_FRONT_CROP_1_Web.jpg?v=1794434544",
+      "url": "https://www.fahertybrand.com/products/sunwashed-pocket-tee-copper-red"
+    },
+    "faherty_8049238310981": {
+      "title": "Sunwashed Regenerative Pocket Tee - Seaglass Blue",
+      "first_seen": "2026-11-12T20:43:08.235313+00:00",
+      "price": 68.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2519-SLU_Sunwashed_Pocket_Tee_WS_FRONT_CROP_1_Web.jpg?v=1794434617",
+      "url": "https://www.fahertybrand.com/products/sunwashed-pocket-tee-seaglass-blue"
+    },
+    "faherty_8047151808581": {
+      "title": "The Movement Shirt - Sage Island Plaid",
+      "first_seen": "2026-11-12T20:43:08.236361+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MWC0082-ZIP_The_Movement_Shirt_WS_FRONT_CROP_1_Web.jpg?v=1794436181",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-sage-island-plaid"
+    },
+    "faherty_8045977632837": {
+      "title": "Whitewater Sweatpant - Forest Grove",
+      "first_seen": "2026-11-12T20:43:08.237785+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBS2402-FSV_Whitewater_Sweatpant_WS_FULL_BODY_1_Web.jpg?v=1794432500",
+      "url": "https://www.fahertybrand.com/products/whitewater-sweatpant-forest-grove"
     }
   },
-  "last_run": "2026-11-11T20:05:02.614139+00:00"
+  "last_run": "2026-11-12T20:43:12.232168+00:00"
 }
