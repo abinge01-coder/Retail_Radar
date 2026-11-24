@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T20:02:49.990405+00:00",
-  "meta_date": "2026-11-23",
+  "generated_at": "2026-11-24T19:27:32.790406+00:00",
+  "meta_date": "2026-11-24",
   "sources_checked": [
     "hearthstone.blizzard.com/news"
   ],
@@ -8,12 +8,32 @@
   "hsreplay_heroes": null,
   "patch_notes": [
     {
-      "title": "Hearthstone Updates",
+      "title": "Battlegrounds Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
     {
-      "title": "Assemble Pool Update",
+      "title": "Hero Updates",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Deity Update",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Functionality Update",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "New Battlegrounds Rewards Track",
+      "url": "https://hearthstone.blizzard.com/en-us/news",
+      "date": ""
+    },
+    {
+      "title": "Battlegrounds Early Access Challenge (with Drops!)",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     },
@@ -23,27 +43,7 @@
       "date": ""
     },
     {
-      "title": "Battlegrounds Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Minion and Spell Updates",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "General Battlegrounds Changes",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Hearthstone",
-      "url": "https://hearthstone.blizzard.com/en-us/news",
-      "date": ""
-    },
-    {
-      "title": "Deck Recipe Updates",
+      "title": "Hearthstone Updates",
       "url": "https://hearthstone.blizzard.com/en-us/news",
       "date": ""
     }
