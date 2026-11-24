@@ -97278,7 +97278,378 @@
       "price": 198.0,
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MBF2440-LIR_StretchTerry5pocket_OM_FULL_BODY_1_Web.jpg?v=1795454280",
       "url": "https://www.fahertybrand.com/products/stretch-terry-5pocket-light-rye"
+    },
+    "evereve_10634996809893": {
+      "title": "Aiden Flannel Shirt",
+      "first_seen": "2026-11-24T22:57:36.009861+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_DecEcomm_EVHO26WT23-SL_1306_1.jpg?v=1795531404",
+      "url": "https://evereve.com/products/aiden-flannel-shirt-blueplaid"
+    },
+    "evereve_10603634065573": {
+      "title": "Alison Button Up",
+      "first_seen": "2026-11-24T22:57:36.010335+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_PT263070E_0102_1.jpg?v=1795532008",
+      "url": "https://evereve.com/products/alison-button-up-clematisblue"
+    },
+    "evereve_10604697747621": {
+      "title": "Arellia Skimmer W/ Twisted Outseam",
+      "first_seen": "2026-11-24T22:57:36.011504+00:00",
+      "price": 279.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_1V67R05-D398_1038_1.jpg?v=1795531686",
+      "url": "https://evereve.com/products/arellia-skimmer-w-twisted-outseam-vintagesandmarble"
+    },
+    "evereve_10602489053349": {
+      "title": "Baylor Bomber Jacket",
+      "first_seen": "2026-11-24T22:57:36.012618+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_DecEcomm_26524G043-BN_1733_1.jpg?v=1795531695",
+      "url": "https://evereve.com/products/baylor-bomber-jacket-bone"
+    },
+    "evereve_10603634622629": {
+      "title": "Bree Henley Top",
+      "first_seen": "2026-11-24T22:57:36.013876+00:00",
+      "price": 64.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_PT264132E_0253_1.jpg?v=1795531100",
+      "url": "https://evereve.com/products/bree-henley-top-feathergrey"
+    },
+    "evereve_10650771587237": {
+      "title": "Britta Cozy Hoodie",
+      "first_seen": "2026-11-24T22:57:36.014167+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_EVHO26KT85-MOD_0362_1.jpg?v=1795538287",
+      "url": "https://evereve.com/products/britta-cozy-hoodie-grey"
+    },
+    "evereve_10632922726565": {
+      "title": "Brodie Shirt",
+      "first_seen": "2026-11-24T22:57:36.014187+00:00",
+      "price": 215.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_X6OKJ067_0764_1.jpg?v=1795537691",
+      "url": "https://evereve.com/products/brodie-shirt-pondgreen"
+    },
+    "evereve_10628638212261": {
+      "title": "Carmen Cozy Off Shoulder Pullover",
+      "first_seen": "2026-11-24T22:57:36.014955+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_DecEcomm_EE2060_1836_1.jpg?v=1795531696",
+      "url": "https://evereve.com/products/carmen-cozy-off-shoulder-pullover-charcoal"
+    },
+    "evereve_10603635605669": {
+      "title": "Celebrate Tee",
+      "first_seen": "2026-11-24T22:57:36.015200+00:00",
+      "price": 48.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_PT264122E_2780_1.jpg?v=1795531694",
+      "url": "https://evereve.com/products/celebrate-tee-seasalt"
+    },
+    "evereve_10626603122853": {
+      "title": "Cheers Cozy Sweatshirt",
+      "first_seen": "2026-11-24T22:57:36.015441+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_7WCCHEERWBK_2873_1.jpg?v=1795531395",
+      "url": "https://evereve.com/products/cheers-cozy-sweatshirt-black"
+    },
+    "evereve_10594516631717": {
+      "title": "Cloud 9 Fleece Half Zip",
+      "first_seen": "2026-11-24T22:57:36.016174+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260202052376_1194_1.jpg?v=1795530786",
+      "url": "https://evereve.com/products/cloud-9-fleece-half-zip-antiquewhite"
+    },
+    "evereve_10594533310629": {
+      "title": "Cloud 9 Fleece Jogger",
+      "first_seen": "2026-11-24T22:57:36.016181+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260205102399_1255_1.jpg?v=1795530794",
+      "url": "https://evereve.com/products/cloud-9-fleece-jogger-antiquewhite"
+    },
+    "evereve_10594533441701": {
+      "title": "Cloud 9 Fleece Jogger",
+      "first_seen": "2026-11-24T22:57:36.016189+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260205102364_1730_1.jpg?v=1795530786",
+      "url": "https://evereve.com/products/cloud-9-fleece-jogger-poinsettia"
+    },
+    "evereve_10594533540005": {
+      "title": "Cloud 9 Fleece Jogger",
+      "first_seen": "2026-11-24T22:57:36.016195+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260205102364_grey_2077_1.jpg?v=1795534387",
+      "url": "https://evereve.com/products/cloud-9-fleece-jogger-heathergrey-1"
+    },
+    "evereve_10594516566181": {
+      "title": "Cloud 9 Fleece Mock Neck",
+      "first_seen": "2026-11-24T22:57:36.016202+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260202052356-S5_1669_1.jpg?v=1795530486",
+      "url": "https://evereve.com/products/cloud-9-fleece-mock-neck-red"
+    },
+    "evereve_10866760482981": {
+      "title": "Cloud 9 Fleece Mock Neck",
+      "first_seen": "2026-11-24T22:57:36.016210+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260202052575_1965_1.jpg?v=1795534387",
+      "url": "https://evereve.com/products/cloud-9-fleece-mock-neck-heathergrey-1"
+    },
+    "evereve_10594517024933": {
+      "title": "Cloud 9 Fleece Reversible Crewneck",
+      "first_seen": "2026-11-24T22:57:36.016217+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260202052350_1825_1.jpg?v=1795531115",
+      "url": "https://evereve.com/products/cloud-9-fleece-reversible-crewneck-camel-redstripe"
+    },
+    "evereve_10602694705317": {
+      "title": "Coco Fur Jacket",
+      "first_seen": "2026-11-24T22:57:36.016327+00:00",
+      "price": 169.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/101926_DecEcomm_CJ1121EO2_dec_2364_1.jpg?v=1795531386",
+      "url": "https://evereve.com/products/coco-fur-jacket-fog"
+    },
+    "evereve_10594533277861": {
+      "title": "Dara Sherpa Jacket",
+      "first_seen": "2026-11-24T22:57:36.017192+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_4260203092331_1525_1.jpg?v=1795531129",
+      "url": "https://evereve.com/products/dara-sherpa-jacket-lattemultistripe"
+    },
+    "evereve_10585720422565": {
+      "title": "Donny Rolled Hem Boyfriend Jean",
+      "first_seen": "2026-11-24T22:57:36.017754+00:00",
+      "price": 188.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_P00016460-DR_0168_1.jpg?v=1795531387",
+      "url": "https://evereve.com/products/donny-rolled-hem-boyfriend-jean-magnolia"
+    },
+    "evereve_10555697987749": {
+      "title": "Eli Jogger 27",
+      "first_seen": "2026-11-24T22:57:36.018103+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/101926_DecEcomm_VAR03569-B_2481_1.jpg?v=1795532286",
+      "url": "https://evereve.com/products/eli-jogger-27-slateblack-1"
+    },
+    "evereve_10615296622757": {
+      "title": "Esme Marled Crew Pullover",
+      "first_seen": "2026-11-24T22:57:36.018738+00:00",
+      "price": 129.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_110054613_2428_1.jpg?v=1795531387",
+      "url": "https://evereve.com/products/esme-marled-crew-pullover-poppyredcombo"
+    },
+    "evereve_10649843433637": {
+      "title": "Fair Isle Crew Neck Sweater",
+      "first_seen": "2026-11-24T22:57:36.019165+00:00",
+      "price": 89.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_CW1977QG9_2648_1.jpg?v=1795532295",
+      "url": "https://evereve.com/products/fair-isle-crew-neck-sweater-frostedoat-chalk-blk"
+    },
+    "evereve_10594370486437": {
+      "title": "Fran Jean",
+      "first_seen": "2026-11-24T22:57:36.019808+00:00",
+      "price": 258.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_A9157-1810_0841_1.jpg?v=1795532286",
+      "url": "https://evereve.com/products/fran-jean-intersection"
+    },
+    "evereve_10496339476645": {
+      "title": "Jade Zipper Balloon Pant",
+      "first_seen": "2026-11-24T22:57:36.022790+00:00",
+      "price": 138.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_DecEcomm_EVFA26WB45-ST_1517_1.jpg?v=1795531686",
+      "url": "https://evereve.com/products/jade-zipper-balloon-pant-black"
+    },
+    "evereve_10627479044261": {
+      "title": "Jessie Cardigan",
+      "first_seen": "2026-11-24T22:57:36.023369+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_EVE25H-01S-SS-S5_2316_1.jpg?v=1795531396",
+      "url": "https://evereve.com/products/jessie-cardigan-multistripe"
+    },
+    "evereve_10873552863397": {
+      "title": "Kali Crepe Pull On",
+      "first_seen": "2026-11-24T22:57:36.024350+00:00",
+      "price": 108.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_EVHO26WB79-MOD_0642_1.jpg?v=1795532595",
+      "url": "https://evereve.com/products/kali-crepe-pull-on-ivory"
+    },
+    "evereve_10629677318309": {
+      "title": "Karli Long Sleeve Twofer Tee",
+      "first_seen": "2026-11-24T22:57:36.024429+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_EVHO26KT167-GX_0159_1.jpg?v=1795531092",
+      "url": "https://evereve.com/products/karli-long-sleeve-twofer-tee-heathergrey"
+    },
+    "evereve_10602444390565": {
+      "title": "Krista Quilt Mix Jacket",
+      "first_seen": "2026-11-24T22:57:36.025351+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_EVHO26WJ11-BN_0444_1.jpg?v=1795532024",
+      "url": "https://evereve.com/products/krista-quilt-mix-jacket-navy"
+    },
+    "evereve_10602444521637": {
+      "title": "Leya Zip Jacket",
+      "first_seen": "2026-11-24T22:57:36.026500+00:00",
+      "price": 168.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_DecEcomm_EVFA26WJ11-BN_1476_1.jpg?v=1795531986",
+      "url": "https://evereve.com/products/leya-zip-jacket-oatmeal"
+    },
+    "evereve_10633057173669": {
+      "title": "Liesel Dress",
+      "first_seen": "2026-11-24T22:57:36.026545+00:00",
+      "price": 375.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_X4AMS049_0006_1.jpg?v=1795531387",
+      "url": "https://evereve.com/products/liesel-dress-durangocreme"
+    },
+    "evereve_10602694672549": {
+      "title": "Lift Sherpa Jacket",
+      "first_seen": "2026-11-24T22:57:36.026552+00:00",
+      "price": 139.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_CJ1267GQ1_0290_1.jpg?v=1795531987",
+      "url": "https://evereve.com/products/lift-sherpa-jacket-chalk-inkwell"
+    },
+    "evereve_10595776528549": {
+      "title": "Melody Relaxed Mock Neck Tee",
+      "first_seen": "2026-11-24T22:57:36.029404+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_EVHO26KT101-SU_0256_1.jpg?v=1795537987",
+      "url": "https://evereve.com/products/melody-relaxed-mock-neck-tee-white"
+    },
+    "evereve_10594549268645": {
+      "title": "Mikos Wide Leg Track Pant",
+      "first_seen": "2026-11-24T22:57:36.029730+00:00",
+      "price": 172.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_B132-Mikos_1413_1.jpg?v=1795531686",
+      "url": "https://evereve.com/products/mikos-wide-leg-track-pant-trueblack"
+    },
+    "evereve_10586339213477": {
+      "title": "Miramar Mallow Wide Leg",
+      "first_seen": "2026-11-24T22:57:36.030041+00:00",
+      "price": 228.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_RC5D26F7MSP-a_1146_1.jpg?v=1795531987",
+      "url": "https://evereve.com/products/miramar-mallow-wide-leg-ansonia"
+    },
+    "evereve_10603827953829": {
+      "title": "Petra Plaid Shrunken Jacket",
+      "first_seen": "2026-11-24T22:57:36.033122+00:00",
+      "price": 148.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_ZJ264791E_0055_1.jpg?v=1795531395",
+      "url": "https://evereve.com/products/petra-plaid-shrunken-jacket-lighttoffee"
+    },
+    "evereve_10626603090085": {
+      "title": "Resolution Mushie Tee",
+      "first_seen": "2026-11-24T22:57:36.034211+00:00",
+      "price": 75.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_2WTRESOLWWH_1046_1.jpg?v=1795531996",
+      "url": "https://evereve.com/products/resolution-mushie-tee-white"
+    },
+    "evereve_10633057042597": {
+      "title": "Sparrow Sweater",
+      "first_seen": "2026-11-24T22:57:36.037065+00:00",
+      "price": 198.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_X9SFK046_0536_1.jpg?v=1795537995",
+      "url": "https://evereve.com/products/sparrow-sweater-inkycream"
+    },
+    "evereve_10599597998245": {
+      "title": "Stones Throw Bomber",
+      "first_seen": "2026-11-24T22:57:36.037351+00:00",
+      "price": 128.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_15JP4721EE_2519_1.jpg?v=1795532294",
+      "url": "https://evereve.com/products/stones-throw-bomber-sandcombo"
+    },
+    "evereve_10602416439461": {
+      "title": "Take it Easy Pant",
+      "first_seen": "2026-11-24T22:57:36.037852+00:00",
+      "price": 98.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_ZP264922E_0529_1.jpg?v=1795532587",
+      "url": "https://evereve.com/products/take-it-easy-pant-heatherash"
+    },
+    "evereve_10602323673253": {
+      "title": "Take It Easy Sweater",
+      "first_seen": "2026-11-24T22:57:36.037859+00:00",
+      "price": 88.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_ZW264921E_0731_1.jpg?v=1795532287",
+      "url": "https://evereve.com/products/take-it-easy-sweater-heatherash"
+    },
+    "evereve_8768779354277": {
+      "title": "The Half Pipe Ankle",
+      "first_seen": "2026-11-24T22:57:36.039002+00:00",
+      "price": 238.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_10926-544_0924_1.jpg?v=1795532000",
+      "url": "https://evereve.com/products/the-half-pipe-ankle-actnatural"
+    },
+    "evereve_10633045606565": {
+      "title": "Theo Pant",
+      "first_seen": "2026-11-24T22:57:36.040153+00:00",
+      "price": 178.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111226_DecEcomm_X8OKJ046_0855_1.jpg?v=1795537986",
+      "url": "https://evereve.com/products/theo-pant-pondgreen"
+    },
+    "evereve_10592839270565": {
+      "title": "Track Stripe Joss Wide Leg",
+      "first_seen": "2026-11-24T22:57:36.040578+00:00",
+      "price": 288.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_W572-221_0460_1.jpg?v=1795532286",
+      "url": "https://evereve.com/products/track-stripe-joss-wide-leg-bone"
+    },
+    "evereve_10592839303333": {
+      "title": "Utility Soft Barrel",
+      "first_seen": "2026-11-24T22:57:36.040864+00:00",
+      "price": 258.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_W528-197_1391_1.jpg?v=1795531087",
+      "url": "https://evereve.com/products/utility-soft-barrel-northstar"
+    },
+    "evereve_10594549137573": {
+      "title": "Vintage Straight Jean",
+      "first_seen": "2026-11-24T22:57:36.041363+00:00",
+      "price": 158.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/102026_DecEcomm_VIST062-SB_0946_1.jpg?v=1795531387",
+      "url": "https://evereve.com/products/vintage-straight-jean-silverbirch"
+    },
+    "evereve_10635396415653": {
+      "title": "Zaya Zip Front Textured Hoodie",
+      "first_seen": "2026-11-24T22:57:36.042146+00:00",
+      "price": 118.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/111026_DecEcomm_EVHO26SW09-DH_2198_1.jpg?v=1795532311",
+      "url": "https://evereve.com/products/zaya-zip-front-textured-hoodie-heatheroatmeal"
+    },
+    "evereve_10633628090533": {
+      "title": "Zoie Lace Trim Pullover",
+      "first_seen": "2026-11-24T22:57:36.042247+00:00",
+      "price": 268.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0638/1561/4629/files/092226_DecEcomm_813B-350F-12245_0825_1.jpg?v=1795532303",
+      "url": "https://evereve.com/products/zoie-lace-trim-pullover-espressobluelace"
+    },
+    "faherty_6903963516997": {
+      "title": "Short-Sleeve Movement Pique Polo - Clean Lake Feeder",
+      "first_seen": "2026-11-24T22:58:07.652401+00:00",
+      "price": 34.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP24-faherty-MKS2412-CLK-ss-pique-polo-clean-lake-feeder_OM_FRONT_CROP_1.jpg?v=1753274406",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-clean-lake-feeder-1"
+    },
+    "faherty_7055886516293": {
+      "title": "Short-Sleeve Movement Polo - Sunbeam Heather",
+      "first_seen": "2026-11-24T22:58:07.652628+00:00",
+      "price": 34.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU24-faherty-MKS2425-SUH-ss-movement-polo-sunbeam-heather_OM_EDITORIAL_1.jpg?v=1753274140",
+      "url": "https://www.fahertybrand.com/products/ss-movement-polo-sunbeam-heather"
+    },
+    "faherty_8045991067717": {
+      "title": "Sunwashed Tee - Granite Heather",
+      "first_seen": "2026-11-24T22:58:07.656126+00:00",
+      "price": 54.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MKS2501-GHE_Sunwashed_Tee_LD_FRONT_1_Web.jpg?v=1786483596",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tee-granite-heather-1"
+    },
+    "faherty_6862155317317": {
+      "title": "Sunwashed Tee - Heather Grey",
+      "first_seen": "2026-11-24T22:58:07.656134+00:00",
+      "price": 19.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FAH2092_FA24-faherty-MKF2353-HGY-SUNWASHED_TEE-HEATHER_GREY_OM_FRONT_CROP_1_249cb169-2c9d-461c-8d59-e21b006da6ff.jpg?v=1753274826",
+      "url": "https://www.fahertybrand.com/products/sunwashed-tee-heather-grey"
+    },
+    "faherty_8196781867077": {
+      "title": "Woven Patch Baseball Hat - Navy",
+      "first_seen": "2026-11-24T22:58:07.658747+00:00",
+      "price": 58.0,
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/MAH2603-NVY.jpg?v=1795554319",
+      "url": "https://www.fahertybrand.com/products/woven-patch-baseball-hat-navy"
     }
   },
-  "last_run": "2026-11-24T00:40:21.900266+00:00"
+  "last_run": "2026-11-24T22:58:10.871719+00:00"
 }
